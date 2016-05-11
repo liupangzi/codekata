@@ -13,3 +13,4 @@ Solutions for https://projecteuler.net/archives
 | [[6] SumSquareDifference](https://projecteuler.net/problem=6) | [Go](./6.SumSquareDifference/go.go) / [Rust](./6.SumSquareDifference/rust.rs) |
 | [[7] 10001st Prime](https://projecteuler.net/problem=7) | [Go](./7.10001stPrime/go.go) / [Rust](./7.10001stPrime/rust.rs) |
 | [[8] Largest Product In A Series](https://projecteuler.net/problem=8) | [Go](./8.LargestProductInASeries/go.go) / [Rust](./8.LargestProductInASeries/rust.rs) |
+| [[9] Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Go](./9.SpecialPythagoreanTriplet/go.go) / [Rust](./9.SpecialPythagoreanTriplet/rust.rs) |

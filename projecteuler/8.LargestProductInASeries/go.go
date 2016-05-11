@@ -1,7 +1,6 @@
 package main
 
 import (
-    "fmt"
     "strings"
     "strconv"
 )
@@ -9,19 +8,19 @@ import (
 func max_product(s string) int64 {
     start := 0
     var max int64 = 0
+
     for start + 12 < len(s) {
         if tmp, err := strconv.ParseInt(s[start:start + 13], 10, 64); err == nil {
             var tmp_product int64 = 1
             for tmp > 0 {
-                tmp_product = tmp_product * (tmp % 10)
-                tmp = tmp / 10
+                tmp_product *= tmp % 10
+                tmp /= 10
             }
 
             if tmp_product > max {
                 max = tmp_product
             }
         }
-
         start++
     }
 
@@ -39,5 +38,5 @@ func main(){
         }
     }
 
-    fmt.Println(result)
+    print(result, "\n")
 }

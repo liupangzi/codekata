@@ -1,10 +1,10 @@
-fn max_product(s: String) -> u64 {
+fn max_product(s: &str) -> u64 {
     let mut start = 0;
     let mut max: u64 = 0;
 
     while start + 12 < s.len() {
-        let substr = &s[start..start + 12];
-        let mut tmp = substr.parse::<u64>();
+        let substr: &str = &s[start..start + 13];
+        let mut tmp: u64 = substr.parse::<u64>().unwrap();
         let mut tmp_product: u64 = 1;
 
         while tmp > 0 {
@@ -27,31 +27,13 @@ fn main() {
     let mut result: u64 = 0;
 
     for s in array_s {
-        if s.len() > 12 && max_product(s) > result {
-            result = max_product(s)
+        if s.len() > 12 {
+            let product: u64 = max_product(s);
+            if product > result {
+                result = product;
+            }
         }
     }
 
-    println!("{}", result)
-    //while count < max_count {
-    //    result = 6 * k - 1;
-    //    if result % 5 != 0 && optimized_is_prime(result) {
-    //        count += 1;
-    //        if count == max_count {
-    //            break;
-    //        }
-    //    }
-    //
-    //    result += 2;
-    //    if result % 5 != 0 && optimized_is_prime(result) {
-    //        count += 1;
-    //        if count == max_count {
-    //            break;
-    //        }
-    //    }
-    //
-    //    k += 1;
-    //}
-    //
-    //println!("{}", result);
+    println!("{}", result);
 }

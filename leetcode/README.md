@@ -1,7 +1,7 @@
 leetcode-solutions
 ===================
 
-Java Solutions for http://oj.leetcode.com/problems/
+Java Solutions for https://leetcode.com/problemset/algorithms/
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |

@@ -1,8 +1,6 @@
 fn main() {
-    let mut a = 1;
-    let mut b = 2;
-    let mut i = 0;
-    let mut result = 2;
+    let (mut a, mut b) = (1, 2);
+    let (mut i, mut result) = (0, 2);
 
     loop {
         for x in 0..3 {

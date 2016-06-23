@@ -7,15 +7,15 @@ func main(){
     for {
         // odd, odd, even
         for count := 0; count < 3; count++ {
-            i = a + b;
-            a = b;
-            b = i;
+            i = a + b
+            a = b
+            b = i
         }
 
         if i <= 4000000 {
-            result = result + i;
+            result += i;
         } else {
-            break;
+            break
         }
     }
 

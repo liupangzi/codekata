@@ -11,3 +11,4 @@ Solutions for https://projecteuler.net/archives
 | [[4] Largest Palindrome Product](https://projecteuler.net/problem=4) | [Go](./4.LargestPalindromeProduct/go.go) / [Rust](./4.LargestPalindromeProduct/rust.rs) |
 | [[5] Smallest Multiple](https://projecteuler.net/problem=5) | [Go](./5.SmallestMultiple/go.go) / [Rust](./5.SmallestMultiple/rust.rs) |
 | [[6] SumSquareDifference](https://projecteuler.net/problem=6) | [Go](./6.SumSquareDifference/go.go) / [Rust](./6.SumSquareDifference/rust.rs) |
+| [[7] 10001st Prime](https://projecteuler.net/problem=7) | [Go](./7.10001stPrime/go.go) / [Rust](./7.10001stPrime/rust.rs) |

@@ -13,7 +13,7 @@ func main(){
         }
 
         if i <= 4000000 {
-            result += i;
+            result += i
         } else {
             break
         }

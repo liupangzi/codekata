@@ -12,7 +12,7 @@ func main(){
 
     for i := 11; i < 21; i++ {
         if gcd(result, i) != i {
-            result *= i / gcd(result, i);
+            result *= i / gcd(result, i)
         }
     }
 

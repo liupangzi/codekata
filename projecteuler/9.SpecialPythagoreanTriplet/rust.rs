@@ -1,5 +1,5 @@
 fn main() {
-    let s: i64 = 1000;
+    let s: i64 = 24;
     let half_s: i64 = s / 2;
     let m_limit: i64 = (s as f64).sqrt() as i64 + 1;
     // let a = (m^2 - n^2) ·d
@@ -39,10 +39,15 @@ fn main() {
                 m + 2
             };
 
-            let k_end = if 2 * m  < s / (2 * m)  {
+            let mut half_s_div_m: i64 = s / (2 * m);
+            while half_s_div_m % 2 == 0 {
+                half_s_div_m = half_s_div_m / 2;
+            }
+
+            let k_end = if 2 * m  < half_s_div_m  {
                 2 * m
             } else {
-                s / 2 * m
+                half_s_div_m + 1
             };
 
             for k in k_start..k_end {
@@ -54,7 +59,9 @@ fn main() {
                     let b: i64 = (2 * m * n) * d;
                     let c: i64 = (m * m + n * n) * d;
                     println!("a: {}, b: {}, c: {}", a, b ,c);
+                    break;
                 }
+                // k += 2;
             }
         }
     }

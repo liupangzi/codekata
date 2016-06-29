@@ -16,3 +16,4 @@ Solutions for https://projecteuler.net/archives
 | [[9] Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Go](./9.SpecialPythagoreanTriplet/go.go) / [Rust](./9.SpecialPythagoreanTriplet/rust.rs) |
 | [[10] Summation Of Primes](https://projecteuler.net/problem=10) | [Go](./10.SummationOfPrimes/go.go) / [Rust](./10.SummationOfPrimes/rust.rs) |
 | [[11] Largest Product In A Grid](https://projecteuler.net/problem=11) | [Go](./11.LargestProductInAGrid/go.go) / [Rust](./11.LargestProductInAGrid/rust.rs) |
+| [[12] Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | [Go](./12.HighlyDivisibleTriangularNumber/go.go) / [Rust](./12.HighlyDivisibleTriangularNumber/rust.rs) |

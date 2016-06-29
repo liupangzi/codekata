@@ -15,3 +15,4 @@ Solutions for https://projecteuler.net/archives
 | [[8] Largest Product In A Series](https://projecteuler.net/problem=8) | [Go](./8.LargestProductInASeries/go.go) / [Rust](./8.LargestProductInASeries/rust.rs) |
 | [[9] Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Go](./9.SpecialPythagoreanTriplet/go.go) / [Rust](./9.SpecialPythagoreanTriplet/rust.rs) |
 | [[10] Summation Of Primes](https://projecteuler.net/problem=10) | [Go](./10.SummationOfPrimes/go.go) / [Rust](./10.SummationOfPrimes/rust.rs) |
+| [[11] Largest Product In A Grid](https://projecteuler.net/problem=11) | [Go](./11.LargestProductInAGrid/go.go) / [Rust](./11.LargestProductInAGrid/rust.rs) |

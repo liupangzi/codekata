@@ -18,3 +18,4 @@ Solutions for https://projecteuler.net/archives
 | [[11] Largest Product In A Grid](https://projecteuler.net/problem=11) | [Go](./11.LargestProductInAGrid/go.go) / [Rust](./11.LargestProductInAGrid/rust.rs) |
 | [[12] Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | [Go](./12.HighlyDivisibleTriangularNumber/go.go) / [Rust](./12.HighlyDivisibleTriangularNumber/rust.rs) |
 | [[13] Large Sum](https://projecteuler.net/problem=13) | [Go](./13.LargeSum/go.go) / [Rust](./13.LargeSum/rust.rs) |
+| [[14] Longest Collatz Sequence](https://projecteuler.net/problem=14) | [Go](./14.LongestCollatzSequence/go.go) / [Rust](./14.LongestCollatzSequence/rust.rs) |

@@ -20,3 +20,4 @@ Solutions for https://projecteuler.net/archives
 | [[13] Large Sum](https://projecteuler.net/problem=13) | [Go](./13.LargeSum/go.go) / [Rust](./13.LargeSum/rust.rs) |
 | [[14] Longest Collatz Sequence](https://projecteuler.net/problem=14) | [Go](./14.LongestCollatzSequence/go.go) / [Rust](./14.LongestCollatzSequence/rust.rs) |
 | [[15] Lattice Paths](https://projecteuler.net/problem=15) | [Go](./15.LatticePaths/go.go) / [Rust](./15.LatticePaths/rust.rs) / [Elixir](./15.LatticePaths/elixir.exs) |
+| [[16] Power Digit Sum](https://projecteuler.net/problem=16) | [Go](./16.PowerDigitSum/go.go) / [Rust](./16.PowerDigitSum/rust.rs) |

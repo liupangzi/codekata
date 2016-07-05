@@ -21,3 +21,4 @@ Solutions for https://projecteuler.net/archives
 | [[14] Longest Collatz Sequence](https://projecteuler.net/problem=14) | [Go](./14.LongestCollatzSequence/go.go) / [Rust](./14.LongestCollatzSequence/rust.rs) |
 | [[15] Lattice Paths](https://projecteuler.net/problem=15) | [Go](./15.LatticePaths/go.go) / [Rust](./15.LatticePaths/rust.rs) / [Elixir](./15.LatticePaths/elixir.exs) |
 | [[16] Power Digit Sum](https://projecteuler.net/problem=16) | [Go](./16.PowerDigitSum/go.go) / [Rust](./16.PowerDigitSum/rust.rs) |
+| [[17] Number Letter Counts](https://projecteuler.net/problem=17) | [Go](./17.NumberLetterCounts/go.go) / [Rust](./17.NumberLetterCounts/rust.rs) |

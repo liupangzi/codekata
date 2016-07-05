@@ -23,3 +23,4 @@ Solutions for https://projecteuler.net/archives
 | [[16] Power Digit Sum](https://projecteuler.net/problem=16) | [Go](./16.PowerDigitSum/go.go) / [Rust](./16.PowerDigitSum/rust.rs) |
 | [[17] Number Letter Counts](https://projecteuler.net/problem=17) | [Go](./17.NumberLetterCounts/go.go) / [Rust](./17.NumberLetterCounts/rust.rs) |
 | [[18] Maximum Path Sum I](https://projecteuler.net/problem=18) | [Go](./18.MaximumPathSumI/go.go) / [Rust](./18.MaximumPathSumI/rust.rs) |
+| [[67] Maximum Path Sum II](https://projecteuler.net/problem=67) | [Go](./67.MaximumPathSumII/go.go) / [Rust](./67.MaximumPathSumII/rust.rs) |

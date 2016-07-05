@@ -11,23 +11,24 @@ fn main() {
 
     let mut result = 0;
     for count in 1..1000 {
-        if count % 100 == 0 {
-            result = result + ones[count / 100];
-            result = result + hundred.len();
-            continue;
-        }
-
+        // < 20
         if count % 100 < 20 {
             result = result + ones[count % 100];
-        } else if count % 10 == 0 {
-            result = result + tens[(count % 100) / 10];
         } else {
-            result = result + ones[count % 10];
-            result = result + tens[(count % 100) / 10];
+            // 20, 30, 40, 50, 60, 70, 80 ,90
+            result = result + if count % 10 == 0 {
+                tens[(count % 100) / 10]
+            } else {
+                ones[count % 10] + tens[(count % 100) / 10]
+            };
         }
         
-        if count / 100 > 0 {
-            result = result + ones[count / 100] + hundredand.len();
+        if count > 99 {
+            result = result + if count % 100 == 0 {
+                ones[count / 100] + hundred.len()
+            } else {
+                ones[count / 100] + hundredand.len()
+            };
         }
     }
 

@@ -24,4 +24,5 @@ Solutions for https://projecteuler.net/archives
 | [[17] Number Letter Counts](https://projecteuler.net/problem=17) | [Go](./17.NumberLetterCounts/go.go) / [Rust](./17.NumberLetterCounts/rust.rs) |
 | [[18] Maximum Path Sum I](https://projecteuler.net/problem=18) | [Go](./18.MaximumPathSumI/go.go) / [Rust](./18.MaximumPathSumI/rust.rs) |
 | [[19] Counting Sundays](https://projecteuler.net/problem=19) | [Go](./19.CountingSundays/go.go) / [Rust](./19.CountingSundays/rust.rs) |
+| [[20] Factorial Digit Sum](https://projecteuler.net/problem=20) | [Go](./20.FactorialDigitSum/go.go) / [Rust](./20.FactorialDigitSum/rust.rs) |
 | [[67] Maximum Path Sum II](https://projecteuler.net/problem=67) | [Go](./67.MaximumPathSumII/go.go) / [Rust](./67.MaximumPathSumII/rust.rs) |

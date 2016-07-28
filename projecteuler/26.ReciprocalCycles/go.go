@@ -4,11 +4,11 @@ import "time"
 
 func get_cycle_length(number int) int {
     result := 1
-    start := 9
+    start := 10
 
-    for start % number != 0 {
+    for start % number != 1 {
     	start %= number
-        start = start * 10 + 9
+        start *= 10
         result++
     }
 
@@ -23,7 +23,6 @@ func main() {
 
     for i := 1; i < limit ; i++ {
         if sieve[i] == false {
-            // 2 * x + 1 = (2 * i + 1)^2 => x = 2 * i * (i + 1)
             j := 2 * i * (i + 1)
             for j < limit {
                 sieve[j] = true
@@ -31,12 +30,12 @@ func main() {
             }
         }
     }
+    // 2 * 2 + 1 == 5
     sieve[2] = true
 
     for k := 1; k < limit; k++ {
         if sieve[k] == false {
-            tmp := get_cycle_length(2 * k + 1)
-            if tmp > result {
+            if get_cycle_length(2 * k + 1) > result {
                 result = 2 * k + 1
             }
         }

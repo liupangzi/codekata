@@ -30,4 +30,5 @@ Solutions for https://projecteuler.net/archives
 | [[23] Non-Abundant Sums](https://projecteuler.net/problem=23) | [Go](./23.Non-AbundantSums/go.go) / [Rust](./23.Non-AbundantSums/rust.rs) |
 | [[24] Lexicographic Permutations](https://projecteuler.net/problem=24) | [Go](./24.LexicographicPermutations/go.go) / [Rust](./24.LexicographicPermutations/rust.rs) |
 | [[25] 1000-Digit Fibonacci Number](https://projecteuler.net/problem=25) | [Go](./25.1000-DigitFibonacciNumber/go.go) / [Rust](./25.1000-DigitFibonacciNumber/rust.rs) |
+| [[26] Reciprocal Cycles](https://projecteuler.net/problem=26) | [Go](./26.ReciprocalCycles/go.go) / [Rust](./26.ReciprocalCycles/rust.rs) |
 | [[67] Maximum Path Sum II](https://projecteuler.net/problem=67) | [Go](./67.MaximumPathSumII/go.go) / [Rust](./67.MaximumPathSumII/rust.rs) |

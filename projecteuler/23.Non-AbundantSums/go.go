@@ -24,7 +24,7 @@ func is_abundant(num int) bool {
 
 func main() {
     limit := 28123
-    start := time.Now().UnixNano() / int64(time.Millisecond)
+    start := time.Nanosecond * time.Now().UnixNano() / time.Millisecond
 
     var abundant_nums []int
     for i := 12; i <= limit; i++ {
@@ -52,7 +52,7 @@ func main() {
         }
     }
 
-    end := time.Now().UnixNano() / int64(time.Millisecond)
+    end := time.Nanosecond * time.Now().UnixNano() / time.Millisecond
 
     println("cost:", end - start, "ms")
     println("result:", result)

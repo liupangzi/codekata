@@ -16,7 +16,7 @@ func get_cycle_length(number int) int {
 }
 
 func main() {
-    start := time.Nanosecond * time.Now().UnixNano() / time.Millisecond
+    start := time.Now().UnixNano() / (int64(time.Millisecond)/int64(time.Nanosecond))
     limit := 500
     sieve := make([]bool, limit)
     result := 0
@@ -41,7 +41,7 @@ func main() {
         }
     }
 
-    end := time.Nanosecond * time.Now().UnixNano() / time.Millisecond
+    end := time.Now().UnixNano() / (int64(time.Millisecond)/int64(time.Nanosecond))
 
     println(result)
     println("cost:", end - start, "ms")

@@ -32,4 +32,5 @@ Solutions for https://projecteuler.net/archives
 | [[25] 1000-Digit Fibonacci Number](https://projecteuler.net/problem=25) | [Go](./25.1000-DigitFibonacciNumber/go.go) / [Rust](./25.1000-DigitFibonacciNumber/rust.rs) |
 | [[26] Reciprocal Cycles](https://projecteuler.net/problem=26) | [Go](./26.ReciprocalCycles/go.go) / [Rust](./26.ReciprocalCycles/rust.rs) |
 | [[27] Quadratic Primes](https://projecteuler.net/problem=27) | [Go](./27.QuadraticPrimes/go.go) / [Rust](./27.QuadraticPrimes/rust.rs) |
+| [[28] Number Spiral Diagonals](https://projecteuler.net/problem=28) | [Go](./28.NumberSpiralDiagonals/go.go) / [Rust](./28.NumberSpiralDiagonals/rust.rs) |
 | [[67] Maximum Path Sum II](https://projecteuler.net/problem=67) | [Go](./67.MaximumPathSumII/go.go) / [Rust](./67.MaximumPathSumII/rust.rs) |

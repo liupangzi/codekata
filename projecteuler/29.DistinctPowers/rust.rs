@@ -1,3 +1,11 @@
+use std::collections::HashMap;
+
+#[derive(Debug)]
+struct Power {
+    base: i32,
+    exp: i32,
+}
+
 fn main() {
     let boundary = 100; // boundary >= 2
 
@@ -10,13 +18,22 @@ fn main() {
         max_power += 1;
     }
 
+    let mut records: HashMap<i32, Power> = HashMap::new();
     for n in 2..max_power + 1 {
         for c in 2..max_base + 1 {
-            if c.pow(n) <= boundary {
-                println!("{} ^ {} = {}", c, n, c.pow(n));
+            let key = c.pow(n as u32);
+            if key <= boundary {
+                let tmp_power = Power { base: c, exp: n };
+                records.insert(key, tmp_power);
             }
         }
     }
 
     println!("max_base: {}, max_power: {}", max_base, max_power);
+    println!("===============================");
+    for key in records.keys() {
+        println!("key is: {}", key);
+        println!("{:?}", records.get(&key));
+        println!("-----------------------------------");
+    }
 }

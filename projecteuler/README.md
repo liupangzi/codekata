@@ -33,5 +33,5 @@ Solutions for https://projecteuler.net/archives
 | [[26] Reciprocal Cycles](https://projecteuler.net/problem=26) | [Go](./26.ReciprocalCycles/go.go) / [Rust](./26.ReciprocalCycles/rust.rs) |
 | [[27] Quadratic Primes](https://projecteuler.net/problem=27) | [Go](./27.QuadraticPrimes/go.go) / [Rust](./27.QuadraticPrimes/rust.rs) |
 | [[28] Number Spiral Diagonals](https://projecteuler.net/problem=28) | [Go](./28.NumberSpiralDiagonals/go.go) / [Rust](./28.NumberSpiralDiagonals/rust.rs) |
-| [[29] Distinct Powers](https://projecteuler.net/problem=29) | [Go](./29.DistinctPowers/go.go) / [Calculated](./29.DistinctPowers/29.jpg) |
+| [[29] Distinct Powers](https://projecteuler.net/problem=29) | [Go](./29.DistinctPowers/go.go) / [Rust](./29.DistinctPowers/rust.rs) |
 | [[67] Maximum Path Sum II](https://projecteuler.net/problem=67) | [Go](./67.MaximumPathSumII/go.go) / [Rust](./67.MaximumPathSumII/rust.rs) |

@@ -1,21 +1,21 @@
 use std::collections::HashMap;
 
-fn get_duplicated(boundary: i32, base: i32, exp: i32) -> i32 {
-    match base.pow(exp as u32) {
-        4 => 49,
-        9 => 49,
-        25 => 49,
-        36 => 49,
-        49 => 49,
-        100 => 49,
-        32 => 48,
-        8 => 49,
-        27 => 49,
-        16 => 58,
-        81 => 58,
-        64 => 62,
-        _ => 0,
+fn get_duplicated(boundary: i32, exp: i32) -> i32 {
+    let mut duplicates = Vec::new();
+
+    for n in 2..boundary + 1 {
+        let mut tmp_exp = exp - 1;
+        while tmp_exp > 0 {
+            if (exp * n) % tmp_exp == 0 && (exp * n) / tmp_exp <= boundary {
+                duplicates.push(n);
+            }
+            tmp_exp -= 1;
+        }
     }
+
+    duplicates.sort();
+    duplicates.dedup();
+    return duplicates.len() as i32;
 }
 
 fn main() {
@@ -30,22 +30,19 @@ fn main() {
         max_power += 1;
     }
     
-    let mut records: HashMap<i32, HashMap<&str, i32>> = HashMap::new();
+    let mut records: HashMap<i32, i32> = HashMap::new();
     for n in 2..max_power + 1 {
         for c in 2..max_base + 1 {
             let key = c.pow(n as u32);
             if key <= boundary {
-                let mut tmp_power = HashMap::new();
-                tmp_power.insert("base", c);
-                tmp_power.insert("exp", n);
-                records.insert(key, tmp_power);
+                records.insert(key, n);
             }
         }
     }
-
+    
     let mut result = 99 * 99;
-    for (key, record) in &records{
-        result -= get_duplicated(boundary, record[&"base"], record[&"exp"]);
+    for exp in records.values() {
+        result -= get_duplicated(boundary, *exp);
     }
 
     println!("{}", result);

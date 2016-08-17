@@ -40,7 +40,7 @@ fn main() {
         }
     }
     
-    let mut result = 99 * 99;
+    let mut result = (boundary - 1) * (boundary - 1);
     for exp in records.values() {
         result -= get_duplicated(boundary, *exp);
     }

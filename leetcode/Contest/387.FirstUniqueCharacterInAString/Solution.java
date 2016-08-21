@@ -12,7 +12,7 @@ public class Solution {
             }
         }
 
-        for(Map.Entry<Character, Integer> entry : cache.entrySet()){
+        for (Map.Entry<Character, Integer> entry : cache.entrySet()){
             if (entry.getValue().equals(1)) {
                 return location.get(entry.getKey());
             }

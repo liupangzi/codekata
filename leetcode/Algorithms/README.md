@@ -14,3 +14,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringtoInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
+| [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [python](./386.LexicographicalNumbers/Solution.py) | Medium

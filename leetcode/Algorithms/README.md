@@ -15,3 +15,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [python](./386.LexicographicalNumbers/Solution.py) | Medium
+| [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy

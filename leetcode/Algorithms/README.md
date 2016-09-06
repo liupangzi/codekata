@@ -16,3 +16,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [python](./386.LexicographicalNumbers/Solution.py) | Medium
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
+| [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [python](./388.LongestAbsoluteFilePath/Solution.py) | Medium

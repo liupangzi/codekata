@@ -18,3 +18,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
 | [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [python](./388.LongestAbsoluteFilePath/Solution.py) | Medium
 | [[389] Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./389.FindTheDifference/Solution.java) / [c](./389.FindTheDifference/Solution.c) | Easy
+| [[392] Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./392.IsSubsequence/Solution.java) | Medium

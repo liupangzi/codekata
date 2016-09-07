@@ -14,8 +14,8 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringtoInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
-| [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [python](./386.LexicographicalNumbers/Solution.py) | Medium
-| [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
-| [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [python](./388.LongestAbsoluteFilePath/Solution.py) | Medium
-| [[389] Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./389.FindTheDifference/Solution.java) / [c](./389.FindTheDifference/Solution.c) | Easy
+| [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium
+| [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [Golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
+| [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [Python](./388.LongestAbsoluteFilePath/Solution.py) | Medium
+| [[389] Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./389.FindTheDifference/Solution.java) / [C](./389.FindTheDifference/Solution.c) | Easy
 | [[392] Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./392.IsSubsequence/Solution.java) | Medium

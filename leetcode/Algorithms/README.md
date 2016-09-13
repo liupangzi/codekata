@@ -22,3 +22,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[393] UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](./393.UTF-8Validation/Solution.java) | Medium
 | [[394] Decode String](https://leetcode.com/problems/decode-string/) | [Java](./394.DecodeString/Solution.java) | Medium
 | [[395] Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Java](./395.LongestSubstringwithAtLeastKRepeatingCharacters/Solution.java) | Medium
+| [[396] Rotate Function](https://leetcode.com/problems/rotate-function/) | [Java](./396.RotateFunction/Solution.java) | Easy

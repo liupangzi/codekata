@@ -2,29 +2,22 @@ public class Solution {
     public int longestSubstring(String s, int k) {
         if (s.length() < k) return 0;
 
-        int[] cache = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            if (cache[s.charAt(i) - 'a'] == 1) continue;
-            cache[s.charAt(i) - 'a'] = 1;
-            if (countMatches(s, s.charAt(i) + "") < k) {
-                int max = 0;
-                for (String tmpString: s.split(s.charAt(i) + "")) {
-                    max = Math.max(max, longestSubstring(tmpString, k));
-                }
-                return max;
-            }
+        int[] count = new int[26];
+        for (char c: s.toCharArray()) {
+            count[c - 'a']++;
         }
 
-        return s.length();
-    }
-    
-    private static int countMatches(String str, String sub) {
-        int count = 0;
-        int idx = 0;
-        while ((idx = str.indexOf(sub, idx)) != -1) {
-            count++;
-            idx += sub.length();
+        List<String> badChars = new ArrayList<>();
+        for (int i = 0; i < count.length; i++) {
+            if (count[i] < k && count[i] != 0) badChars.add(String.valueOf((char)(i + 'a')));
         }
-        return count;
+        if (badChars.isEmpty()) return s.length();
+
+        int result = 0;
+        String[] targets = s.split(String.join("|", badChars));
+        for (String tmpString: targets) {
+            result = Math.max(result, longestSubstring(tmpString, k));
+        }
+        return result;
     }
 }

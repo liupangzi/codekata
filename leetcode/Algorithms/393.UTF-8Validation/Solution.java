@@ -1,33 +1,24 @@
 public class Solution {
     public boolean validUtf8(int[] data) {
+        int[] shift = new int[]{3, 4, 5, 7};
+        int[] left = new int[]{0b11110, 0b1110, 0b110, 0b0};
+        int[] overflow = new int[]{3, 2, 1, 0};
+
         int i = 0;
-
+        stream:
         while (i < data.length) {
-            // 0xxxxxxx
-            if (data[i] >>> 7 == 0) {
-                i++;
-                continue;
+            for (int j = 0; j < 4; j++) {
+                if ((data[i] >>> shift[j]) == left[j] && (i + overflow[j]) < data.length) {
+                    for (int k = 0; k < overflow[j]; k++) {
+                        if (data[i + k + 1] >>> 6 != 0b10) return false;
+                    }
+                    i += overflow[j] + 1;
+                    continue stream;
+                }
             }
-            // 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
-            if ((data[i] >>> 3 == 30) && (i + 3 < data.length)
-                    && (data[i + 1] >>> 6 == 2) && (data[i + 2] >>> 6 == 2) && (data[i + 3] >>> 6 == 2)) {
-                i += 4;
-                continue;
-            }
-            // 1110xxxx 10xxxxxx 10xxxxxx
-            if ((data[i] >>> 4 == 14) && (i + 2 < data.length) && (data[i + 1] >>> 6 == 2) && (data[i + 2] >>> 6 == 2)) {
-                i += 3;
-                continue;
-            }
-            // 110xxxxx 10xxxxxx
-            if ((data[i] >>> 5 == 6) && (i + 1 < data.length) && (data[i + 1] >>> 6 == 2)) {
-                i += 2;
-                continue;
-            }
-
-            break;
+            return false;
         }
 
-        return i == data.length;
+        return true;
     }
 }

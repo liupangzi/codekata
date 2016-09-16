@@ -7,24 +7,28 @@ What is the minimum number of replacements needed for *n* to become 1?
 
 **Example 1:**
 
-> **Input:**
-> 8
->
-> **Output:**
-> 3
->
-> **Explanation:**
-> 8 -> 4 -> 2 -> 1
+```
+**Input:**
+8
+
+**Output:**
+3
+
+**Explanation:**
+8 -> 4 -> 2 -> 1
+```
 
 **Example 2:**
 
-> **Input:**
-> 7
->
-> **Output:**
-> 4
-> 
-> **Explanation:**
-> 7 -> 8 -> 4 -> 2 -> 1
-> or
-> 7 -> 6 -> 3 -> 2 -> 1
+```
+**Input:**
+7
+
+**Output:**
+4
+
+**Explanation:**
+7 -> 8 -> 4 -> 2 -> 1
+or
+7 -> 6 -> 3 -> 2 -> 1
+```

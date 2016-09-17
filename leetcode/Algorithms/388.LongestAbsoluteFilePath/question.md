@@ -28,7 +28,7 @@ We are interested in finding the longest (number of characters) absolute path to
 
 Given a string representing the file system in the above format, return the length of the longest absolute path to file in the abstracted file system. If there is no file in the system, return `0`.
 
-Note:
+**Note:**
 The name of a file contains at least a `.` and an extension.
 The name of a directory or sub-directory will not contain a `.`.
 Time complexity required: `O(n)` where `n` is the size of the input string.

@@ -1,32 +1,32 @@
 public class Solution {
     public String decodeString(String s) {
-        while (s.indexOf('[') > -1) {
-            int start = s.indexOf('[');
+        Stack<Integer> counts = new Stack<>();
+        Stack<String> strings = new Stack<>();
+        StringBuilder result = new StringBuilder();
 
-            int numberStart = start - 1;
-            while (numberStart >= 0 && Character.isDigit(s.charAt(numberStart))) {
-                numberStart--;
+        int i = 0;
+        while (i < s.length()) {
+            if (Character.isDigit(s.charAt(i))) {
+                counts.push(Integer.valueOf(s.substring(i, s.indexOf('[', i))));
+                i = s.indexOf('[', i);
+            } else if (s.charAt(i) == '[') {
+                strings.push(result.toString());
+                result = new StringBuilder();
+                i++;
+            } else if (s.charAt(i) == ']') {
+                int count = counts.pop();
+                StringBuilder str = new StringBuilder(strings.pop());
+                while (count-- > 0) {
+                    str.append(result);
+                }
+                result = str;
+                i++;
+            } else {
+                result.append(s.charAt(i));
+                i++;
             }
-            int repeat = Integer.parseInt(s.substring(numberStart + 1, start));
-
-            int end = start + 1;
-            int occur = 1;
-            while (end < s.length() && occur != 0) {
-                if (s.charAt(end) == '[') occur++;
-                if (s.charAt(end) == ']') occur--;
-                end++;
-            }
-
-            StringBuilder sb = new StringBuilder();
-            sb.append(s.substring(0, numberStart + 1));
-            String x = s.substring(start + 1, end - 1);
-            for (int j = 0; j < repeat; j++) {
-                sb.append(x);
-            }
-            sb.append(s.substring(end));
-            s = sb.toString();
         }
 
-        return s;
+        return result.toString();
     }
 }

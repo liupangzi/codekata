@@ -10,4 +10,4 @@ s = "loveleetcode",
 return 2.
 ```
 
-**Note: ** You may assume the string contain only lowercase letters.
+**Note:** You may assume the string contain only lowercase letters.

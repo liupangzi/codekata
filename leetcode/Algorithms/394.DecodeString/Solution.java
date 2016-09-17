@@ -16,15 +16,26 @@ public class Solution {
             } else if (s.charAt(i) == ']') {
                 int count = counts.pop();
                 StringBuilder str = new StringBuilder(strings.pop());
-                while (count-- > 0) {
-                    str.append(result);
-                }
+                str.append(this.repeatString(result.toString(), count));
                 result = str;
                 i++;
             } else {
                 result.append(s.charAt(i));
                 i++;
             }
+        }
+
+        return result.toString();
+    }
+    
+    private String repeatString(String s, int n) {
+        StringBuilder result = new StringBuilder();
+        StringBuilder factor = new StringBuilder(s);
+
+        while (n != 0) {
+            if ((n & 1) == 1) result.append(factor);
+            factor.append(factor);
+            n >>>= 1;
         }
 
         return result.toString();

@@ -2,7 +2,7 @@ public class Solution {
     public String convert(String s, int nRows) {
         if (nRows == 1 || s.length() <= nRows) return s;
 
-        StringBuilder result = new StringBuilder("");
+        StringBuilder result = new StringBuilder();
 
         for (int i = 0; i < s.length(); i += nRows * 2 - 2) {
             result.append(s.charAt(i));

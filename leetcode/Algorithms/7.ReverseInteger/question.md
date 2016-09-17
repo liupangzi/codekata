@@ -1,9 +1,9 @@
 Reverse digits of an integer.
 
-Example1: x = 123, return 321
-Example2: x = -123, return -321
+**Example1:** x = 123, return 321
+**Example2:** x = -123, return -321
 
-Have you thought about this?
+**Have you thought about this?**
 Here are some good questions to ask before coding. Bonus points for you if you have already thought through this!
 
 If the integer's last digit is 0, what should the output be? ie, cases such as 10, 100.

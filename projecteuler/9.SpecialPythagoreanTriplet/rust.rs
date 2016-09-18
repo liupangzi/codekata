@@ -58,7 +58,7 @@ fn main() {
                     let a: i64 = (m * m - n * n) * d;
                     let b: i64 = (2 * m * n) * d;
                     let c: i64 = (m * m + n * n) * d;
-                    println!("a: {}, b: {}, c: {}", a, b ,c);
+                    println!("{}, {}, {}", a/d, b/d, c/d);
                     break;
                 }
                 // k += 2;

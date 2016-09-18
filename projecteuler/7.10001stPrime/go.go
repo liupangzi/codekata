@@ -44,5 +44,5 @@ func main(){
         k++
     }
 
-    print(result, "\n")
+    println(result)
 }

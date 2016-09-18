@@ -118,5 +118,5 @@ func main() {
     }
 
     s := fmt.Sprintf("%v", result)
-    print(s[0:10], "\n")
+    println(s[0:10])
 }

@@ -1,8 +1,8 @@
 package main
 
 func is_palindrome_number(number int) bool {
-    var origin int = number
-    var tmp int = 0
+    origin := number
+    tmp := 0
 
     for origin > 0 {
         tmp = tmp * 10 + origin % 10
@@ -31,5 +31,5 @@ func main(){
         }
     }
 
-    print(result, "\n")
+    println(result)
 }

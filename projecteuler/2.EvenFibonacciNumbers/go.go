@@ -1,11 +1,12 @@
 package main
 
-var a, b int = 1, 2
-var i, result int = 0, 2
-
 func main(){
+    a := 1
+    b := 2
+    i := 0
+    result := 2
+
     for {
-        // odd, odd, even
         for count := 0; count < 3; count++ {
             i = a + b
             a = b

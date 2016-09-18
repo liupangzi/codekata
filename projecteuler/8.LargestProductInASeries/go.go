@@ -38,5 +38,5 @@ func main(){
         }
     }
 
-    print(result, "\n")
+    println(result)
 }

@@ -19,7 +19,7 @@ func main() {
         }
 
         if count >= 250 {
-            print(i * (i + 1) / 2, "\n")
+            println(i * (i + 1) / 2)
             break
         }
 

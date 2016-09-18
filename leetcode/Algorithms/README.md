@@ -18,6 +18,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [Golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
 | [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [Python](./388.LongestAbsoluteFilePath/Solution.py) | Medium
 | [[389] Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./389.FindTheDifference/Solution.java) / [C](./389.FindTheDifference/Solution.c) | Easy
+| [[390] Elimination Game](https://leetcode.com/problems/elimination-game/) | [Java](./390.EliminationGame/Solution.java) | Medium
 | [[392] Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./392.IsSubsequence/Solution.java) | Medium
 | [[393] UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](./393.UTF-8Validation/Solution.java) | Medium
 | [[394] Decode String](https://leetcode.com/problems/decode-string/) | [Java](./394.DecodeString/Solution.java) | Medium

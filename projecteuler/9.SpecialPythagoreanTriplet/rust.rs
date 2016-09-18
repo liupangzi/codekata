@@ -1,5 +1,5 @@
 fn main() {
-    let s: i64 = 24;
+    let s: i64 = 1000;
     let half_s: i64 = s / 2;
     let m_limit: i64 = (s as f64).sqrt() as i64 + 1;
     // let a = (m^2 - n^2) ·d
@@ -58,7 +58,7 @@ fn main() {
                     let a: i64 = (m * m - n * n) * d;
                     let b: i64 = (2 * m * n) * d;
                     let c: i64 = (m * m + n * n) * d;
-                    println!("{}, {}, {}", a/d, b/d, c/d);
+                    println!("{}, {}, {}", a, b, c);
                     break;
                 }
                 // k += 2;

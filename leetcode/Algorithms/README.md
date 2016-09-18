@@ -18,10 +18,11 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [Golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
 | [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [Python](./388.LongestAbsoluteFilePath/Solution.py) | Medium
 | [[389] Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](./389.FindTheDifference/Solution.java) / [C](./389.FindTheDifference/Solution.c) | Easy
-| [[390] Elimination Game](https://leetcode.com/problems/elimination-game/) | [Java](./390.EliminationGame/Solution.java) | Medium
+| [[390] Elimination Game](https://leetcode.com/problems/elimination-game/) | [Java](./390.EliminationGame/Solution.java) / [C](./390.EliminationGame/Solution.c) | Medium
 | [[392] Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./392.IsSubsequence/Solution.java) | Medium
 | [[393] UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](./393.UTF-8Validation/Solution.java) | Medium
 | [[394] Decode String](https://leetcode.com/problems/decode-string/) | [Java](./394.DecodeString/Solution.java) | Medium
 | [[395] Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Java](./395.LongestSubstringwithAtLeastKRepeatingCharacters/Solution.java) | Medium
 | [[396] Rotate Function](https://leetcode.com/problems/rotate-function/) | [Java](./396.RotateFunction/Solution.java) | Easy
 | [[397] Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Java](./397.IntegerReplacement/Solution.java) / [C](./397.IntegerReplacement/Solution.c) | Easy
+| [[398] Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Java](./398.RandomPickIndex/Solution.java) | Medium

@@ -26,5 +26,6 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[396] Rotate Function](https://leetcode.com/problems/rotate-function/) | [Java](./396.RotateFunction/Solution.java) | Easy
 | [[397] Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Java](./397.IntegerReplacement/Solution.java) / [C](./397.IntegerReplacement/Solution.c) | Easy
 | [[398] Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Java](./398.RandomPickIndex/Solution.java) | Medium
+| [[399] Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Python](./399.EvaluateDivision/Solution.py) / [Java](./399.EvaluateDivision/Solution.java) | Medium
 | [[400] Nth Digit](https://leetcode.com/problems/nth-digit/) | [Java](./400.NthDigit/Solution.java) | Easy
 | [[401] Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](./401.BinaryWatch/Solution.java) / [Python](./401.BinaryWatch/Solution.py) / [Go](./401.BinaryWatch/Solution.go) | Easy

@@ -29,3 +29,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[399] Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Python](./399.EvaluateDivision/Solution.py) | Medium
 | [[400] Nth Digit](https://leetcode.com/problems/nth-digit/) | [Java](./400.NthDigit/Solution.java) | Easy
 | [[401] Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](./401.BinaryWatch/Solution.java) / [Python](./401.BinaryWatch/Solution.py) / [Go](./401.BinaryWatch/Solution.go) | Easy
+| [[404] Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./404.SumOfLeftLeaves/Solution.java) | Easy

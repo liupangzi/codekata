@@ -11,7 +11,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[5] Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./5.LongestPalindromicSubstring/Solution.java) | Medium
 | [[6] ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Java](./6.ZigZagConversion/Solution.java) | Easy
 | [[7] Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./7.ReverseInteger/Solution.java) | Easy
-| [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringtoInteger/Solution.java) | Easy
+| [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringToInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium
@@ -22,7 +22,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[392] Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](./392.IsSubsequence/Solution.java) | Medium
 | [[393] UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Java](./393.UTF-8Validation/Solution.java) | Medium
 | [[394] Decode String](https://leetcode.com/problems/decode-string/) | [Java](./394.DecodeString/Solution.java) | Medium
-| [[395] Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Java](./395.LongestSubstringwithAtLeastKRepeatingCharacters/Solution.java) | Medium
+| [[395] Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Java](./395.LongestSubstringWithAtLeastKRepeatingCharacters/Solution.java) | Medium
 | [[396] Rotate Function](https://leetcode.com/problems/rotate-function/) | [Java](./396.RotateFunction/Solution.java) | Easy
 | [[397] Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Java](./397.IntegerReplacement/Solution.java) / [C](./397.IntegerReplacement/Solution.c) | Easy
 | [[398] Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Java](./398.RandomPickIndex/Solution.java) | Medium

@@ -32,3 +32,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[402] Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](./402.RemoveKDigits/Solution.java) | Medium
 | [[404] Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./404.SumOfLeftLeaves/Solution.java) | Easy
 | [[405] Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./405.ConvertANumberToHexadecimal/Solution.java) | Easy
+| [[409] Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./409.LongestPalindrome/Solution.java) | Easy

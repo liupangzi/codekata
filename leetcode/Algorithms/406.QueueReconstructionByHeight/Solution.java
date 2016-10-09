@@ -3,11 +3,9 @@ public class Solution {
         Arrays.sort(people, new Comparator<int[]>() {
             @Override
             public int compare(int[] first, int[] second) {
-                if (second[0] == first[0]) {
-                    return Integer.valueOf(first[1]).compareTo(second[1]);
-                } else {
-                    return Integer.valueOf(second[0]).compareTo(first[0]);
-                }
+                return second[0] == first[0]
+                        ? Integer.valueOf(first[1]).compareTo(second[1])
+                        : Integer.valueOf(second[0]).compareTo(first[0]);
             }
         });
 

@@ -35,3 +35,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[406] Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](./406.QueueReconstructionByHeight/Solution.java) | Medium
 | [[409] Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./409.LongestPalindrome/Solution.java) | Easy
 | [[415] Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./415.AddStrings/Solution.java) | Easy
+| [[416] Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](./416.PartitionEqualSubsetSum/Solution.java) | Medium

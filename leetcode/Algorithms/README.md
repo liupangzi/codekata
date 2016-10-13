@@ -17,6 +17,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
+| [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium

@@ -12,9 +12,17 @@ public class Solution {
     public TreeNode invertTree(TreeNode root) {
         if (root == null) return null;
 
-        TreeNode treeNode = invertTree(root.left);
-        root.left = invertTree(root.right);
-        root.right = treeNode;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode pop = stack.pop();
+            TreeNode treeNode = pop.left;
+            pop.left = pop.right;
+            pop.right = treeNode;
+
+            if (pop.left != null) stack.push(pop.left);
+            if (pop.right != null) stack.push(pop.right);
+        }
 
         return root;
     }

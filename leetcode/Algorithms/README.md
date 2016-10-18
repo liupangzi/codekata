@@ -29,7 +29,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
-| [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) | Easy
+| [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy

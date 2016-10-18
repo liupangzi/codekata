@@ -36,6 +36,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
+| [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [Golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
 | [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [Python](./388.LongestAbsoluteFilePath/Solution.py) | Medium

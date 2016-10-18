@@ -24,6 +24,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[171] Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./171.ExcelSheetColumnNumber/Solution.java) | Easy
+| [[190] Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./190.ReverseBits/Solution.java) | Easy
 | [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./191.NumberOf1Bits/Solution.java) / [C](./191.NumberOf1Bits/Solution.c) | Easy
 | [[204] Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./204.CountPrimes/Solution.java) | Easy
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy

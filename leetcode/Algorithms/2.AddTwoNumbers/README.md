@@ -4,4 +4,4 @@ You are given two linked lists representing two non-negative numbers. The digits
 
 **Output:** 7 -> 0 -> 8
 
-### [Editorial](https://leetcode.com/problems/add-two-numbers/)
+### [Editorial](https://leetcode.com/articles/add-two-numbers/)

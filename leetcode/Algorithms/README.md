@@ -42,6 +42,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
+| [[345] Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./345.ReverseVowelsOfAString/Solution.java) | Easy
 | [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy
 | [[383] Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383.RansomNote/Solution.java) | Easy

@@ -19,6 +19,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy
 | [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./70.ClimbingStairs/Solution.java) | Easy
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
+| [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy

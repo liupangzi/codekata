@@ -7,3 +7,5 @@ For example, if there are 4 stones in the heap, then you will never win the game
 **Hint:**
 
  1. If there are 5 stones in the heap, could you figure out a way to remove the stones such that you will always be the winner?
+
+### [Editorial](https://leetcode.com/articles/nim-game/)

@@ -13,3 +13,5 @@ You may assume the string contains only lowercase alphabets.
 **Follow up:**
 
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
+
+### [Editorial](https://leetcode.com/articles/valid-anagram/)

@@ -2,4 +2,6 @@ Write a function that takes an unsigned integer and returns the number of '1' bi
 
 For example, the 32-bit integer '11' has binary representation `00000000000000000000000000001011`, so the function should return 3.
 
+### [Editorial](https://leetcode.com/articles/number-1-bits/)
+
   [1]: https://en.wikipedia.org/wiki/Hamming_weight

@@ -6,3 +6,5 @@ For example, given `nums = [0, 1, 0, 3, 12]`, after calling your function, `nums
 
  1. You must do this **in-place** without making a copy of the array.
  2. Minimize the total number of operations.
+
+### [Editorial](https://leetcode.com/articles/move-zeroes/)

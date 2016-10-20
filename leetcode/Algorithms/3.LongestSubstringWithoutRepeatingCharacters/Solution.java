@@ -1,11 +1,7 @@
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length() < 2 ) return s.length();
-
         int bucket[] = new int[256];
-        for(int i = 0; i < 256; i++){
-            bucket[i] = -1;
-        }
+        for (int i = 0; i < bucket.length; i++) bucket[i] = -1;
 
         int head = 0, result = 0;
         for(int tail = 0; tail < s.length(); tail++) {

@@ -14,6 +14,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringToInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
+| [[24] Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./24.SwapNodesInPairs/Solution.java) / [C](./24.SwapNodesInPairs/Solution.c) | Easy
 | [[26] Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26.RemoveDuplicatesFromSortedArray/Solution.java) | Easy
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy

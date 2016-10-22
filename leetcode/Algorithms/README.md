@@ -23,6 +23,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[107] Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./107.BinaryTreeLevelOrderTraversalII/Solution.java) / [Python](./107.BinaryTreeLevelOrderTraversalII/Solution.py) | Easy
+| [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
 | [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy

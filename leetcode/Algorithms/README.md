@@ -24,6 +24,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[107] Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./107.BinaryTreeLevelOrderTraversalII/Solution.java) / [Python](./107.BinaryTreeLevelOrderTraversalII/Solution.py) | Easy
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
+| [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[165] Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./165.CompareVersionNumbers/Solution.java) | Easy

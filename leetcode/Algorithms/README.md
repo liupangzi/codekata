@@ -34,6 +34,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[168] Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./168.ExcelSheetColumnTitle/Solution.java) | Easy
 | [[169] Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./169.MajorityElement/Solution.java) / [C](./169.MajorityElement/Solution.c) | Easy
 | [[171] Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./171.ExcelSheetColumnNumber/Solution.java) | Easy
+| [[172] Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./172.FactorialTrailingZeroes/Solution.java) | Easy
 | [[190] Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./190.ReverseBits/Solution.java) | Easy
 | [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./191.NumberOf1Bits/Solution.java) / [C](./191.NumberOf1Bits/Solution.c) | Easy
 | [[204] Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./204.CountPrimes/Solution.java) | Easy

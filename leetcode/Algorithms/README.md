@@ -21,6 +21,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./70.ClimbingStairs/Solution.java) | Easy
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
+| [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[107] Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./107.BinaryTreeLevelOrderTraversalII/Solution.java) / [Python](./107.BinaryTreeLevelOrderTraversalII/Solution.py) | Easy
 | [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy

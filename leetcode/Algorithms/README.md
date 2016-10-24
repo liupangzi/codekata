@@ -40,7 +40,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[172] Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./172.FactorialTrailingZeroes/Solution.java) | Easy
 | [[190] Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./190.ReverseBits/Solution.java) | Easy
 | [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./191.NumberOf1Bits/Solution.java) / [C](./191.NumberOf1Bits/Solution.c) | Easy
-| [[203] Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./203.RemoveLinkedListElements/Solution.java) | Easy
+| [[203] Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./203.RemoveLinkedListElements/Solution.java) / [C](./203.RemoveLinkedListElements/Solution.c) | Easy
 | [[204] Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./204.CountPrimes/Solution.java) | Easy
 | [[206] Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./206.ReverseLinkedList/Solution.java) / [C](./206.ReverseLinkedList/Solution.c) | Easy
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy

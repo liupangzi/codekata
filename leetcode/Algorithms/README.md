@@ -22,23 +22,32 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./70.ClimbingStairs/Solution.java) | Easy
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
+| [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
+| [[107] Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./107.BinaryTreeLevelOrderTraversalII/Solution.java) / [Python](./107.BinaryTreeLevelOrderTraversalII/Solution.py) | Easy
+| [[110] Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./110.BalancedBinaryTree/Solution.java) / [Python](./110.BalancedBinaryTree/Solution.py) | Easy
+| [[111] Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./111.MinimumDepthOfBinaryTree/Solution.java) | Easy
+| [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
+| [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[165] Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./165.CompareVersionNumbers/Solution.java) | Easy
 | [[168] Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./168.ExcelSheetColumnTitle/Solution.java) | Easy
 | [[169] Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./169.MajorityElement/Solution.java) / [C](./169.MajorityElement/Solution.c) | Easy
 | [[171] Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./171.ExcelSheetColumnNumber/Solution.java) | Easy
+| [[172] Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./172.FactorialTrailingZeroes/Solution.java) | Easy
 | [[190] Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./190.ReverseBits/Solution.java) | Easy
 | [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./191.NumberOf1Bits/Solution.java) / [C](./191.NumberOf1Bits/Solution.c) | Easy
 | [[204] Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./204.CountPrimes/Solution.java) | Easy
+| [[206] Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./206.ReverseLinkedList/Solution.java) / [C](./206.ReverseLinkedList/Solution.c) | Easy
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
 | [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
 | [[242] Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./242.ValidAnagram/Solution.java) / [C](./242.ValidAnagram/Solution.c) | Easy
+| [[257] Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./257.BinaryTreePaths/Solution.java) | Easy
 | [[258] Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./258.AddDigits/Solution.java) | Easy
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy

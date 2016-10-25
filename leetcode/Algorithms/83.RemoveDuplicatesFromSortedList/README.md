@@ -5,3 +5,5 @@ For example,
 Given `1->1->2`, return `1->2`.
 
 Given `1->1->2->3->3`, return `1->2->3`.
+
+### [Editorial](https://leetcode.com/articles/remove-duplicates-sorted-list/)

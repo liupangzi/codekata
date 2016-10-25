@@ -64,6 +64,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
 | [[345] Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./345.ReverseVowelsOfAString/Solution.java) | Easy
 | [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
+| [[350] Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./350.IntersectionOfTwoArraysII/Solution.java) | Easy
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy
 | [[383] Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383.RansomNote/Solution.java) | Easy
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium

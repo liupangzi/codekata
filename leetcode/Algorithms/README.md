@@ -13,6 +13,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[7] Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./7.ReverseInteger/Solution.java) | Easy
 | [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringToInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
+| [[13] Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./13.RomanToInteger/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[21] Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./21.MergeTwoSortedLists/Solution.c) / [Java](./21.MergeTwoSortedLists/Solution.java) / [Python](./21.MergeTwoSortedLists/Solution.py) | Easy
 | [[24] Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./24.SwapNodesInPairs/Solution.java) / [C](./24.SwapNodesInPairs/Solution.c) | Easy

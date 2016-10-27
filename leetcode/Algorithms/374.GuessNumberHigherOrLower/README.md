@@ -19,3 +19,5 @@ n = 10, I pick 6.
 
 Return 6.
 ```
+
+### [Editorial](https://leetcode.com/articles/guess-number-higher-or-lower/)

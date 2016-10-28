@@ -100,3 +100,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[415] Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./415.AddStrings/Solution.java) | Easy
 | [[416] Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](./416.PartitionEqualSubsetSum/Solution.java) / [Python](./416.PartitionEqualSubsetSum/Solution.py) | Medium
 | [[437] Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./437.PathSumIII/Solution.java) | Easy
+| [[441] Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./441.ArrangingCoins/Solution.java) | Easy

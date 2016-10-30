@@ -35,6 +35,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
 | [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
+| [[121] Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./121.BestTimeToBuyAndSellStock/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/Solution.java) / [Python](./155.MinStack/Solution.py) | Easy

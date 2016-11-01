@@ -22,6 +22,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[26] Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26.RemoveDuplicatesFromSortedArray/Solution.java) | Easy
 | [[27] Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27.RemoveElement/Solution.java) | Easy
 | [[28] Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./28.Implement-strStr()/Solution.java) | Easy
+| [[36] Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./36.ValidSudoku/Solution.java) | Easy
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy
 | [[67] Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./67.AddBinary/Solution.java) | Easy

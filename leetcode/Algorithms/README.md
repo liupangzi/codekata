@@ -20,6 +20,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[21] Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./21.MergeTwoSortedLists/Solution.c) / [Java](./21.MergeTwoSortedLists/Solution.java) / [Python](./21.MergeTwoSortedLists/Solution.py) | Easy
 | [[24] Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./24.SwapNodesInPairs/Solution.java) / [C](./24.SwapNodesInPairs/Solution.c) | Easy
 | [[26] Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26.RemoveDuplicatesFromSortedArray/Solution.java) | Easy
+| [[27] Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27.RemoveElement/Solution.java) | Easy
 | [[28] Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./28.Implement-strStr()/Solution.java) | Easy
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy

@@ -70,6 +70,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[257] Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./257.BinaryTreePaths/Solution.java) | Easy
 | [[258] Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./258.AddDigits/Solution.java) | Easy
 | [[263] Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./263.UglyNumber/Solution.java) | Easy
+| [[278] First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./278.FirstBadVersion/Solution.java) | Easy
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy

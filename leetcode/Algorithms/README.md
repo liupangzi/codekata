@@ -60,6 +60,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
+| [[225] Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./225.ImplementStackUsingQueues/Solution.java) | Easy
 | [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
 | [[232] Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./232.ImplementQueueUsingStacks/Solution.java) | Easy

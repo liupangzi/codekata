@@ -81,6 +81,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[299] Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Java](./299.BullsAndCows/Solution.java) | Easy
 | [[303] Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./303.RangeSumQuery-Immutable/Solution.java) | Easy
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
+| [[338] Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./338.CountingBits/Solution.java) | Medium
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
 | [[345] Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./345.ReverseVowelsOfAString/Solution.java) | Easy

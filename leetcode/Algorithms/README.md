@@ -78,6 +78,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy
+| [[299] Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Java](./299.BullsAndCows/Solution.java) | Easy
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy

@@ -5,8 +5,8 @@ public class Solution {
             if (secret.charAt(i) == guess.charAt(i)) {
                 bull++;
             } else {
-                if (cache[Character.getNumericValue(secret.charAt(i))]++ < 0) cow++;
-                if (cache[Character.getNumericValue(guess.charAt(i))]-- > 0) cow++;
+                if (cache[secret.charAt(i) - 48]++ < 0) cow++;
+                if (cache[guess.charAt(i) - 48]-- > 0) cow++;
             }
         }
         return String.valueOf(bull) + "A" + String.valueOf(cow) + "B";

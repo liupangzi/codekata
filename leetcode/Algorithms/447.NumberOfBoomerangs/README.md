@@ -13,4 +13,4 @@ Find the number of boomerangs. You may assume that *n* will be at most **500** a
 
 <b>Explanation:</b>
 The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
-<pre>
+</pre>

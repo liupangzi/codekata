@@ -77,6 +77,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[258] Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./258.AddDigits/Solution.java) | Easy
 | [[260] Single Number III](https://leetcode.com/problems/single-number-iii/) | [Java](./260.SingleNumberIII/Solution.java) | Medium
 | [[263] Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./263.UglyNumber/Solution.java) | Easy
+| [[268] Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./268.MissingNumber/Solution.java) | Medium
 | [[278] First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./278.FirstBadVersion/Solution.java) | Easy
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy

@@ -27,6 +27,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy
 | [[67] Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./67.AddBinary/Solution.java) | Easy
+| [[69] Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./69.Sqrt(x)/Solution.java) | Medium
 | [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./70.ClimbingStairs/Solution.java) | Easy
 | [[83] Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./83.RemoveDuplicatesFromSortedList/Solution.java) | Easy
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy

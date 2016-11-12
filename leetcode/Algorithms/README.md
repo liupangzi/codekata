@@ -96,6 +96,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[345] Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./345.ReverseVowelsOfAString/Solution.java) | Easy
 | [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
 | [[350] Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./350.IntersectionOfTwoArraysII/Solution.java) | Easy
+| [[357] Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./357.CountNumbersWithUniqueDigits/Solution.java) | Medium
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
 | [[382] Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](./382.LinkedListRandomNode/Solution.java) | Medium

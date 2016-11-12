@@ -101,6 +101,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
 | [[382] Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](./382.LinkedListRandomNode/Solution.java) | Medium
 | [[383] Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383.RansomNote/Solution.java) | Easy
+| [[384] Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./384.ShuffleAnArray/Solution.java) | Medium
 | [[386] Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./386.LexicographicalNumbers/Solution.java) / [Python](./386.LexicographicalNumbers/Solution.py) | Medium
 | [[387] First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./387.FirstUniqueCharacterInAString/Solution.java) / [Golang](./387.FirstUniqueCharacterInAString/Solution.go) | Easy
 | [[388] Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](./388.LongestAbsoluteFilePath/Solution.java) / [Python](./388.LongestAbsoluteFilePath/Solution.py) | Medium

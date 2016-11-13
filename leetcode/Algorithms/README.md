@@ -49,6 +49,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[125] Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./125.ValidPalindrome/Solution.java) | Easy
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
+| [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/Solution.java) / [Python](./155.MinStack/Solution.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
 | [[165] Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./165.CompareVersionNumbers/Solution.java) | Easy

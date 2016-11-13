@@ -33,6 +33,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[73] Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./73.SetMatrixZeroes/Solution.java) | Medium
 | [[83] Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./83.RemoveDuplicatesFromSortedList/Solution.java) | Easy
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy
+| [[94] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./94.BinaryTreeInorderTraversal/Solution.java) | Medium
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy

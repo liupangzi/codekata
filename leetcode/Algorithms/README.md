@@ -135,3 +135,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[441] Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./441.ArrangingCoins/Solution.java) | Easy
 | [[447] Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Java](./447.NumberOfBoomerangs/Solution.java) | Easy
 | [[453] Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./453.MinimumMovesToEqualArrayElements/Solution.java) | Easy
+| [[459] Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./459.RepeatedSubstringPattern/Solution.java) | Easy

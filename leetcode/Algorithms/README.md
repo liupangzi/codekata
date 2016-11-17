@@ -30,6 +30,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[67] Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./67.AddBinary/Solution.java) | Easy
 | [[69] Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./69.Sqrt(x)/Solution.java) | Medium
 | [[70] Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./70.ClimbingStairs/Solution.java) | Easy
+| [[71] Simplify Path](https://leetcode.com/problems/simplify-path/) | [Java](./71.SimplifyPath/Solution.java) | Medium
 | [[73] Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./73.SetMatrixZeroes/Solution.java) | Medium
 | [[83] Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./83.RemoveDuplicatesFromSortedList/Solution.java) | Easy
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy

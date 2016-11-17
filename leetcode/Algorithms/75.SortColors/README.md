@@ -6,8 +6,6 @@ Here, we will use the integers 0, 1, and 2 to represent the color red, white, an
 
 You are not suppose to use the library's sort function for this problem.
 
-click to show follow up.
-
 **Follow up:**
 
 A rather straight forward solution is a two-pass algorithm using counting sort.

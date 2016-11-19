@@ -19,6 +19,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[19] Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./19.RemoveNthNodeFromEndOfList/Solution.java) | Easy
 | [[20] Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./20.ValidParentheses/Solution.java) | Easy
 | [[21] Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./21.MergeTwoSortedLists/Solution.c) / [Java](./21.MergeTwoSortedLists/Solution.java) / [Python](./21.MergeTwoSortedLists/Solution.py) | Easy
+| [[22] Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./22.GenerateParentheses/Solution.java) | Medium
 | [[24] Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./24.SwapNodesInPairs/Solution.java) / [C](./24.SwapNodesInPairs/Solution.c) | Easy
 | [[26] Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26.RemoveDuplicatesFromSortedArray/Solution.java) | Easy
 | [[27] Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27.RemoveElement/Solution.java) | Easy

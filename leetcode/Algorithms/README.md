@@ -31,6 +31,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[48] Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./48.RotateImage/Solution.java) | Medium
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[62] Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./62.UniquePaths/Solution.java) | Medium
+| [[64] Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./64.MinimumPathSum/Solution.java) | Medium
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy
 | [[67] Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./67.AddBinary/Solution.java) | Easy
 | [[69] Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./69.Sqrt(x)/Solution.java) | Medium

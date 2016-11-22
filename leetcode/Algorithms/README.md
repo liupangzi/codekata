@@ -108,6 +108,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[343] Integer Break](https://leetcode.com/problems/integer-break/) | [Java](./343.IntegerBreak/Solution.java) | Medium
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy
 | [[345] Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Java](./345.ReverseVowelsOfAString/Solution.java) | Easy
+| [[347] Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./347.TopKFrequentElements/Solution.java) | Medium
 | [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
 | [[350] Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./350.IntersectionOfTwoArraysII/Solution.java) | Easy
 | [[357] Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./357.CountNumbersWithUniqueDigits/Solution.java) | Medium

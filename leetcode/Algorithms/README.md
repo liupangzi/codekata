@@ -114,6 +114,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[350] Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./350.IntersectionOfTwoArraysII/Solution.java) | Easy
 | [[357] Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./357.CountNumbersWithUniqueDigits/Solution.java) | Medium
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy
+| [[373] Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](./373.FindKPairsWithSmallestSums/Solution.java) | Medium
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
 | [[378] Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./378.KthSmallestElementInASortedMatrix/Solution.java) / [Python](./378.KthSmallestElementInASortedMatrix/Solution.py) | Medium
 | [[382] Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](./382.LinkedListRandomNode/Solution.java) | Medium

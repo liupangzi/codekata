@@ -114,6 +114,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[357] Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./357.CountNumbersWithUniqueDigits/Solution.java) | Medium
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
+| [[378] Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./378.KthSmallestElementInASortedMatrix/Solution.java) / [Python](./378.KthSmallestElementInASortedMatrix/Solution.py) | Medium
 | [[382] Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](./382.LinkedListRandomNode/Solution.java) | Medium
 | [[383] Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383.RansomNote/Solution.java) | Easy
 | [[384] Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./384.ShuffleAnArray/Solution.java) | Medium

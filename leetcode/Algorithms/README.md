@@ -58,6 +58,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[121] Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./121.BestTimeToBuyAndSellStock/Solution.java) | Easy
 | [[122] Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./122.BestTimeToBuyAndSellStockII/Solution.java) | Medium
 | [[125] Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./125.ValidPalindrome/Solution.java) | Easy
+| [[129] Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](./129.SumRootToLeafNumbers/Solution.java) | Medium
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium

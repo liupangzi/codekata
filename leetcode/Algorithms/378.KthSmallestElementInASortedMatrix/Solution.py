@@ -5,22 +5,22 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        low = matrix[0][0]
-        high = matrix[len(matrix) - 1][len(matrix[0]) - 1] + 1
-
+        low, high = matrix[0][0], matrix[len(matrix) - 1][len(matrix[0]) - 1] + 1
         while low < high:
             mid = (high + low) / 2
-
-            count = 0
-            for line in matrix:
-                for n in line:
-                    if n <= mid:
-                        count += 1
-
-            if count < k:
+            if self.binary_search(matrix, mid) < k:
                 low = mid + 1
             else:
                 high = mid
-
         return low
+
+    def binary_search(self, matrix, mid):
+        i, j, result = len(matrix) - 1, 0, 0
+        while i >= 0 and j <= len(matrix) - 1:
+            if matrix[i][j] > mid:
+                i -= 1
+            else:
+                j += 1
+                result += (i + 1)
+        return result
 

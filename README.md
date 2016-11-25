@@ -14,4 +14,8 @@ This repo records my solutions of "The Katas" below:
 
 [<img src="https://projecteuler.net/images/euler_portrait.png" alt="projecteuler">](https://projecteuler.net/)
 
+### codeforces
+
+[<img src="http://st.codeforces.com/s/52022/images/codeforces-logo-with-telegram.png" alt="codeforces">](http://codeforces.com/)
+
 [1]: http://codekata.com/kata/codekata-intro/ "The Kata"

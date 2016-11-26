@@ -60,6 +60,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[110] Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./110.BalancedBinaryTree/Solution.java) / [Python](./110.BalancedBinaryTree/Solution.py) | Easy
 | [[111] Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./111.MinimumDepthOfBinaryTree/Solution.java) | Easy
 | [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
+| [[114] Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./114.FlattenBinaryTreeToLinkedList/Solution.java) / [Python](./114.FlattenBinaryTreeToLinkedList/Solution.py) | Medium
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
 | [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
 | [[121] Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./121.BestTimeToBuyAndSellStock/Solution.java) | Easy

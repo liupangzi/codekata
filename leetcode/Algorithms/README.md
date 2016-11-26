@@ -14,6 +14,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[8] String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](./8.StringToInteger/Solution.java) | Easy
 | [[9] Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./9.PalindromeNumber/Solution.java) | Easy
 | [[11] Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./11.ContainerWithMostWater/Solution.java) | Medium
+| [[12] Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./12.IntegerToRoman/Solution.java) | Medium
 | [[13] Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./13.RomanToInteger/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[17] Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./17.LetterCombinationsOfAPhoneNumber/Solution.java) | Medium

@@ -116,6 +116,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[299] Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Java](./299.BullsAndCows/Solution.java) | Easy
 | [[303] Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./303.RangeSumQuery-Immutable/Solution.java) | Easy
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
+| [[328] Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./328.OddEvenLinkedList/Solution.java) | Medium
 | [[338] Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./338.CountingBits/Solution.java) | Medium
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[343] Integer Break](https://leetcode.com/problems/integer-break/) | [Java](./343.IntegerBreak/Solution.java) | Medium

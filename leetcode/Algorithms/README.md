@@ -163,6 +163,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[416] Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](./416.PartitionEqualSubsetSum/Solution.java) / [Python](./416.PartitionEqualSubsetSum/Solution.py) | Medium
 | [[419] Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Java](./419.BattleshipsInABoard/Solution.java) | Medium
 | [[423] Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Java](./423.ReconstructOriginalDigitsFromEnglish/Solution.java) | Medium
+| [[436] Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Java](./436.FindRightInterval/Solution.java) | Medium
 | [[437] Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./437.PathSumIII/Solution.java) | Easy
 | [[438] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./438.FindAllAnagramsInAString/Solution.java) | Easy
 | [[441] Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./441.ArrangingCoins/Solution.java) | Easy

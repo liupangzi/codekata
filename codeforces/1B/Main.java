@@ -2,34 +2,19 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner cin = new Scanner(System.in);
-        int count = cin.nextInt();
+        Scanner stdin = new Scanner(System.in);
+        int count = stdin.nextInt();
         while (count-- > 0) {
-            String string = cin.next();
-            if (isExcel(string)) {
-                System.out.println(ExcelToRXCY(string));
+            String string = stdin.next();
+            int cPosition = string.indexOf('C');
+            if (cPosition > 1 && (string.charAt(cPosition - 1) < 58)) {
+                System.out.println(numberToTitle(Integer.valueOf(string.substring(cPosition + 1))) + string.substring(1, cPosition));
             } else {
-                System.out.println(RXCYToExcel(string));
+                int idx = 0;
+                while (string.charAt(idx) > 64) idx++;
+                System.out.println("R" + string.substring(idx) + "C" + titleToNumber(string.substring(0, idx)));
             }
         }
-    }
-
-    private static boolean isExcel(String x) {
-        int idx = 0;
-        while (idx < x.length() && x.charAt(idx) >= 65) idx++;
-        while (idx < x.length() && x.charAt(idx) <= 57) idx++;
-        return idx == x.length();
-    }
-
-    private static String ExcelToRXCY(String a) {
-        int idx = 0;
-        while (a.charAt(idx) >= 65) idx++;
-        return "R" + a.substring(idx) + "C" + titleToNumber(a.substring(0, idx));
-    }
-
-    private static String RXCYToExcel(String b) {
-        return numberToTitle(Integer.valueOf(b.substring(b.indexOf('C') + 1)))
-                + b.substring(b.indexOf('R') + 1, b.indexOf('C'));
     }
 
     // https://leetcode.com/problems/excel-sheet-column-number/

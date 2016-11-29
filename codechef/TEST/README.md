@@ -16,4 +16,4 @@ Your program is to use the brute-force approach in order to *find the Answer to 
 1
 2
 88
-<pre>
+</pre>

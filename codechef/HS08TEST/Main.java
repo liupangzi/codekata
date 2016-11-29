@@ -1,14 +1,19 @@
-import java.util.Scanner;
+import java.io.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner stdin = new Scanner(System.in);
-        int withdraw = stdin.nextInt();
-        float account = stdin.nextFloat();
+    public static void main(String[] args) throws IOException {
+        BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter stdout = new PrintWriter(System.out);
+
+        String[] tmp = stdin.readLine().split(" ");
+        int withdraw = Integer.parseInt(tmp[0]);
+        float account = Float.parseFloat(tmp[1]);
+
         if ((float) withdraw + 0.5 <= account && withdraw % 5 == 0) {
-            System.out.printf("%.2f\n", account - (float) withdraw - 0.5);
+            stdout.println(account - withdraw - 0.50);
         } else {
-            System.out.printf("%.2f\n", account);
+            stdout.println(account);
         }
+        stdout.close();
     }
 }

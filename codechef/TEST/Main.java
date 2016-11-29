@@ -1,11 +1,12 @@
-import java.util.Scanner;
+import java.io.*;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner stdin = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter stdout = new PrintWriter(System.out);
+
         String tmp;
-        while (!(tmp = stdin.nextLine()).equals("42")) {
-            System.out.println(tmp);
-        }
+        while (!(tmp = stdin.readLine()).equals("42")) stdout.println(tmp);
+        stdout.close();
     }
 }

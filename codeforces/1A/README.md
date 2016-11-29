@@ -19,6 +19,10 @@ Write the needed number of flagstones.
 
 **Examples**
 
-| input  | output |
-|:------:|:------:|
-| 6 6 4  |   4    |
+|  input |
+| :----- |
+|  6 6 4 |
+
+| output |
+|:------ |
+|    4   |

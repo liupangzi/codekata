@@ -23,8 +23,13 @@ Write *n* lines, each line should contain a cell coordinates in the other numera
 
 **Examples**
 
-| input  | output |
-|:------:|:------:|
-|    2   |        |
-| R23C55 |  BC23  |
-|  BC23  | R23C55 |
+|  input |
+| :----- |
+|    2   |
+| R23C55 |
+|  BC23  |
+
+| output |
+|:------ |
+|  BC23  |
+| R23C55 |

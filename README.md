@@ -18,4 +18,8 @@ This repo records my solutions of "The Katas" below:
 
 [<img src="http://st.codeforces.com/s/52022/images/codeforces-logo-with-telegram.png" alt="codeforces">](http://codeforces.com/)
 
+### codechef
+
+[<img src="https://www.codechef.com/sites/all/themes/abessive/logo.png" alt="codechef">](https://www.codechef.com/)
+
 [1]: http://codekata.com/kata/codekata-intro/ "The Kata"

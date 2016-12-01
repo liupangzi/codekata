@@ -22,6 +22,7 @@ For every number N, output a single line containing the single non-negative inte
 
 Sample Input:
 
+```
 6
 3
 60
@@ -29,12 +30,15 @@ Sample Input:
 1024
 23456
 8735373
+```
 
 Sample Output:
 
+```
 0
 14
 24
 253
 5861
 2183837
+```

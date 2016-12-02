@@ -10,3 +10,4 @@ Solutions for https://www.codechef.com
 | Enormous Input Test | [INTEST](https://www.codechef.com/problems/INTEST) | [Java](./INTEST/Main.java) | Beginner
 | Factorial | [FCTRL](https://www.codechef.com/problems/FCTRL) | [Java](./FCTRL/Main.java) | Beginner
 | Small factorials | [FCTRL2](https://www.codechef.com/problems/FCTRL2) | [Java](./FCTRL2/Main.java) | Beginner
+| Turbo Sort | [TSORT](https://www.codechef.com/problems/TSORT) | [Java](./TSORT/Main.java) | Beginner

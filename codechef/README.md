@@ -11,4 +11,4 @@ Solutions for https://www.codechef.com
 | Factorial | [FCTRL](https://www.codechef.com/problems/FCTRL) | [Java](./Beginner/FCTRL/Main.java) | Beginner
 | Small factorials | [FCTRL2](https://www.codechef.com/problems/FCTRL2) | [Java](./Beginner/FCTRL2/Main.java) | Beginner
 | Turbo Sort | [TSORT](https://www.codechef.com/problems/TSORT) | [Java](./Beginner/TSORT/Main.java) | Beginner
-| The Lead Game | [TLG](https://www.codechef.com/problems/TLG) | [Java](./Beginner/TSORT/Main.java) | Beginner
+| The Lead Game | [TLG](https://www.codechef.com/problems/TLG) | [Java](./Beginner/TLG/Main.java) | Beginner

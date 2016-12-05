@@ -14,3 +14,4 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1238 | [Combiner](https://www.urionlinejudge.com.br/judge/en/problems/view/1238) | [Java](./Combiner/Main.java) | 2
 | 1239 | [Bloggo Shortcuts](https://www.urionlinejudge.com.br/judge/en/problems/view/1239) | [Java](./BloggoShortcuts/Main.java) | 2
 | 1241 | [Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241) | [Java](./FitorDontFitII/Main.java) | 2
+| 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./ZeroMeansZero/Main.java) | 1

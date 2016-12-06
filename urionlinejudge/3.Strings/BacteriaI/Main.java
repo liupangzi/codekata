@@ -37,9 +37,11 @@ public class Main {
         next[0] = -1;
         while (j < p.length - 1) {
             if (k == -1 || p[j] == p[k]) {
-                j++;
-                k++;
-                next[j] = k;
+                if (p[++j] == p[++k]) {
+                    next[j] = next[k];
+                } else {
+                    next[j] = k;
+                }
             } else {
                 k = next[k];
             }

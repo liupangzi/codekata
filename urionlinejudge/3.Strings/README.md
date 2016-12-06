@@ -19,3 +19,4 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 2157 | [Mirror Sequence](https://www.urionlinejudge.com.br/judge/en/problems/view/2157) | [Java](./MirrorSequence/Main.java) | 1
 | 2174 | [Pomekon Collection](https://www.urionlinejudge.com.br/judge/en/problems/view/2174) | [Java](./PomekonCollection/Main.java) | 1
 | 2253 | [Passwords Validator](https://www.urionlinejudge.com.br/judge/en/problems/view/2253) | [Java](./PasswordsValidator/Main.java) | 1
+| 2356 | [Bacteria I](https://www.urionlinejudge.com.br/judge/en/problems/view/2356) | [Java](./BacteriaI/Main.java) | 1

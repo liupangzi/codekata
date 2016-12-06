@@ -16,4 +16,5 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1241 | [Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241) | [Java](./FitorDontFitII/Main.java) | 2
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./ZeroMeansZero/Main.java) | 1
 | 2157 | [Mirror Sequence](https://www.urionlinejudge.com.br/judge/en/problems/view/2157) | [Java](./MirrorSequence/Main.java) | 1
+| 2174 | [Pomekon Collection](https://www.urionlinejudge.com.br/judge/en/problems/view/2174) | [Java](./PomekonCollection/Main.java) | 1
 | 2253 | [Passwords Validator](https://www.urionlinejudge.com.br/judge/en/problems/view/2253) | [Java](./PasswordsValidator/Main.java) | 1

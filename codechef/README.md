@@ -15,3 +15,4 @@ Solutions for https://www.codechef.com
 | Ciel and A-B Problem | [CIELAB](https://www.codechef.com/problems/CIELAB) | [Java](./Easy/CIELAB/Main.java) | Easy
 | Internet Media Types | [MIME2](https://www.codechef.com/problems/MIME2) | [Java](./Easy/MIME2/Main.java) | Easy
 | Pairwise AND sum | [AND](https://www.codechef.com/problems/AND) | [Java](./Medium/AND/Main.java) | Medium
+| Shift The String | [TASHIFT](https://www.codechef.com/problems/TASHIFT) | [Java](./Medium/TASHIFT/Main.java) | Medium

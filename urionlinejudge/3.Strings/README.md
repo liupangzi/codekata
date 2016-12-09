@@ -17,6 +17,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1249 | [Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249) | [Java](./Rot13/Main.java) | 2
 | 1255 | [Letter Frequency](https://www.urionlinejudge.com.br/judge/en/problems/view/1255) | [Java](./LetterFrequency/Main.java) | 2
 | 1262 | [Multiple Reading](https://www.urionlinejudge.com.br/judge/en/problems/view/1262) | [Java](./MultipleReading/Main.java) | 2
+| 1272 | [Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272) | [Java](./HiddenMessage/Main.java) | 2
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./ShortAttendance/Main.java) | 2
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./AdvancingLetters/Main.java) | 1
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./ZeroMeansZero/Main.java) | 1

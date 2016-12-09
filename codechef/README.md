@@ -12,6 +12,7 @@ Solutions for https://www.codechef.com
 | Small factorials | [FCTRL2](https://www.codechef.com/problems/FCTRL2) | [Java](./Beginner/FCTRL2/Main.java) | Beginner
 | Turbo Sort | [TSORT](https://www.codechef.com/problems/TSORT) | [Java](./Beginner/TSORT/Main.java) | Beginner
 | The Lead Game | [TLG](https://www.codechef.com/problems/TLG) | [Java](./Beginner/TLG/Main.java) | Beginner
+| Ciel and Receipt | [CIELRCPT](https://www.codechef.com/problems/CIELRCPT) | [Java](./Beginner/CIELRCPT/Main.java) | Beginner
 | Ciel and A-B Problem | [CIELAB](https://www.codechef.com/problems/CIELAB) | [Java](./Easy/CIELAB/Main.java) | Easy
 | Internet Media Types | [MIME2](https://www.codechef.com/problems/MIME2) | [Java](./Easy/MIME2/Main.java) | Easy
 | Closing the Tweets | [TWTCLOSE](https://www.codechef.com/problems/TWTCLOSE) | [Java](./Medium/TWTCLOSE/Main.java) | Medium

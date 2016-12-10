@@ -14,11 +14,11 @@ DDD
 then each character value would be computed as follows:
 
 > 2 = 2 + 0 + 0 : 'C' in element 0 position 0
-2 = 1 + 0 + 1 : 'B' in element 0 position 1
-2 = 0 + 0 + 2 : 'A' in element 0 position 2
-4 = 3 + 1 + 0 : 'D' in element 1 position 0
-5 = 3 + 1 + 1 : 'D' in element 1 position 1
-6 = 3 + 1 + 2 : 'D' in element 1 position 2
+> 2 = 1 + 0 + 1 : 'B' in element 0 position 1
+> 2 = 0 + 0 + 2 : 'A' in element 0 position 2
+> 4 = 3 + 1 + 0 : 'D' in element 1 position 0
+> 5 = 3 + 1 + 1 : 'D' in element 1 position 1
+> 6 = 3 + 1 + 2 : 'D' in element 1 position 2
 
 The final hash would be 2+2+2+4+5+6 = 21.
 

@@ -14,6 +14,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1238 | [Combiner](https://www.urionlinejudge.com.br/judge/en/problems/view/1238) | [Java](./Combiner/Main.java) | 2
 | 1239 | [Bloggo Shortcuts](https://www.urionlinejudge.com.br/judge/en/problems/view/1239) | [Java](./BloggoShortcuts/Main.java) | 2
 | 1241 | [Fit or Dont Fit II](https://www.urionlinejudge.com.br/judge/en/problems/view/1241) | [Java](./FitorDontFitII/Main.java) | 2
+| 1248 | [Diet Plan](https://www.urionlinejudge.com.br/judge/en/problems/view/1248) | [Java](./1248.DietPlan/Main.java) | 2
 | 1249 | [Rot13](https://www.urionlinejudge.com.br/judge/en/problems/view/1249) | [Java](./Rot13/Main.java) | 2
 | 1253 | [Caesar Cipher](https://www.urionlinejudge.com.br/judge/en/problems/view/1253) | [Java](./CaesarCipher/Main.java) | 2
 | 1255 | [Letter Frequency](https://www.urionlinejudge.com.br/judge/en/problems/view/1255) | [Java](./LetterFrequency/Main.java) | 2

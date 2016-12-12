@@ -99,6 +99,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
 | [[232] Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./232.ImplementQueueUsingStacks/Solution.java) | Easy
+| [[233] Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [Java](./233.NumberOfDigitOne/Solution.java) | Hard
 | [[234] Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](./234.PalindromeLinkedList/Solution.java) / [Python](./234.PalindromeLinkedList/Solution.py) | Easy
 | [[235] Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./235.LowestCommonAncestorOfABinarySearchTree/Solution.java) | Easy
 | [[237] Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./237.DeleteNodeInALinkedList/Solution.java) | Easy

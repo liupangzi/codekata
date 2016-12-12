@@ -26,6 +26,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1276 | [Letter Range](https://www.urionlinejudge.com.br/judge/en/problems/view/1276) | [Java](./1276.LetterRange/Main.java) | 3
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
 | 1287 | [Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) | [Java](./1287.FriendlyIntParser/Main.java) | 3
+| 1367 | [Help!](https://www.urionlinejudge.com.br/judge/en/problems/view/1367) | [Java](./1367.Help!/Main.java) | 2
 | 1519 | [Abbreviations](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) | [Java](./1519.Abbreviations/Main.java) | 5
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
 | 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2

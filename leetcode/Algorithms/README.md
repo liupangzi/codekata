@@ -30,6 +30,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[34] Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./34.SearchForARange/Solution.java) | Medium
 | [[36] Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./36.ValidSudoku/Solution.java) | Easy
 | [[38] Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./38.CountAndSay/Solution.java) | Easy
+| [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium
 | [[46] Permutations](https://leetcode.com/problems/permutations/) | [Java](./46.Permutations/Solution.java) | Medium
 | [[48] Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./48.RotateImage/Solution.java) | Medium
 | [[54] Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./54.SpiralMatrix/Solution.java) | Medium
@@ -73,6 +74,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
+| [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/Solution.java) / [Python](./155.MinStack/Solution.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy

@@ -1,6 +1,6 @@
 ### 1492.Counting Ones
 
-Carl is right now the happiest child in the world: he has just learned this morning what the binary system is. He learned, for instance, that the binary representation of a positive integer k is a string a<sub>n</sub>a<sub>n−1</sub> · · · a<sub>1</sub>a<sub>0</sub> where each a<sub>i</sub> is a binary digit 0 or 1, starting with a<sub>n</sub> = 1, and such that ![equation](./sum.gif)
+Carl is right now the happiest child in the world: he has just learned this morning what the binary system is. He learned, for instance, that the binary representation of a positive integer k is a string a<sub>n</sub>a<sub>n−1</sub> · · · a<sub>1</sub>a<sub>0</sub> where each a<sub>i</sub> is a binary digit 0 or 1, starting with a<sub>n</sub> = 1, and such that ![equation](./sum.png)
 . It is really nice to see him turning decimal numbers into binary numbers, and then adding and even multiplying them.
 
 Caesar is Carl’s older brother, and he just can’t stand to see his little brother so happy. So he has prepared a challenge: “Look Carl, I have an easy question for you: I will give you two integers A and B, and you have to tell me how many 1’s there are in the binary representation of all the integers from A to B, inclusive. Get ready”. Carl agreed to the challenge.

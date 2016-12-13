@@ -25,6 +25,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
 | 1492 | [Counting Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1492) | [Java](./1492.CountingOnes/Main.java) | 4
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
+| 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./1871.ZeroMeansZero/Main.java) | 1
 | 1873 | [Rock-paper-scissors-lizard-Spock](https://www.urionlinejudge.com.br/judge/en/problems/view/1873) | [Java](./1873.Rock-paper-scissors-lizard-Spock/Main.java) | 1
 | 2023 | [The Last Good Kid](https://www.urionlinejudge.com.br/judge/en/problems/view/2023) | [Java](./2023.TheLastGoodKid/Main.java) | 1

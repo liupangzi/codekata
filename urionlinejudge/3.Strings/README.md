@@ -20,6 +20,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1255 | [Letter Frequency](https://www.urionlinejudge.com.br/judge/en/problems/view/1255) | [Java](./1255.LetterFrequency/Main.java) | 2
 | 1257 | [Array Hash](https://www.urionlinejudge.com.br/judge/en/problems/view/1257) | [Java](./1257.ArrayHash/Main.java) | 3
 | 1262 | [Multiple Reading](https://www.urionlinejudge.com.br/judge/en/problems/view/1262) | [Java](./1262.MultipleReading/Main.java) | 2
+| 1263 | [Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263) | [Java](./1263.Alliteration/Main.java) | 2
 | 1272 | [Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272) | [Java](./1272.HiddenMessage/Main.java) | 2
 | 1273 | [Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273) | [Java](./1273.Justifier/Main.java) | 2
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2

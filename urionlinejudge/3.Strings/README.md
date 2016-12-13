@@ -23,7 +23,6 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1272 | [Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272) | [Java](./1272.HiddenMessage/Main.java) | 2
 | 1273 | [Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273) | [Java](./1273.Justifier/Main.java) | 2
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
-| 1492 | [Counting Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1492) | [Java](./1492.CountingOnes/Main.java) | 4
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
 | 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./1871.ZeroMeansZero/Main.java) | 1

@@ -11,7 +11,7 @@ Carl hates loosing to his brother so he needs a better solution fast. Can you he
 
 **Input**
 
-The input consists of many test cases and ends with EOF. Each test case consist in a single line that contains two integers **A** and **B** (1 ≤ **A** ≤ **B** ≤ 1016).
+The input consists of many test cases and ends with EOF. Each test case consist in a single line that contains two integers **A** and **B** (1 ≤ **A** ≤ **B** ≤ 10<sup>16</sup>).
 
 **Output**
 

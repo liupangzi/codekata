@@ -35,6 +35,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 2023 | [The Last Good Kid](https://www.urionlinejudge.com.br/judge/en/problems/view/2023) | [Java](./2023.TheLastGoodKid/Main.java) | 1
 | 2062 | [OBI URI](https://www.urionlinejudge.com.br/judge/en/problems/view/2062) | [Java](./2062.OBIURI/Main.java) | 1
 | 2137 | [The Library of Mr. Severino](https://www.urionlinejudge.com.br/judge/en/problems/view/2137) | [Java](./2137.TheLibraryOfMr.Severino/Main.java) | 1
+| 2150 | [Alien Vowels](https://www.urionlinejudge.com.br/judge/en/problems/view/2150) | [Java](./2150.AlienVowels/Main.java) | 2
 | 2157 | [Mirror Sequence](https://www.urionlinejudge.com.br/judge/en/problems/view/2157) | [Java](./2157.MirrorSequence/Main.java) | 1
 | 2174 | [Pomekon Collection](https://www.urionlinejudge.com.br/judge/en/problems/view/2174) | [Java](./2174.PomekonCollection/Main.java) | 1
 | 2253 | [Passwords Validator](https://www.urionlinejudge.com.br/judge/en/problems/view/2253) | [Java](./2253.PasswordsValidator/Main.java) | 1

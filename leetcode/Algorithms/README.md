@@ -178,3 +178,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[459] Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./459.RepeatedSubstringPattern/Solution.java) | Easy
 | [[462] Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./462.MinimumMovesToEqualArrayElementsII/Solution.java) | Medium
 | [[463] Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](./463.IslandPerimeter/Solution.java) | Easy
+| [[468] Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](./468.ValidateIPAddress/Solution.java) | Medium

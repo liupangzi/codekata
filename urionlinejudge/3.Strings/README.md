@@ -23,6 +23,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1263 | [Alliteration](https://www.urionlinejudge.com.br/judge/en/problems/view/1263) | [Java](./1263.Alliteration/Main.java) | 2
 | 1272 | [Hidden Message](https://www.urionlinejudge.com.br/judge/en/problems/view/1272) | [Java](./1272.HiddenMessage/Main.java) | 2
 | 1273 | [Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273) | [Java](./1273.Justifier/Main.java) | 2
+| 1276 | [Letter Range](https://www.urionlinejudge.com.br/judge/en/problems/view/1276) | [Java](./1276.LetterRange/Main.java) | 3
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
 | 1287 | [Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) | [Java](./1287.FriendlyIntParser/Main.java) | 3
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1

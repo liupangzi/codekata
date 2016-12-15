@@ -27,6 +27,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
 | 1287 | [Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) | [Java](./1287.FriendlyIntParser/Main.java) | 3
 | 1367 | [Help!](https://www.urionlinejudge.com.br/judge/en/problems/view/1367) | [Java](./1367.Help!/Main.java) | 2
+| 1448 | [Chinese Whispers](https://www.urionlinejudge.com.br/judge/en/problems/view/1448) | [Java](./1448.ChineseWhispers/Main.java) | 2
 | 1519 | [Abbreviations](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) | [Java](./1519.Abbreviations/Main.java) | 5
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
 | 1781 | [Guga and the String](https://www.urionlinejudge.com.br/judge/en/problems/view/1781) | [Java](./1781.GugaAndTheString/Main.java) | 2

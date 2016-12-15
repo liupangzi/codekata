@@ -33,6 +33,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium
 | [[46] Permutations](https://leetcode.com/problems/permutations/) | [Java](./46.Permutations/Solution.java) | Medium
 | [[48] Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./48.RotateImage/Solution.java) | Medium
+| [[49] Group Anagrams](https://leetcode.com/problems/anagrams/) | [Java](./49.GroupAnagrams/Solution.java) | Medium
 | [[54] Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./54.SpiralMatrix/Solution.java) | Medium
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[59] Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./59.SpiralMatrixII/Solution.java) | Medium

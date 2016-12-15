@@ -29,6 +29,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1367 | [Help!](https://www.urionlinejudge.com.br/judge/en/problems/view/1367) | [Java](./1367.Help!/Main.java) | 2
 | 1519 | [Abbreviations](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) | [Java](./1519.Abbreviations/Main.java) | 5
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
+| 1781 | [Guga and the String](https://www.urionlinejudge.com.br/judge/en/problems/view/1781) | [Java](./1781.GugaAndTheString/Main.java) | 2
 | 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./1871.ZeroMeansZero/Main.java) | 1
 | 1873 | [Rock-paper-scissors-lizard-Spock](https://www.urionlinejudge.com.br/judge/en/problems/view/1873) | [Java](./1873.Rock-paper-scissors-lizard-Spock/Main.java) | 1

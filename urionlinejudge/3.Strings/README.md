@@ -32,6 +32,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./1871.ZeroMeansZero/Main.java) | 1
 | 1873 | [Rock-paper-scissors-lizard-Spock](https://www.urionlinejudge.com.br/judge/en/problems/view/1873) | [Java](./1873.Rock-paper-scissors-lizard-Spock/Main.java) | 1
+| 1898 | [Kickback Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1898) | [Java](./1898.KickbackSum/Main.java) | 2
 | 2023 | [The Last Good Kid](https://www.urionlinejudge.com.br/judge/en/problems/view/2023) | [Java](./2023.TheLastGoodKid/Main.java) | 1
 | 2062 | [OBI URI](https://www.urionlinejudge.com.br/judge/en/problems/view/2062) | [Java](./2062.OBIURI/Main.java) | 1
 | 2137 | [The Library of Mr. Severino](https://www.urionlinejudge.com.br/judge/en/problems/view/2137) | [Java](./2137.TheLibraryOfMr.Severino/Main.java) | 1

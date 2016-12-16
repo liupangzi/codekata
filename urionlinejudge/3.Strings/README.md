@@ -33,6 +33,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1
 | 1781 | [Guga and the String](https://www.urionlinejudge.com.br/judge/en/problems/view/1781) | [Java](./1781.GugaAndTheString/Main.java) | 2
 | 1803 | [Matring](https://www.urionlinejudge.com.br/judge/en/problems/view/1803) | [Java](./1803.Matring/Main.java) | 2
+| 1868 | [Square Spiral](https://www.urionlinejudge.com.br/judge/en/problems/view/1868) | [Java](./1868.SquareSpiral/Main.java) | 1
 | 1871 | [Zero means Zero](https://www.urionlinejudge.com.br/judge/en/problems/view/1871) | [Java](./1871.ZeroMeansZero/Main.java) | 1
 | 1873 | [Rock-paper-scissors-lizard-Spock](https://www.urionlinejudge.com.br/judge/en/problems/view/1873) | [Java](./1873.Rock-paper-scissors-lizard-Spock/Main.java) | 1
 | 1898 | [Kickback Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1898) | [Java](./1898.KickbackSum/Main.java) | 2

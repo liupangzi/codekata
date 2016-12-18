@@ -28,6 +28,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1287 | [Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) | [Java](./1287.FriendlyIntParser/Main.java) | 3
 | 1367 | [Help!](https://www.urionlinejudge.com.br/judge/en/problems/view/1367) | [Java](./1367.Help!/Main.java) | 2
 | 1448 | [Chinese Whispers](https://www.urionlinejudge.com.br/judge/en/problems/view/1448) | [Java](./1448.ChineseWhispers/Main.java) | 2
+| 1516 | [Image](https://www.urionlinejudge.com.br/judge/en/problems/view/1516) | [Java](./1516.Image/Main.java) | 2
 | 1519 | [Abbreviations](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) | [Java](./1519.Abbreviations/Main.java) | 5
 | 1581 | [International Chat](https://www.urionlinejudge.com.br/judge/en/problems/view/1581) | [Java](./1581.InternationalChat/Main.java) | 2
 | 1607 | [Advancing Letters](https://www.urionlinejudge.com.br/judge/en/problems/view/1607) | [Java](./1607.AdvancingLetters/Main.java) | 1

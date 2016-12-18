@@ -123,6 +123,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy
 | [[299] Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Java](./299.BullsAndCows/Solution.java) | Easy
 | [[303] Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./303.RangeSumQuery-Immutable/Solution.java) | Easy
+| [[313] Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](./313.SuperUglyNumber/Solution.java) | Medium
 | [[318] Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Java](./318.MaximumProductOfWordLengths/Solution.java) | Medium
 | [[319] Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Java](./319.BulbSwitcher/Solution.java) | Medium
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy

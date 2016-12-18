@@ -38,6 +38,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[54] Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./54.SpiralMatrix/Solution.java) | Medium
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[59] Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./59.SpiralMatrixII/Solution.java) | Medium
+| [[60] Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Java](./60.PermutationSequence/Solution.java) | Medium
 | [[61] Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./61.RotateList/Solution.java) | Medium
 | [[62] Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./62.UniquePaths/Solution.java) | Medium
 | [[64] Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./64.MinimumPathSum/Solution.java) | Medium

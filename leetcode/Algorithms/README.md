@@ -81,6 +81,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/Solution.java) / [Python](./155.MinStack/Solution.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
 | [[165] Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./165.CompareVersionNumbers/Solution.java) | Easy
+| [[166] Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](./166.FractionToRecurringDecimal/Solution.java) | Medium
 | [[167] Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./167.TwoSumII-InputArrayIsSorted/Solution.java) | Medium
 | [[168] Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./168.ExcelSheetColumnTitle/Solution.java) | Easy
 | [[169] Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./169.MajorityElement/Solution.java) / [C](./169.MajorityElement/Solution.c) | Easy

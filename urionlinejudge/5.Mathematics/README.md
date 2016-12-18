@@ -12,3 +12,4 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1279 | [Leap Year or Not Leap Year and …](https://www.urionlinejudge.com.br/judge/en/problems/view/1279) | [Java](./1279.LeapYearOrNotLeapYearAnd/Main.java) | 4
 | 1492 | [Counting Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1492) | [Java](./1492.CountingOnes/Main.java) | 4
 | 1582 | [The Pythagorean Theorem](https://www.urionlinejudge.com.br/judge/en/problems/view/1582) | [Java](./1582.ThePythagoreanTheorem/Main.java) | 1
+| 1761 | [Christmas Decorations](https://www.urionlinejudge.com.br/judge/en/problems/view/1761) | [Java](./1761.ChristmasDecorations/Main.java) | 1

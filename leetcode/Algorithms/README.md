@@ -121,6 +121,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[264] Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](./264.UglyNumberII/Solution.java) | Medium
 | [[268] Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./268.MissingNumber/Solution.java) | Medium
 | [[278] First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./278.FirstBadVersion/Solution.java) | Easy
+| [[279] Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./279.PerfectSquares/Solution.java) | Medium
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy

@@ -195,3 +195,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[463] Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](./463.IslandPerimeter/Solution.java) | Easy
 | [[468] Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](./468.ValidateIPAddress/Solution.java) | Medium
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
+| [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy

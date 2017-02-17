@@ -197,4 +197,5 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy
+| [[504] Base 7](https://leetcode.com/problems/base-7/) | [Java](./504.Base7/Solution.java) | Easy
 | [[506] Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](./506.RelativeRanks/Solution.java) | Easy

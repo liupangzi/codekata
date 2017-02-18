@@ -194,6 +194,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[462] Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./462.MinimumMovesToEqualArrayElementsII/Solution.java) | Medium
 | [[463] Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](./463.IslandPerimeter/Solution.java) | Easy
 | [[468] Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](./468.ValidateIPAddress/Solution.java) | Medium
+| [[476] Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./476.NumberComplement/Solution.java) | Easy
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy

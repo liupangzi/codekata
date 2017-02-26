@@ -186,7 +186,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[438] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./438.FindAllAnagramsInAString/Solution.java) | Easy
 | [[441] Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./441.ArrangingCoins/Solution.java) | Easy
 | [[442] Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](./442.FindAllDuplicatesInAnArray/Solution.java) | Medium
-| [[445] Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./445.AddTwoNumbersII/Solution.java) | Easy
+| [[445] Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./445.AddTwoNumbersII/Solution.java) | Medium
 | [[447] Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Java](./447.NumberOfBoomerangs/Solution.java) | Easy
 | [[448] Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./448.FindAllNumbersDisappearedInAnArray/Solution.java) | Easy
 | [[453] Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./453.MinimumMovesToEqualArrayElements/Solution.java) | Easy
@@ -205,5 +205,6 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[504] Base 7](https://leetcode.com/problems/base-7/) | [Java](./504.Base7/Solution.java) | Easy
 | [[506] Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](./506.RelativeRanks/Solution.java) | Easy
 | [[508] Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Java](./508.MostFrequentSubtreeSum/Solution.java) | Medium
-| [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Easy
+| [[513] Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./513.FindBottomLeftTreeValue/Solution.java) | Medium
+| [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Medium
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy

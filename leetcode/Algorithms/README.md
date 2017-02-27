@@ -203,6 +203,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[492] Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Java](./492.ConstructTheRectangle/Solution.java) | Easy
 | [[496] Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./496.NextGreaterElementI/Solution.java) / [Python](./496.NextGreaterElementI/Solution.py) | Easy
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy
+| [[501] Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./501.FindModeInBinarySearchTree/Solution.java) | Easy
 | [[504] Base 7](https://leetcode.com/problems/base-7/) | [Java](./504.Base7/Solution.java) | Easy
 | [[506] Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](./506.RelativeRanks/Solution.java) | Easy
 | [[508] Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Java](./508.MostFrequentSubtreeSum/Solution.java) | Medium

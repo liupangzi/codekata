@@ -210,3 +210,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[513] Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./513.FindBottomLeftTreeValue/Solution.java) | Medium
 | [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Medium
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
+| [[530] Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./530.MinimumAbsoluteDifferenceInBST/Solution.java) | Easy

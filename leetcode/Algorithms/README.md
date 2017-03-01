@@ -29,6 +29,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[28] Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./28.Implement-strStr()/Solution.java) | Easy
 | [[29] Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Java](./29.DivideTwoIntegers/Solution.java) | Medium
 | [[34] Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./34.SearchForARange/Solution.java) | Medium
+| [[35] Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./35.SearchInsertPosition/Solution.java) | Easy
 | [[36] Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./36.ValidSudoku/Solution.java) | Easy
 | [[38] Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./38.CountAndSay/Solution.java) | Easy
 | [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium

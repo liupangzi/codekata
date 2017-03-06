@@ -215,4 +215,5 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
 | [[526] Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](./526.BeautifulArrangement/Solution.java) | Medium
 | [[530] Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./530.MinimumAbsoluteDifferenceInBST/Solution.java) | Easy
+| [[532] K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](./532.K-diffPairsInAnArray/Solution.java) | Easy
 | [[535] Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Java](./535.EncodeAndDecodeTinyURL/Codec.java) | Medium

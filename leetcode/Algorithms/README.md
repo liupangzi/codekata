@@ -75,6 +75,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
 | [[114] Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./114.FlattenBinaryTreeToLinkedList/Solution.java) / [Python](./114.FlattenBinaryTreeToLinkedList/Solution.py) | Medium
 | [[116] Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./116.PopulatingNextRightPointersInEachNode/Solution.java) | Medium
+| [[117] Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./117.PopulatingNextRightPointersInEachNodeII/Solution.java) | Medium
 | [[118] Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118.Pascal'sTriangle/Solution.java) | Easy
 | [[119] Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119.Pascal'sTriangleII/Solution.java) | Easy
 | [[121] Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./121.BestTimeToBuyAndSellStock/Solution.java) | Easy

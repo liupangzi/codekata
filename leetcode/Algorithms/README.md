@@ -67,6 +67,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
+| [[105] Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./105.ConstructBinaryTreeFromPreorderAndInorderTraversal/Solution.java) | Medium
 | [[107] Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./107.BinaryTreeLevelOrderTraversalII/Solution.java) / [Python](./107.BinaryTreeLevelOrderTraversalII/Solution.py) | Easy
 | [[108] Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./108.ConvertSortedArrayToBinarySearchTree/Solution.java) | Easy
 | [[110] Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./110.BalancedBinaryTree/Solution.java) / [Python](./110.BalancedBinaryTree/Solution.py) | Easy

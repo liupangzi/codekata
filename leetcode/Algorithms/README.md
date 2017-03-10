@@ -98,6 +98,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[169] Majority Element](https://leetcode.com/problems/majority-element/) | [Java](./169.MajorityElement/Solution.java) / [C](./169.MajorityElement/Solution.c) | Easy
 | [[171] Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./171.ExcelSheetColumnNumber/Solution.java) | Easy
 | [[172] Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./172.FactorialTrailingZeroes/Solution.java) | Easy
+| [[173] Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Java](./173.BinarySearchTreeIterator/Solution.java) | Medium
 | [[189] Rotate Array](https://leetcode.com/problems/rotate-array/) | [Java](./189.RotateArray/Solution.java) | Easy
 | [[190] Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](./190.ReverseBits/Solution.java) | Easy
 | [[191] Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](./191.NumberOf1Bits/Solution.java) / [C](./191.NumberOf1Bits/Solution.c) | Easy

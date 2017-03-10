@@ -67,6 +67,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy
+| [[103] Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./103.BinaryTreeZigzagLevelOrderTraversal/Solution.java) | Medium
 | [[104] Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./104.MaximumDepthOfBinaryTree/Solution.java) | Easy
 | [[105] Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./105.ConstructBinaryTreeFromPreorderAndInorderTraversal/Solution.java) | Medium
 | [[106] Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](./106.ConstructBinaryTreeFromInorderAndPostorderTraversal/Solution.java) | Medium

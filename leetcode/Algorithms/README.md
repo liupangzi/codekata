@@ -63,6 +63,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[93] Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./93.RestoreIPAddresses/Solution.java) | Medium
 | [[94] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./94.BinaryTreeInorderTraversal/Solution.java) / [Python](./94.BinaryTreeInorderTraversal/Solution.py) | Medium
 | [[96] Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./96.UniqueBinarySearchTrees/Solution.java) | Medium
+| [[98] Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./98.ValidateBinarySearchTree/Solution.java) | Medium
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy
 | [[101] Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./101.SymmetricTree/Solution.java) / [C](./101.SymmetricTree/Solution.c) | Easy
 | [[102] Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./102.BinaryTreeLevelOrderTraversal/Solution.java) | Easy

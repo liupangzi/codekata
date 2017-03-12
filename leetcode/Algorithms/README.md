@@ -76,6 +76,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[110] Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./110.BalancedBinaryTree/Solution.java) / [Python](./110.BalancedBinaryTree/Solution.py) | Easy
 | [[111] Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./111.MinimumDepthOfBinaryTree/Solution.java) | Easy
 | [[112] Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./112.PathSum/Solution.java) | Easy
+| [[113] Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./113.PathSumII/Solution.java) | Medium
 | [[114] Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./114.FlattenBinaryTreeToLinkedList/Solution.java) / [Python](./114.FlattenBinaryTreeToLinkedList/Solution.py) | Medium
 | [[116] Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./116.PopulatingNextRightPointersInEachNode/Solution.java) | Medium
 | [[117] Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./117.PopulatingNextRightPointersInEachNodeII/Solution.java) | Medium

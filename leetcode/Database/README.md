@@ -7,3 +7,4 @@ Solutions for https://leetcode.com/problemset/database/
 | ----- | -------- | ---------- |
 | [[175] Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./175.CombineTwoTables/solution.sql) | Easy
 | [[176] Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./176.SecondHighestSalary/solution.sql) | Easy
+| [[182] Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./182.DuplicateEmails/solution.sql) | Easy

@@ -7,6 +7,7 @@ Solutions for https://leetcode.com/problemset/database/
 | ----- | -------- | ---------- |
 | [[175] Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](./175.CombineTwoTables/solution.sql) | Easy
 | [[176] Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./176.SecondHighestSalary/solution.sql) | Easy
+| [[177] Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](./177.NthHighestSalary/solution.sql) | Medium
 | [[178] Rank Scores](https://leetcode.com/problems/rank-scores/) | [MySQL](./178.RankScores/solution.sql) | Medium
 | [[181] Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL](./181.EmployeesEarningMoreThanTheirManagers/solution.sql) | Easy
 | [[182] Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./182.DuplicateEmails/solution.sql) | Easy

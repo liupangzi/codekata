@@ -14,5 +14,6 @@ Solutions for https://leetcode.com/problemset/database/
 | [[182] Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./182.DuplicateEmails/solution.sql) | Easy
 | [[183] Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](./183.CustomersWhoNeverOrder/solution.sql) | Easy
 | [[184] Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](./184.DepartmentHighestSalary/solution.sql) | Medium
+| [[185] Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MySQL](./185.DepartmentTopThreeSalaries/solution.sql) | Hard
 | [[196] Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./196.DeleteDuplicateEmails/solution.sql) | Easy
 | [[197] Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./197.RisingTemperature/solution.sql) | Easy

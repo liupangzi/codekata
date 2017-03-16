@@ -17,3 +17,4 @@ Solutions for https://leetcode.com/problemset/database/
 | [[185] Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [MySQL](./185.DepartmentTopThreeSalaries/solution.sql) | Hard
 | [[196] Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./196.DeleteDuplicateEmails/solution.sql) | Easy
 | [[197] Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./197.RisingTemperature/solution.sql) | Easy
+| [[262] Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MySQL](./262.TripsAndUsers/solution.sql) | Hard

@@ -25,6 +25,7 @@ Solutions for https://www.urionlinejudge.com.br/judge/en
 | 1273 | [Justifier](https://www.urionlinejudge.com.br/judge/en/problems/view/1273) | [Java](./1273.Justifier/Main.java) | 2
 | 1276 | [Letter Range](https://www.urionlinejudge.com.br/judge/en/problems/view/1276) | [Java](./1276.LetterRange/Main.java) | 3
 | 1277 | [Short Attendance](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) | [Java](./1277.ShortAttendance/Main.java) | 2
+| 1278 | [Justifier II](https://www.urionlinejudge.com.br/judge/en/problems/view/1278) | [Java](./1278.JustifierII/Main.java) | 3
 | 1287 | [Friendly Int Parser](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) | [Java](./1287.FriendlyIntParser/Main.java) | 3
 | 1367 | [Help!](https://www.urionlinejudge.com.br/judge/en/problems/view/1367) | [Java](./1367.Help!/Main.java) | 2
 | 1448 | [Chinese Whispers](https://www.urionlinejudge.com.br/judge/en/problems/view/1448) | [Java](./1448.ChineseWhispers/Main.java) | 2

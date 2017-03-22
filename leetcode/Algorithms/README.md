@@ -234,6 +234,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[532] K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](./532.K-diffPairsInAnArray/Solution.java) | Easy
 | [[535] Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Java](./535.EncodeAndDecodeTinyURL/Codec.java) | Medium
 | [[536] Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [Java](./536.ConstructBinaryTreeFromString/Solution.java) | Medium
+| [[538] Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./538.ConvertBSTToGreaterTree/Solution.java) | Medium
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy

@@ -216,7 +216,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy
 | [[492] Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Java](./492.ConstructTheRectangle/Solution.java) | Easy
-| [[494] Target Sum](https://leetcode.com/problems/target-sum/) | [Java](./494.TargetSum/Solution.java) / [Python](./494.TargetSum/Solution.py) | Medium
+| [[494] Target Sum](https://leetcode.com/problems/target-sum/) | [Java](./494.TargetSum/Solution.java) / [Python](./494.TargetSum/Solution.py) / [Javascript](./494.TargetSum/Solution.js) | Medium
 | [[495] Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Java](./495.TeemoAttacking/Solution.java) | Medium
 | [[496] Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./496.NextGreaterElementI/Solution.java) / [Python](./496.NextGreaterElementI/Solution.py) | Easy
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy

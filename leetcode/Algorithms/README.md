@@ -233,6 +233,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[513] Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./513.FindBottomLeftTreeValue/Solution.java) | Medium
 | [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Medium
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
+| [[521] Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Java](./521.LongestUncommonSubsequenceI/Solution.java) | Easy
 | [[523] Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./523.ContinuousSubarraySum/Solution.java) | Medium
 | [[526] Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](./526.BeautifulArrangement/Solution.java) | Medium
 | [[530] Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./530.MinimumAbsoluteDifferenceInBST/Solution.java) | Easy

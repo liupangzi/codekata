@@ -223,6 +223,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[501] Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./501.FindModeInBinarySearchTree/Solution.java) / [Python](./501.FindModeInBinarySearchTree/Solution.py) | Easy
 | [[504] Base 7](https://leetcode.com/problems/base-7/) | [Java](./504.Base7/Solution.java) | Easy
 | [[506] Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](./506.RelativeRanks/Solution.java) | Easy
+| [[507] Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./507.PerfectNumber/Solution.java) | Easy
 | [[508] Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Java](./508.MostFrequentSubtreeSum/Solution.java) | Medium
 | [[513] Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./513.FindBottomLeftTreeValue/Solution.java) | Medium
 | [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Medium

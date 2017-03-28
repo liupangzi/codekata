@@ -21,4 +21,6 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
  1. The input strings will not have extra blank.
  2. The input strings will be given in the form of **a+bi**, where the integer **a** and **b** will both belong to the range of [-100, 100]. And **the output should be also in this form**.
 
+### [Editorial](https://leetcode.com/articles/complex-number-multiplication/)
+
   [1]: https://en.wikipedia.org/wiki/Complex_number

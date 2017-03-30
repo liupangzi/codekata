@@ -219,6 +219,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[494] Target Sum](https://leetcode.com/problems/target-sum/) | [Java](./494.TargetSum/Solution.java) / [Python](./494.TargetSum/Solution.py) / [Javascript](./494.TargetSum/Solution.js) | Medium
 | [[495] Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Java](./495.TeemoAttacking/Solution.java) | Medium
 | [[496] Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./496.NextGreaterElementI/Solution.java) / [Python](./496.NextGreaterElementI/Solution.py) | Easy
+| [[498] Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Java](./498.DiagonalTraverse/Solution.java) | Medium
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy
 | [[501] Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./501.FindModeInBinarySearchTree/Solution.java) / [Python](./501.FindModeInBinarySearchTree/Solution.py) | Easy
 | [[503] Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](./503.NextGreaterElementII/Solution.java) | Medium

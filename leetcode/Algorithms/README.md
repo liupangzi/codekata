@@ -221,6 +221,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[496] Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Java](./496.NextGreaterElementI/Solution.java) / [Python](./496.NextGreaterElementI/Solution.py) | Easy
 | [[500] Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Java](./500.KeyboardRow/Solution.java) | Easy
 | [[501] Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./501.FindModeInBinarySearchTree/Solution.java) / [Python](./501.FindModeInBinarySearchTree/Solution.py) | Easy
+| [[503] Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](./503.NextGreaterElementII/Solution.java) | Medium
 | [[504] Base 7](https://leetcode.com/problems/base-7/) | [Java](./504.Base7/Solution.java) | Easy
 | [[506] Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](./506.RelativeRanks/Solution.java) | Easy
 | [[507] Perfect Number](https://leetcode.com/problems/perfect-number/) | [Java](./507.PerfectNumber/Solution.java) | Easy

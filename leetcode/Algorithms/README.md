@@ -116,6 +116,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
+| [[224] Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./224.BasicCalculator/Solution.java) | Hard
 | [[225] Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./225.ImplementStackUsingQueues/Solution.java) | Easy
 | [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[227] Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java](./227.BasicCalculatorII/Solution.java) | Medium

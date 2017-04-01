@@ -89,6 +89,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
+| [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[149] Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](./149.MaxPointsOnALine/Solution.java) | Medium
 | [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium

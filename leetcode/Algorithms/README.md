@@ -60,6 +60,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[86] Partition List](https://leetcode.com/problems/partition-list/) | [Java](./86.PartitionList/Solution.java) | Medium
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy
 | [[91] Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./91.DecodeWays/Solution.java) | Medium
+| [[92] Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](./92.ReverseLinkedListII/Solution.java) | Medium
 | [[93] Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./93.RestoreIPAddresses/Solution.java) | Medium
 | [[94] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./94.BinaryTreeInorderTraversal/Solution.java) / [Python](./94.BinaryTreeInorderTraversal/Solution.py) | Medium
 | [[96] Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./96.UniqueBinarySearchTrees/Solution.java) | Medium

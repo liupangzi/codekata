@@ -88,6 +88,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[129] Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Java](./129.SumRootToLeafNumbers/Solution.java) | Medium
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
+| [[142] Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./142.LinkedListCycleII/Solution.java) | Medium
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
 | [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[149] Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](./149.MaxPointsOnALine/Solution.java) | Medium

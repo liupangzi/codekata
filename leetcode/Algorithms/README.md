@@ -32,6 +32,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[35] Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./35.SearchInsertPosition/Solution.java) | Easy
 | [[36] Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./36.ValidSudoku/Solution.java) | Easy
 | [[38] Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./38.CountAndSay/Solution.java) | Easy
+| [[41] First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Java](./41.FirstMissingPositive/Solution.java) | Medium
 | [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium
 | [[46] Permutations](https://leetcode.com/problems/permutations/) | [Java](./46.Permutations/Solution.java) | Medium
 | [[48] Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./48.RotateImage/Solution.java) | Medium

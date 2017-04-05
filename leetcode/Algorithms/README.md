@@ -39,6 +39,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[50] Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./50.Pow(x,n)/Solution.java) | Medium
 | [[53] Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./53.MaximumSubarray/Solution.java) | Easy
 | [[54] Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](./54.SpiralMatrix/Solution.java) | Medium
+| [[55] Jump Game](https://leetcode.com/problems/jump-game/) | [Java](./55.JumpGame/Solution.java) | Medium
 | [[56] Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./56.MergeIntervals/Solution.java) | Medium
 | [[58] Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](./58.LengthOfLastWord/Solution.java) | Easy
 | [[59] Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./59.SpiralMatrixII/Solution.java) | Medium

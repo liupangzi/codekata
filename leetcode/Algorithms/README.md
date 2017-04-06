@@ -48,6 +48,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[60] Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Java](./60.PermutationSequence/Solution.java) | Medium
 | [[61] Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](./61.RotateList/Solution.java) | Medium
 | [[62] Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](./62.UniquePaths/Solution.java) | Medium
+| [[63] Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Java](./63.UniquePathsII/Solution.java) | Medium
 | [[64] Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./64.MinimumPathSum/Solution.java) | Medium
 | [[66] Plus One](https://leetcode.com/problems/plus-one/) | [Java](./66.PlusOne/Solution.java) | Easy
 | [[67] Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./67.AddBinary/Solution.java) | Easy

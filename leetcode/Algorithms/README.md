@@ -179,6 +179,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[373] Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](./373.FindKPairsWithSmallestSums/Solution.java) | Medium
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
 | [[378] Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./378.KthSmallestElementInASortedMatrix/Solution.java) / [Python](./378.KthSmallestElementInASortedMatrix/Solution.py) | Medium
+| [[380] Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Java](./380.InsertDeleteGetRandomO(1)/RandomizedSet.java) | Medium
 | [[382] Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](./382.LinkedListRandomNode/Solution.java) | Medium
 | [[383] Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./383.RansomNote/Solution.java) | Easy
 | [[384] Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](./384.ShuffleAnArray/Solution.java) | Medium

@@ -264,4 +264,5 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy
 | [[554] Brick Wall](https://leetcode.com/problems/brick-wall/) | [Java](./554.BrickWall/Solution.java) | Medium
+| [[556] Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Java](./556.NextGreaterElementIII/Solution.java) | Medium
 | [[557] Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./557.ReverseWordsInAStringIII/Solution.java) | Easy

@@ -10,20 +10,15 @@ public class Solution {
             if (list[peak] < list[peak - 1]) {
                 int cursor = 0, result = 0;
                 while (list[cursor] <= list[peak]) cursor++;
-                swap(list, cursor, peak);
+                int tmp = list[cursor];
+                list[cursor] = list[peak];
+                list[peak] = tmp;
                 for (int i = size - 1; i >= peak; i--) result = result * 10 + list[i];
                 for (int j = 0; j < peak; j++) result = result * 10 + list[j];
-                if (result > n) return result;
-                swap(list, cursor, peak);
+                return result > n ? result : -1;
             }
             peak++;
         }
         return -1;
-    }
-
-    private void swap(int[] list, int m, int n) {
-        int tmp = list[m];
-        list[m] = list[n];
-        list[n] = tmp;
     }
 }

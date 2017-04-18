@@ -267,6 +267,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy
+| [[547] Friend Circles](https://leetcode.com/problems/friend-circles/) | [Go](./547.FriendCircles/Solution.go) | Medium
 | [[551] Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](./551.StudentAttendanceRecordI/Solution.java) | Easy
 | [[552] Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [Java](./552.StudentAttendanceRecordII/Solution.java) | Hard
 | [[553] Optimal Division](https://leetcode.com/problems/optimal-division/) | [Java](./553.OptimalDivision/Solution.java) | Medium

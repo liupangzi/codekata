@@ -132,6 +132,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[205] Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](./205.IsomorphicStrings/Solution.java) | Easy
 | [[206] Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./206.ReverseLinkedList/Solution.java) / [C](./206.ReverseLinkedList/Solution.c) | Easy
 | [[209] Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./209.MinimumSizeSubarraySum/Solution.java) / [Golang](./209.MinimumSizeSubarraySum/Solution.go)  | Medium
+| [[213] House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Java](./213.HouseRobberII/Solution.java) | Medium
 | [[215] Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./215.KthLargestElementInAnArray/Solution.java) | Medium
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy

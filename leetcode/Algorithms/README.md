@@ -109,6 +109,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/MinStack.java) / [Python](./155.MinStack/MinStack.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
+| [[162] Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./162.FindPeakElement/Solution.java) | Medium
 | [[165] Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./165.CompareVersionNumbers/Solution.java) | Easy
 | [[166] Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](./166.FractionToRecurringDecimal/Solution.java) | Medium
 | [[167] Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./167.TwoSumII-InputArrayIsSorted/Solution.java) | Medium

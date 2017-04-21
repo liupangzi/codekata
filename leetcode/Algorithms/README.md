@@ -172,6 +172,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[319] Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Java](./319.BulbSwitcher/Solution.java) | Medium
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[328] Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./328.OddEvenLinkedList/Solution.java) | Medium
+| [[337] House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java](./337.HouseRobberIII/Solution.java) | Medium
 | [[338] Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./338.CountingBits/Solution.java) | Medium
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[343] Integer Break](https://leetcode.com/problems/integer-break/) | [Java](./343.IntegerBreak/Solution.java) | Medium

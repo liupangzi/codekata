@@ -258,6 +258,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
 | [[521] Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Java](./521.LongestUncommonSubsequenceI/Solution.java) | Easy
 | [[523] Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./523.ContinuousSubarraySum/Solution.java) | Medium
+| [[525] Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](./525.ContiguousArray/Solution.java) | Medium
 | [[526] Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](./526.BeautifulArrangement/Solution.java) | Medium
 | [[529] Minesweeper](https://leetcode.com/problems/minesweeper/) | [Java](./529.Minesweeper/Solution.java) | Medium
 | [[530] Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./530.MinimumAbsoluteDifferenceInBST/Solution.java) | Easy

@@ -280,3 +280,4 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[554] Brick Wall](https://leetcode.com/problems/brick-wall/) | [Java](./554.BrickWall/Solution.java) | Medium
 | [[556] Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Java](./556.NextGreaterElementIII/Solution.java) | Medium
 | [[557] Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./557.ReverseWordsInAStringIII/Solution.java) | Easy
+| [[561] Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./561.ArrayPartitionI/Solution.java) | Easy

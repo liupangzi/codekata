@@ -245,6 +245,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[475] Heaters](https://leetcode.com/problems/heaters/) | [Java](./475.Heaters/Solution.java) | Easy
 | [[476] Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./476.NumberComplement/Solution.java) | Easy
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
+| [[482] License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](./482.LicenseKeyFormatting/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy
 | [[492] Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Java](./492.ConstructTheRectangle/Solution.java) | Easy
 | [[494] Target Sum](https://leetcode.com/problems/target-sum/) | [Java](./494.TargetSum/Solution.java) / [Python](./494.TargetSum/Solution.py) / [Javascript](./494.TargetSum/Solution.js) | Medium

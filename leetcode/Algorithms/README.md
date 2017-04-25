@@ -106,7 +106,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[149] Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](./149.MaxPointsOnALine/Solution.java) | Medium
 | [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
-| [[152] Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./152.MaximumProductSubarray/Solution.java) | Medium
+| [[152] Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./152.MaximumProductSubarray/Solution.java) / [Golang](./152.MaximumProductSubarray/Solution.go) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/MinStack.java) / [Python](./155.MinStack/MinStack.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
@@ -207,7 +207,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[398] Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Java](./398.RandomPickIndex/Solution.java) | Medium
 | [[399] Evaluate Division](https://leetcode.com/problems/evaluate-division) | [Python](./399.EvaluateDivision/Solution.py) | Medium
 | [[400] Nth Digit](https://leetcode.com/problems/nth-digit/) | [Java](./400.NthDigit/Solution.java) | Easy
-| [[401] Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](./401.BinaryWatch/Solution.java) / [Python](./401.BinaryWatch/Solution.py) / [Go](./401.BinaryWatch/Solution.go) | Easy
+| [[401] Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](./401.BinaryWatch/Solution.java) / [Python](./401.BinaryWatch/Solution.py) / [Golang](./401.BinaryWatch/Solution.go) | Easy
 | [[402] Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](./402.RemoveKDigits/Solution.java) | Medium
 | [[404] Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./404.SumOfLeftLeaves/Solution.java) | Easy
 | [[405] Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./405.ConvertANumberToHexadecimal/Solution.java) | Easy
@@ -274,7 +274,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy
-| [[547] Friend Circles](https://leetcode.com/problems/friend-circles/) | [Go](./547.FriendCircles/Solution.go) / [Python](./547.FriendCircles/Solution.py) / [Java](./547.FriendCircles/Solution.java) | Medium
+| [[547] Friend Circles](https://leetcode.com/problems/friend-circles/) | [Golang](./547.FriendCircles/Solution.go) / [Python](./547.FriendCircles/Solution.py) / [Java](./547.FriendCircles/Solution.java) | Medium
 | [[551] Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](./551.StudentAttendanceRecordI/Solution.java) | Easy
 | [[552] Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [Java](./552.StudentAttendanceRecordII/Solution.java) | Hard
 | [[553] Optimal Division](https://leetcode.com/problems/optimal-division/) | [Java](./553.OptimalDivision/Solution.java) | Medium

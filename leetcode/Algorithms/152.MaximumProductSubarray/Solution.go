@@ -14,15 +14,13 @@ func maxProduct(nums []int) int {
 func getMax(a int, b int) int {
 	if a < b {
 		return b
-	} else {
-		return a
 	}
+	return a
 }
 
 func getMin(a int, b int) int {
 	if a < b {
 		return a
-	} else {
-		return b
 	}
+	return b
 }

@@ -110,6 +110,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
 | [[152] Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./152.MaximumProductSubarray/Solution.java) / [Golang](./152.MaximumProductSubarray/Solution.go) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium
+| [[154] Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](./154.FindMinimumInRotatedSortedArrayII/MinStack.java) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/MinStack.java) / [Python](./155.MinStack/MinStack.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
 | [[162] Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./162.FindPeakElement/Solution.java) | Medium

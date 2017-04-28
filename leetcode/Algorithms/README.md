@@ -142,6 +142,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[215] Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./215.KthLargestElementInAnArray/Solution.java) | Medium
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
+| [[221] Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](./221.MaximalSquare/Solution.java) | Medium
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
 | [[224] Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./224.BasicCalculator/Solution.java) | Hard
 | [[225] Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./225.ImplementStackUsingQueues/Solution.java) | Easy
@@ -279,6 +280,7 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[538] Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./538.ConvertBSTToGreaterTree/Solution.java) | Medium
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
+| [[542] 01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](./542.01Matrix/Solution.java) / [Python](./542.01Matrix/Solution.py) | Medium
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy
 | [[547] Friend Circles](https://leetcode.com/problems/friend-circles/) | [Golang](./547.FriendCircles/Solution.go) / [Python](./547.FriendCircles/Solution.py) / [Java](./547.FriendCircles/Solution.java) | Medium
 | [[551] Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](./551.StudentAttendanceRecordI/Solution.java) | Easy

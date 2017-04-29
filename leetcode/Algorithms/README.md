@@ -1,7 +1,7 @@
 leetcode-solutions
 ===================
 
-Java Solutions for https://leetcode.com/problemset/algorithms/
+Solutions for https://leetcode.com/problemset/algorithms/
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
@@ -274,10 +274,10 @@ Java Solutions for https://leetcode.com/problemset/algorithms/
 | [[526] Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](./526.BeautifulArrangement/Solution.java) | Medium
 | [[529] Minesweeper](https://leetcode.com/problems/minesweeper/) | [Java](./529.Minesweeper/Solution.java) | Medium
 | [[530] Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./530.MinimumAbsoluteDifferenceInBST/Solution.java) | Easy
-| [[531] Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [Java](./531.LonelyPixelI/Solution.java) | Medium
+| [[531] Lonely Pixel I :lock:](https://leetcode.com/problems/lonely-pixel-i/) | [Java](./531.LonelyPixelI/Solution.java) | Medium
 | [[532] K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Java](./532.K-diffPairsInAnArray/Solution.java) | Easy
 | [[535] Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Java](./535.EncodeAndDecodeTinyURL/Codec.java) | Medium
-| [[536] Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [Java](./536.ConstructBinaryTreeFromString/Solution.java) | Medium
+| [[536] Construct Binary Tree from String :lock:](https://leetcode.com/problems/construct-binary-tree-from-string/) | [Java](./536.ConstructBinaryTreeFromString/Solution.java) | Medium
 | [[537] Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Java](./537.ComplexNumberMultiplication/Solution.java) | Medium
 | [[538] Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./538.ConvertBSTToGreaterTree/Solution.java) | Medium
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium

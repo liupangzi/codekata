@@ -294,3 +294,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[561] Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./561.ArrayPartitionI/Solution.java) | Easy
 | [[563] Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Java](./563.BinaryTreeTilt/Solution.java) | Easy
 | [[566] Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./566.ReshapeTheMatrix/Solution.java) | Easy
+| [[567] Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./567.PermutationInString/Solution.java) | Medium

@@ -109,6 +109,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
 | [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[149] Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](./149.MaxPointsOnALine/Solution.java) | Medium
+| [[150] Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./150.EvaluateReversePolishNotation/Solution.java) | Medium
 | [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
 | [[152] Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./152.MaximumProductSubarray/Solution.java) / [Golang](./152.MaximumProductSubarray/Solution.go) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium

@@ -182,6 +182,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[328] Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./328.OddEvenLinkedList/Solution.java) | Medium
 | [[337] House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java](./337.HouseRobberIII/Solution.java) | Medium
 | [[338] Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./338.CountingBits/Solution.java) | Medium
+| [[341] Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Java](./341.FlattenNestedListIterator/Solution.java) | Medium
 | [[342] Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./342.PowerOfFour/Solution.java) | Easy
 | [[343] Integer Break](https://leetcode.com/problems/integer-break/) | [Java](./343.IntegerBreak/Solution.java) | Medium
 | [[344] Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./344.ReverseString/Solution.java) | Easy

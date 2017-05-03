@@ -191,6 +191,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[347] Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./347.TopKFrequentElements/Solution.java) | Medium
 | [[349] Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./349.IntersectionOfTwoArrays/Solution.java) | Easy
 | [[350] Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Java](./350.IntersectionOfTwoArraysII/Solution.java) | Easy
+| [[355] Design Twitter](https://leetcode.com/problems/design-twitter/) | [Java](./355.DesignTwitter/Twitter.java) | Medium
 | [[357] Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Java](./357.CountNumbersWithUniqueDigits/Solution.java) | Medium
 | [[367] Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](./367.ValidPerfectSquare/Solution.java) | Medium
 | [[371] Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./371.SumOfTwoIntegers/Solution.java) | Easy

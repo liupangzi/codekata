@@ -106,6 +106,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[137] Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](./137.SingleNumberII/Solution.java) | Medium
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[142] Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./142.LinkedListCycleII/Solution.java) | Medium
+| [[143] Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./143.ReorderList/Solution.java) | Medium
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
 | [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[148] Sort List](https://leetcode.com/problems/sort-list/) | [Java](./148.SortList/Solution.java) / [Python](./148.SortList/Solution.py) | Medium

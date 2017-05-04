@@ -245,6 +245,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[449] Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Java](./449.SerializeAndDeserializeBST/Solution.java) | Medium
 | [[450] Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./450.DeleteNodeInABST/Solution.java) | Medium
 | [[451] Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Java](./451.SortCharactersByFrequency/Solution.java) | Medium
+| [[452] Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Java](./452.MinimumNumberOfArrowsToBurstBalloons/Solution.java) | Medium
 | [[453] Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./453.MinimumMovesToEqualArrayElements/Solution.java) | Easy
 | [[454] 4Sum II](https://leetcode.com/problems/4sum-ii/) | [Java](./454.4SumII/Solution.java) | Medium
 | [[455] Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./455.AssignCookies/Solution.java) | Easy

@@ -260,6 +260,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[481] Magical String](https://leetcode.com/problems/magical-string/) | [Java](./481.MagicalString/Solution.java) | Medium
 | [[482] License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](./482.LicenseKeyFormatting/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy
+| [[486] Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Java](./486.PredictTheWinner/Solution.java) | Medium
 | [[492] Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Java](./492.ConstructTheRectangle/Solution.java) | Easy
 | [[494] Target Sum](https://leetcode.com/problems/target-sum/) | [Java](./494.TargetSum/Solution.java) / [Python](./494.TargetSum/Solution.py) / [Javascript](./494.TargetSum/Solution.js) | Medium
 | [[495] Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Java](./495.TeemoAttacking/Solution.java) | Medium

@@ -17,3 +17,5 @@ but not a subsequence of any other strings in the group of two strings.
 
  1. Both strings' lengths will not exceed 100.
  2. Only letters from a ~ z will appear in input strings.
+
+### [Editorial](https://leetcode.com/articles/longest-uncommon-subsequence-i/)

@@ -15,3 +15,5 @@ Given a binary array, find the maximum length of a contiguous subarray with equa
 </pre>
 
 **Note:** The length of the given binary array will not exceed 50,000.
+
+### [Editorial](https://leetcode.com/articles/contiguous-array/)

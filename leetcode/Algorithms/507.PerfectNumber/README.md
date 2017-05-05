@@ -11,3 +11,5 @@ Now, given an **integer** n, write a function that returns true when it is a per
 </pre>
 
 **Note:** The input number **n** will not exceed 100,000,000. (1e8)
+
+### [Editorial](https://leetcode.com/articles/perfect-number/)

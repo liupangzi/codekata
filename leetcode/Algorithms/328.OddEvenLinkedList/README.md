@@ -13,3 +13,5 @@ return `1->3->5->2->4->NULL`.
 The relative order inside both the even and odd groups should remain as it was in the input. 
 
 The first node is considered odd, the second node even and so on ...
+
+### [Editorial](https://leetcode.com/articles/odd-even-linked-list/)

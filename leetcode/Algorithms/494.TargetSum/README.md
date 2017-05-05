@@ -22,3 +22,5 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
  1. The length of the given array is positive and will not exceed 20.
  2. The sum of elements in the given array will not exceed 1000.
  3. Your output answer is guaranteed to be fitted in a 32-bit integer.
+
+### [Editorial](https://leetcode.com/articles/target-sum/)

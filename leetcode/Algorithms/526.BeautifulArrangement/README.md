@@ -27,3 +27,5 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 **Note:**
 
  1. **N** is a positive integer and will not exceed 15.
+
+### [Editorial](https://leetcode.com/articles/beautiful-arrangement/)

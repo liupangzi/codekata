@@ -309,3 +309,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[567] Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./567.PermutationInString/Solution.java) | Medium
 | [[572] Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](./572.SubtreeOfAnotherTree/Solution.java) | Easy
 | [[575] Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./575.DistributeCandies/Solution.java) | Easy
+| [[576] Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./576.OutOfBoundaryPaths/Solution.java) | Hard

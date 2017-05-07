@@ -22,3 +22,5 @@ The sister has two different kinds of candies, the brother has only one kind of 
 
  1. The length of the given array is in range [2, 10,000], and will be even.
  2. The number in given array is in range [-100,000, 100,000].
+
+### [Editorial](https://leetcode.com/articles/distribute-candies/)

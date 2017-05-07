@@ -36,3 +36,5 @@ Given tree t:
  1   2
 </pre>
 Return **false**.
+
+### [Editorial](https://leetcode.com/articles/subtree-of-another-tree/)

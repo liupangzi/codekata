@@ -307,4 +307,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[563] Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Java](./563.BinaryTreeTilt/Solution.java) | Easy
 | [[566] Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./566.ReshapeTheMatrix/Solution.java) | Easy
 | [[567] Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Java](./567.PermutationInString/Solution.java) | Medium
+| [[572] Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](./572.SubtreeOfAnotherTree/Solution.java) | Easy
 | [[575] Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./575.DistributeCandies/Solution.java) | Easy

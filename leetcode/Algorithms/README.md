@@ -256,6 +256,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[461] Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./461.HammingDistance/Solution.java) | Easy
 | [[462] Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./462.MinimumMovesToEqualArrayElementsII/Solution.java) | Medium
 | [[463] Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Java](./463.IslandPerimeter/Solution.java) | Easy
+| [[467] Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Java](./467.UniqueSubstringsInWraparoundString/Solution.java) | Medium
 | [[468] Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](./468.ValidateIPAddress/Solution.java) | Medium
 | [[475] Heaters](https://leetcode.com/problems/heaters/) | [Java](./475.Heaters/Solution.java) | Easy
 | [[476] Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./476.NumberComplement/Solution.java) | Easy

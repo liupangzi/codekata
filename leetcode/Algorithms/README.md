@@ -104,6 +104,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[134] Gas Station](https://leetcode.com/problems/gas-station/) | [Java](./134.GasStation/Solution.java) | Medium
 | [[136] Single Number](https://leetcode.com/problems/single-number/) | [Java](./136.SingleNumber/Solution.java) | Easy
 | [[137] Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](./137.SingleNumberII/Solution.java) | Medium
+| [[138] Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./138.CopyListWithRandomPointer/Solution.java) | Medium
 | [[141] Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./141.LinkedListCycle/Solution.java) | Easy
 | [[142] Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./142.LinkedListCycleII/Solution.java) | Medium
 | [[143] Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./143.ReorderList/Solution.java) | Medium

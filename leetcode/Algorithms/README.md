@@ -173,6 +173,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[237] Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./237.DeleteNodeInALinkedList/Solution.java) | Easy
 | [[238] Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](./238.ProductOfArrayExceptSelf/Solution.java) | Medium
 | [[240] Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Java](./240.SearchA2DMatrixII/Solution.java) | Medium
+| [[241] Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](./241.DifferentWaysToAddParentheses/Solution.java) | Medium
 | [[242] Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./242.ValidAnagram/Solution.java) / [C](./242.ValidAnagram/Solution.c) | Easy
 | [[257] Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./257.BinaryTreePaths/Solution.java) | Easy
 | [[258] Add Digits](https://leetcode.com/problems/add-digits/) | [Java](./258.AddDigits/Solution.java) | Easy

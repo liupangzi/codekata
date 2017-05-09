@@ -26,3 +26,5 @@ Kill 5 will also kill 10.
 
  1. The given kill id is guaranteed to be one of the given PIDs.
  2. n >= 1.
+
+### [Editorial](https://leetcode.com/articles/kill-process/)

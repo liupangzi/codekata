@@ -321,3 +321,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[575] Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./575.DistributeCandies/Solution.java) | Easy
 | [[576] Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./576.OutOfBoundaryPaths/Solution.java) | Hard
 | [[581] Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](./581.ShortestUnsortedContinuousSubarray/Solution.java) | Easy
+| [[582] Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./582.KillProcess/Solution.java) | Medium

@@ -76,6 +76,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[92] Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](./92.ReverseLinkedListII/Solution.java) | Medium
 | [[93] Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./93.RestoreIPAddresses/Solution.java) | Medium
 | [[94] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./94.BinaryTreeInorderTraversal/Solution.java) / [Python](./94.BinaryTreeInorderTraversal/Solution.py) | Medium
+| [[95] Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Java](./95.UniqueBinarySearchTreesII/Solution.java) | Medium
 | [[96] Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./96.UniqueBinarySearchTrees/Solution.java) | Medium
 | [[98] Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](./98.ValidateBinarySearchTree/Solution.java) | Medium
 | [[100] Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./100.SameTree/Solution.java) | Easy

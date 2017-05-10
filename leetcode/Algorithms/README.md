@@ -71,6 +71,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[83] Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./83.RemoveDuplicatesFromSortedList/Solution.java) | Easy
 | [[86] Partition List](https://leetcode.com/problems/partition-list/) | [Java](./86.PartitionList/Solution.java) | Medium
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy
+| [[89] Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./89.GrayCode/Solution.java) | Medium
 | [[91] Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./91.DecodeWays/Solution.java) | Medium
 | [[92] Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](./92.ReverseLinkedListII/Solution.java) | Medium
 | [[93] Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./93.RestoreIPAddresses/Solution.java) | Medium

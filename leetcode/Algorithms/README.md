@@ -151,6 +151,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[217] Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./217.ContainsDuplicate/Solution.java) | Easy
 | [[219] Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219.ContainsDuplicateII/Solution.java) / [Python](./219.ContainsDuplicateII/Solution.py) | Easy
 | [[221] Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](./221.MaximalSquare/Solution.java) | Medium
+| [[222] Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](./222.CountCompleteTreeNodes/Solution.java) / [Python](./222.CountCompleteTreeNodes/Solution.py) | Medium
 | [[223] Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Java](./223.RectangleArea/Solution.java) | Easy
 | [[224] Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Java](./224.BasicCalculator/Solution.java) | Hard
 | [[225] Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./225.ImplementStackUsingQueues/Solution.java) | Easy

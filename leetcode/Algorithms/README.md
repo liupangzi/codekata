@@ -246,6 +246,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[419] Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Java](./419.BattleshipsInABoard/Solution.java) | Medium
 | [[423] Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Java](./423.ReconstructOriginalDigitsFromEnglish/Solution.java) | Medium
 | [[434] Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Java](./434.NumberOfSegmentsInAString/Solution.java) | Easy
+| [[435] Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Java](./435.Non-overlappingIntervals/Solution.java) | Medium
 | [[436] Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Java](./436.FindRightInterval/Solution.java) | Medium
 | [[437] Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./437.PathSumIII/Solution.java) | Easy
 | [[438] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./438.FindAllAnagramsInAString/Solution.java) | Easy

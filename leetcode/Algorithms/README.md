@@ -39,6 +39,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium
 | [[45] Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](./45.JumpGameII/Solution.java) | Medium
 | [[46] Permutations](https://leetcode.com/problems/permutations/) | [Java](./46.Permutations/Solution.java) | Medium
+| [[47] Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](./47.PermutationsII/Solution.java) / [Python](./47.PermutationsII/Solution.py) | Medium
 | [[48] Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](./48.RotateImage/Solution.java) | Medium
 | [[49] Group Anagrams](https://leetcode.com/problems/anagrams/) | [Java](./49.GroupAnagrams/Solution.java) | Medium
 | [[50] Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./50.Pow(x,n)/Solution.java) | Medium

@@ -10,3 +10,5 @@ return `-1`.
 
 **Note:**
 You may assume that you have an infinite number of each kind of coin.
+
+### [Editorial](https://leetcode.com/articles/coin-change/)

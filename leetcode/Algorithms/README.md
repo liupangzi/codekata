@@ -197,6 +197,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[313] Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](./313.SuperUglyNumber/Solution.java) | Medium
 | [[318] Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Java](./318.MaximumProductOfWordLengths/Solution.java) | Medium
 | [[319] Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Java](./319.BulbSwitcher/Solution.java) | Medium
+| [[322] Coin Change](https://leetcode.com/problems/coin-change/) | [Java](./322.CoinChange/Solution.java) | Medium
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[328] Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./328.OddEvenLinkedList/Solution.java) | Medium
 | [[331] Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Java](./331.VerifyPreorderSerializationOfABinaryTree/Solution.java) | Medium

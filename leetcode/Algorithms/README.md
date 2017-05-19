@@ -36,6 +36,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[36] Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](./36.ValidSudoku/Solution.java) | Easy
 | [[38] Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./38.CountAndSay/Solution.java) | Easy
 | [[39] Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](./39.CombinationSum/Solution.java) / [Python](./39.CombinationSum/Solution.py) | Medium
+| [[40] Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](./40.CombinationSumII/Solution.java) | Medium
 | [[41] First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Java](./41.FirstMissingPositive/Solution.java) | Medium
 | [[43] Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](./43.MultiplyStrings/Solution.java) | Medium
 | [[45] Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](./45.JumpGameII/Solution.java) | Medium

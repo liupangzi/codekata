@@ -18,3 +18,4 @@ Solutions for https://leetcode.com/problemset/database/
 | [[196] Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](./196.DeleteDuplicateEmails/solution.sql) | Easy
 | [[197] Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./197.RisingTemperature/solution.sql) | Easy
 | [[262] Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MySQL](./262.TripsAndUsers/solution.sql) | Hard
+| [[595] Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./595.BigCountries/solution.sql) | Medium

@@ -13,3 +13,6 @@ The coordinate (x,y) of a point is represented by an integer array with two inte
  1. All the input integers are in the range [-10000, 10000].
  2. A valid square has four equal sides with positive length and four equal angles (90-degree angles).
  3. Input points have no order.
+
+
+### [Editorial](https://leetcode.com/articles/kill-process-2/)

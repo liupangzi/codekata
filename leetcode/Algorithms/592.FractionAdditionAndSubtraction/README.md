@@ -33,3 +33,5 @@ Given a string representing an expression of fraction addition and subtraction, 
  5. The numerator and denominator of the **final result** are guaranteed to be valid and in the range of 32-bit int.
 
   [1]: https://en.wikipedia.org/wiki/Irreducible_fraction
+
+### [Editorial](https://leetcode.com/articles/kill-process-3/)

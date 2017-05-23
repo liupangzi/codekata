@@ -300,6 +300,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[508] Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Java](./508.MostFrequentSubtreeSum/Solution.java) | Medium
 | [[513] Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./513.FindBottomLeftTreeValue/Solution.java) | Medium
 | [[515] Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Java](./515.FindLargestValueInEachTreeRow/Solution.java) | Medium
+| [[516] Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./516.LongestPalindromicSubsequence/Solution.java) | Medium
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
 | [[521] Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Java](./521.LongestUncommonSubsequenceI/Solution.java) | Easy
 | [[523] Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./523.ContinuousSubarraySum/Solution.java) | Medium

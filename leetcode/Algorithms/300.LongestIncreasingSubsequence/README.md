@@ -9,3 +9,5 @@ The longest increasing subsequence is `[2, 3, 7, 101]`, therefore the length is 
 Your algorithm should run in O(*n*<sup>2</sup>) complexity.
 
 **Follow up:** Could you improve it to O(*n* log *n*) time complexity?
+
+### [Editorial](https://leetcode.com/articles/longest-increasing-subsequence/)

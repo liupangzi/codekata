@@ -194,6 +194,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy
 | [[292] Nim Game](https://leetcode.com/problems/nim-game/) | [Java](./292.NimGame/Solution.java) | Easy
 | [[299] Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Java](./299.BullsAndCows/Solution.java) | Easy
+| [[300] Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](./300.LongestIncreasingSubsequence/Solution.java) | Medium
 | [[303] Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](./303.RangeSumQuery-Immutable/Solution.java) | Easy
 | [[304] Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Java](./304.RangeSumQuery2D-Immutable/NumMatrix.java) | Medium
 | [[313] Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](./313.SuperUglyNumber/Solution.java) | Medium

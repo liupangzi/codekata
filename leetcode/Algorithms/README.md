@@ -345,3 +345,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[593] Valid Square](https://leetcode.com/problems/valid-square/) | [Java](./593.ValidSquare/Solution.java) | Medium
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy
 | [[598] Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Java](./598.RangeAdditionII/Solution.java) | Easy
+| [[599] Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Java](./599.MinimumIndexSumOfTwoLists/Solution.java) | Easy

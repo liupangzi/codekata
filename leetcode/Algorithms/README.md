@@ -344,3 +344,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[592] Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](./592.FractionAdditionAndSubtraction/Solution.java) | Medium
 | [[593] Valid Square](https://leetcode.com/problems/valid-square/) | [Java](./593.ValidSquare/Solution.java) | Medium
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy
+| [[598] Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Java](./598.RangeAdditionII/Solution.java) | Easy

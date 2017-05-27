@@ -34,3 +34,5 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
  1. The range of m and n is [1,40000].
  2. The range of a is [1,m], and the range of b is [1,n].
  3. The range of operations size won't exceed 10,000.
+
+### [Editorial](https://leetcode.com/articles/range-addition-ii/)

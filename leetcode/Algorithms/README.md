@@ -18,6 +18,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[13] Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](./13.RomanToInteger/Solution.java) | Easy
 | [[14] Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./14.LongestCommonPrefix/Solution.java) | Easy
 | [[15] 3Sum](https://leetcode.com/problems/3sum/) | [Java](./15.3Sum/Solution.java) | Medium
+| [[16] 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./16.3SumClosest/Solution.java) | Medium
 | [[17] Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./17.LetterCombinationsOfAPhoneNumber/Solution.java) | Medium
 | [[19] Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./19.RemoveNthNodeFromEndOfList/Solution.java) | Easy
 | [[20] Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./20.ValidParentheses/Solution.java) | Easy

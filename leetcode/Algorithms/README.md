@@ -310,6 +310,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[516] Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Java](./516.LongestPalindromicSubsequence/Solution.java) | Medium
 | [[520] Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./520.DetectCapital/Solution.java) | Easy
 | [[521] Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Java](./521.LongestUncommonSubsequenceI/Solution.java) | Easy
+| [[522] Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Java](./522.LongestUncommonSubsequenceII/Solution.java) | Medium
 | [[523] Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./523.ContinuousSubarraySum/Solution.java) | Medium
 | [[524] Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](./524.LongestWordInDictionaryThroughDeleting/Solution.java) | Medium
 | [[525] Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](./525.ContiguousArray/Solution.java) | Medium

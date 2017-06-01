@@ -276,6 +276,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[453] Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Java](./453.MinimumMovesToEqualArrayElements/Solution.java) | Easy
 | [[454] 4Sum II](https://leetcode.com/problems/4sum-ii/) | [Java](./454.4SumII/Solution.java) | Medium
 | [[455] Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Java](./455.AssignCookies/Solution.java) | Easy
+| [[456] 132 Pattern](https://leetcode.com/problems/132-pattern/) | [Java](./456.132Pattern/Solution.java) | Medium
 | [[459] Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./459.RepeatedSubstringPattern/Solution.java) | Easy
 | [[461] Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Java](./461.HammingDistance/Solution.java) | Easy
 | [[462] Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Java](./462.MinimumMovesToEqualArrayElementsII/Solution.java) | Medium

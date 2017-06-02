@@ -153,6 +153,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[206] Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./206.ReverseLinkedList/Solution.java) / [C](./206.ReverseLinkedList/Solution.c) | Easy
 | [[208] Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./208.ImplementTrie(PrefixTree)/Trie.java) | Medium
 | [[209] Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./209.MinimumSizeSubarraySum/Solution.java) / [Golang](./209.MinimumSizeSubarraySum/Solution.go)  | Medium
+| [[211] Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Java](./211.AddAndSearchWord-DataStructureDesign/Solution.java) | Medium
 | [[213] House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Java](./213.HouseRobberII/Solution.java) | Medium
 | [[215] Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./215.KthLargestElementInAnArray/Solution.java) | Medium
 | [[216] Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Java](./216.CombinationSumIII/Solution.java) | Medium

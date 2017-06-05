@@ -355,3 +355,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[599] Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Java](./599.MinimumIndexSumOfTwoLists/Solution.java) | Easy
 | [[605] Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./605.CanPlaceFlowers/Solution.java) | Easy
 | [[606] Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Java](./606.ConstructStringFromBinaryTree/Solution.java) | Easy
+| [[609] Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Java](./609.FindDuplicateFileInSystem/Solution.java) | Medium

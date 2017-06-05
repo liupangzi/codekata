@@ -33,4 +33,4 @@ And it will be "1(2(4))(3)".
 except we can't omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
 </pre>
 
-### [Editorial](https://leetcode.com/problems/construct-string-from-binary-tree/)
+### [Editorial](https://leetcode.com/articles/construct-string-from-binary-tree/)

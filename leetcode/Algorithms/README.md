@@ -353,3 +353,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy
 | [[598] Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Java](./598.RangeAdditionII/Solution.java) | Easy
 | [[599] Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Java](./599.MinimumIndexSumOfTwoLists/Solution.java) | Easy
+| [[605] Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./605.CanPlaceFlowers/Solution.java) | Easy

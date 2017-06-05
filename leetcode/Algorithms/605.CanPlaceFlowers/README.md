@@ -19,3 +19,5 @@ Given a flowerbed (represented as an array containing 0 and 1, where 0 means emp
  1. The input array won't violate no-adjacent-flowers rule.
  2. The input array size is in the range of [1, 20000].
  3. **n** is a non-negative integer which won't exceed the input array size.
+
+### [Editorial](https://leetcode.com/articles/can-place-flowers/)

@@ -1,32 +1,29 @@
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.List;
 
 public class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
+        List<ArrayList<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) graph.add(new ArrayList<>());
         int[] visited = new int[numCourses];
         for (int[] prerequisite : prerequisites) {
-            if (!map.containsKey(prerequisite[1])) map.put(prerequisite[1], new ArrayList<>());
-            map.get(prerequisite[1]).add(prerequisite[0]);
+            graph.get(prerequisite[1]).add(prerequisite[0]);
         }
 
         for (int i = 0; i < visited.length; i++) {
             if (visited[i] == 0) {
-                if (!travel(i, visited, map)) return false;
+                if (!travel(i, visited, graph)) return false;
             }
         }
         return true;
     }
 
-    private boolean travel(int course, int[] visited, HashMap<Integer, ArrayList<Integer>> map) {
+    private boolean travel(int course, int[] visited, List<ArrayList<Integer>> graph) {
         if (visited[course] == -1) return false;
         if (visited[course] == 1) return true;
         visited[course] = -1;
-        ArrayList<Integer> tmp = map.get(course);
-        if (tmp != null) {
-            for (int nextCourse : tmp) {
-                if (!travel(nextCourse, visited, map)) return false;
-            }
+        for (int nextCourse : graph.get(course)) {
+            if (!travel(nextCourse, visited, graph)) return false;
         }
         visited[course] = 1;
         return true;

@@ -19,3 +19,4 @@ Solutions for https://leetcode.com/problemset/database/
 | [[197] Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./197.RisingTemperature/solution.sql) | Easy
 | [[262] Trips and Users](https://leetcode.com/problems/trips-and-users/) | [MySQL](./262.TripsAndUsers/solution.sql) | Hard
 | [[595] Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](./595.BigCountries/solution.sql) | Medium
+| [[596] Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./596.ClassesMoreThan5Students/solution.sql) | Easy

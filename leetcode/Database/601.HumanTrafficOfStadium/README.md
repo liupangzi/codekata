@@ -33,4 +33,5 @@ For the sample data above, the output is:
 ```
 
 **Note:**
+
 Each day only have one row record, and the dates are increasing with id increasing.

@@ -28,3 +28,6 @@ iterator.next(); // return ' '
 ```
 
   [1]: https://leetcode.com/faq/#different-output
+
+
+### [Editorial](https://leetcode.com/articles/desing-compressed-string-iterator/)

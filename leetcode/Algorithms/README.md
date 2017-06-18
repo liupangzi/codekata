@@ -362,5 +362,6 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[611] Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Java](./611.ValidTriangleNumber/Solution.java) | Medium
 | [[616] Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Java](./616.AddBoldTagInString/Solution.java) | Medium
 | [[617] Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./617.MergeTwoBinaryTrees/Solution.java) | Easy
+| [[623] Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Java](./623.AddOneRowToTree/Solution.java) | Medium
 | [[624] Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Java](./624.MaximumDistanceInArrays/Solution.java) | Easy
 | [[625] Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | [Java](./625.MinimumFactorization/Solution.java) | Medium

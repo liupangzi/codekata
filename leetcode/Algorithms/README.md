@@ -348,19 +348,19 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[575] Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./575.DistributeCandies/Solution.java) | Easy
 | [[576] Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](./576.OutOfBoundaryPaths/Solution.java) | Hard
 | [[581] Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](./581.ShortestUnsortedContinuousSubarray/Solution.java) | Easy
-| [[582] Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./582.KillProcess/Solution.java) | Medium
+| [[582] Kill Process :lock:](https://leetcode.com/problems/kill-process/) | [Java](./582.KillProcess/Solution.java) | Medium
 | [[583] Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Java](./583.DeleteOperationForTwoStrings/Solution.java) | Medium
 | [[592] Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](./592.FractionAdditionAndSubtraction/Solution.java) | Medium
 | [[593] Valid Square](https://leetcode.com/problems/valid-square/) | [Java](./593.ValidSquare/Solution.java) | Medium
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy
 | [[598] Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Java](./598.RangeAdditionII/Solution.java) | Easy
 | [[599] Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Java](./599.MinimumIndexSumOfTwoLists/Solution.java) | Easy
-| [[604] Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) | [Java](./604.DesignCompressedStringIterator/Solution.java) | Easy
+| [[604] Design Compressed String Iterator :lock:](https://leetcode.com/problems/design-compressed-string-iterator/) | [Java](./604.DesignCompressedStringIterator/Solution.java) | Easy
 | [[605] Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./605.CanPlaceFlowers/Solution.java) | Easy
 | [[606] Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Java](./606.ConstructStringFromBinaryTree/Solution.java) | Easy
 | [[609] Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Java](./609.FindDuplicateFileInSystem/Solution.java) | Medium
 | [[611] Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Java](./611.ValidTriangleNumber/Solution.java) | Medium
-| [[616] Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [Java](./616.AddBoldTagInString/Solution.java) | Medium
+| [[616] Add Bold Tag in String :lock:](https://leetcode.com/problems/add-bold-tag-in-string/) | [Java](./616.AddBoldTagInString/Solution.java) | Medium
 | [[617] Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./617.MergeTwoBinaryTrees/Solution.java) | Easy
 | [[621] Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Java](./621.TaskScheduler/Solution.java) | Medium
 | [[623] Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Java](./623.AddOneRowToTree/Solution.java) | Medium

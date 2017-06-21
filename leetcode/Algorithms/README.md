@@ -230,6 +230,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[372] Super Pow](https://leetcode.com/problems/super-pow/) | [Java](./372.SuperPow/Solution.java) | Medium
 | [[373] Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](./373.FindKPairsWithSmallestSums/Solution.java) | Medium
 | [[374] Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Java](./374.GuessNumberHigherOrLower/Solution.java) | Easy
+| [[376] Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Java](./376.WiggleSubsequence/Solution.java) | Medium
 | [[377] Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](./377.CombinationSumIV/Solution.java) | Medium
 | [[378] Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](./378.KthSmallestElementInASortedMatrix/Solution.java) / [Python](./378.KthSmallestElementInASortedMatrix/Solution.py) | Medium
 | [[380] Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Java](./380.InsertDeleteGetRandomO(1)/RandomizedSet.java) | Medium

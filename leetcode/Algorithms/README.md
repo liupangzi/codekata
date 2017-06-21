@@ -376,4 +376,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[625] Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | [Java](./625.MinimumFactorization/Solution.java) | Medium
 | [[628] Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./628.MaximumProductOfThreeNumbers/Solution.java) | Easy
 | [[633] Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](./633.SumOfSquareNumbers/Solution.java) | Easy
+| [[634] Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) | [Java](./634.FindTheDerangementOfAnArray/Solution.java) | Medium
 | [[635] Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) | [Java](./635.DesignLogStorageSystem/Solution.java) | Medium

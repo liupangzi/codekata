@@ -22,3 +22,4 @@ Solutions for https://leetcode.com/problemset/database/
 | [[596] Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [MySQL](./596.ClassesMoreThan5Students/solution.sql) | Easy
 | [[601] Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [MySQL](./601.HumanTrafficOfStadium/solution.sql) | Hard
 | [[620] Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MySQL](./620.NotBoringMovies/solution.sql) | Easy
+| [[627] Swap Salary](https://leetcode.com/problems/swap-salary/) | [MySQL](./627.SwapSalary/solution.sql) | Easy

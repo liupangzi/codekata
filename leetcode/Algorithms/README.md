@@ -369,3 +369,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[623] Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Java](./623.AddOneRowToTree/Solution.java) | Medium
 | [[624] Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Java](./624.MaximumDistanceInArrays/Solution.java) | Easy
 | [[625] Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | [Java](./625.MinimumFactorization/Solution.java) | Medium
+| [[628] Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](./628.MaximumProductOfThreeNumbers/Solution.java) | Easy

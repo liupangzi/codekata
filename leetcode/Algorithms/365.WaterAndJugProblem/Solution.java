@@ -6,6 +6,6 @@ public class Solution {
     private boolean helper(int min, int max, int target) {
         if (target > min + max) return false;
         if (min == 0) return max == 0 ? target == 0 : target % max == 0;
-        return canMeasureWater(max % min, min, target % min);
+        return helper(max % min, min, target % min);
     }
 }

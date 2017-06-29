@@ -20,6 +20,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[15] 3Sum](https://leetcode.com/problems/3sum/) | [Java](./15.3Sum/Solution.java) | Medium
 | [[16] 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./16.3SumClosest/Solution.java) | Medium
 | [[17] Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](./17.LetterCombinationsOfAPhoneNumber/Solution.java) | Medium
+| [[18] 4Sum](https://leetcode.com/problems/4sum/) | [Java](./18.4Sum/Solution.java) | Medium
 | [[19] Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./19.RemoveNthNodeFromEndOfList/Solution.java) | Easy
 | [[20] Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./20.ValidParentheses/Solution.java) | Easy
 | [[21] Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](./21.MergeTwoSortedLists/Solution.c) / [Java](./21.MergeTwoSortedLists/Solution.java) / [Python](./21.MergeTwoSortedLists/Solution.py) | Easy

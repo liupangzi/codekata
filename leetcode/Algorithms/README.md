@@ -215,6 +215,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[326] Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./326.PowerOfThree/Solution.java) / [Python](./326.PowerOfThree/Solution.py) | Easy
 | [[328] Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./328.OddEvenLinkedList/Solution.java) | Medium
 | [[331] Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Java](./331.VerifyPreorderSerializationOfABinaryTree/Solution.java) | Medium
+| [[332] Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Java](./332.ReconstructItinerary/Solution.java) | Medium
 | [[334] Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](./334.IncreasingTripletSubsequence/Solution.java) | Medium
 | [[337] House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Java](./337.HouseRobberIII/Solution.java) | Medium
 | [[338] Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./338.CountingBits/Solution.java) | Medium

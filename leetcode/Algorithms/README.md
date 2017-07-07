@@ -337,6 +337,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[537] Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Java](./537.ComplexNumberMultiplication/Solution.java) | Medium
 | [[538] Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./538.ConvertBSTToGreaterTree/Solution.java) | Medium
 | [[539] Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Java](./539.MinimumTimeDifference/Solution.java) | Medium
+| [[540] Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Java](./540.SingleElementInASortedArray/Solution.java) | Medium
 | [[541] Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Java](./541.ReverseStringII/Solution.java) | Easy
 | [[542] 01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](./542.01Matrix/Solution.java) / [Python](./542.01Matrix/Solution.py) | Medium
 | [[543] Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./543.DiameterOfBinaryTree/Solution.java) | Easy

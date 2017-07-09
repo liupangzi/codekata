@@ -380,3 +380,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[633] Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](./633.SumOfSquareNumbers/Solution.java) | Easy
 | [[634] Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) | [Java](./634.FindTheDerangementOfAnArray/Solution.java) | Medium
 | [[635] Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) | [Java](./635.DesignLogStorageSystem/Solution.java) | Medium
+| [[637] Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./637.AverageOfLevelsInBinaryTree/Solution.java) | Easy

@@ -382,3 +382,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[635] Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) | [Java](./635.DesignLogStorageSystem/Solution.java) | Medium
 | [[637] Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./637.AverageOfLevelsInBinaryTree/Solution.java) | Easy
 | [[638] Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Java](./638.ShoppingOffers/Solution.java) | Medium
+| [[640] Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [Java](./640.SolveTheEquation/Solution.java) | Medium

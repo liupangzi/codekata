@@ -24,3 +24,5 @@ For example, according to the above table, we should output:
 | Algeria      | 37100000    | 2381741      |
 +--------------+-------------+--------------+
 ```
+
+### [Editorial](https://leetcode.com/articles/big-countries/)

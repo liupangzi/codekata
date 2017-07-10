@@ -301,6 +301,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[475] Heaters](https://leetcode.com/problems/heaters/) | [Java](./475.Heaters/Solution.java) | Easy
 | [[476] Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./476.NumberComplement/Solution.java) | Easy
 | [[477] Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./477.TotalHammingDistance/Solution.java) | Medium
+| [[479] Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [Java](./479.LargestPalindromeProduct/Solution.java) | Easy
 | [[481] Magical String](https://leetcode.com/problems/magical-string/) | [Java](./481.MagicalString/Solution.java) | Medium
 | [[482] License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](./482.LicenseKeyFormatting/Solution.java) | Medium
 | [[485] Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java](./485.MaxConsecutiveOnes/Solution.java) | Easy

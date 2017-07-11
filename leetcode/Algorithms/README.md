@@ -362,6 +362,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[581] Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](./581.ShortestUnsortedContinuousSubarray/Solution.java) | Easy
 | [[582] Kill Process :lock:](https://leetcode.com/problems/kill-process/) | [Java](./582.KillProcess/Solution.java) | Medium
 | [[583] Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Java](./583.DeleteOperationForTwoStrings/Solution.java) | Medium
+| [[587] Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [Java](./587.ErectTheFence/Solution.java) | Hard
 | [[592] Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](./592.FractionAdditionAndSubtraction/Solution.java) | Medium
 | [[593] Valid Square](https://leetcode.com/problems/valid-square/) | [Java](./593.ValidSquare/Solution.java) | Medium
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy

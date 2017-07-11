@@ -26,3 +26,5 @@ For the example above, the output should be:
 |   1     | War       |   great 3D   |   8.9     |
 +---------+-----------+--------------+-----------+
 ```
+
+### [Editorial](https://leetcode.com/articles/not-boring-movies/)

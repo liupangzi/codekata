@@ -385,6 +385,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[633] Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Java](./633.SumOfSquareNumbers/Solution.java) | Easy
 | [[634] Find the Derangement of An Array :lock:](https://leetcode.com/problems/find-the-derangement-of-an-array/) | [Java](./634.FindTheDerangementOfAnArray/Solution.java) | Medium
 | [[635] Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) | [Java](./635.DesignLogStorageSystem/Solution.java) | Medium
+| [[636] Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [Java](./636.ExclusiveTimeOfFunctions/Solution.java) | Medium
 | [[637] Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](./637.AverageOfLevelsInBinaryTree/Solution.java) | Easy
 | [[638] Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Java](./638.ShoppingOffers/Solution.java) | Medium
 | [[640] Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [Java](./640.SolveTheEquation/Solution.java) | Medium

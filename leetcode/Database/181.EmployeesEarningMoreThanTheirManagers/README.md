@@ -20,3 +20,5 @@ Given the `Employee` table, write a SQL query that finds out employees who earn 
 | Joe      |
 +----------+
 ```
+
+### [Editorial](https://leetcode.com/articles/employees-earning-more-than-their-managers/)

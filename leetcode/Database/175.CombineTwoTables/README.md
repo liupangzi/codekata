@@ -30,3 +30,5 @@ Write a SQL query for a report that provides the following information for each 
 ```
 FirstName, LastName, City, State
 ```
+
+### [Editorial](https://leetcode.com/articles/combine-two-tables/)

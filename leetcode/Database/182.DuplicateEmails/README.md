@@ -21,3 +21,5 @@ For example, your query should return the following for the above table:
 ```
 
 **Note:** All emails are in lowercase.
+
+### [Editorial](https://leetcode.com/articles/duplicate-emails/)

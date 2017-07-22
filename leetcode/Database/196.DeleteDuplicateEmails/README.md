@@ -21,3 +21,5 @@ For example, after running your query, the above `Person` table should have the 
 | 2  | bob@example.com  |
 +----+------------------+
 ```
+
+### [Editorial](https://leetcode.com/articles/delete-duplicate-emails/)

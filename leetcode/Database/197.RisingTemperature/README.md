@@ -21,3 +21,5 @@ For example, return the following Ids for the above Weather table:
 |  4 |
 +----+
 ```
+
+### [Editorial](https://leetcode.com/articles/rising-temperature/)

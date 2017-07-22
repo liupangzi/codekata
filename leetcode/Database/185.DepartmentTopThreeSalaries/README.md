@@ -37,3 +37,5 @@ Write a SQL query to find employees who earn the top three salaries in each of t
 | Sales      | Sam      | 60000  |
 +------------+----------+--------+
 ```
+
+### [Editorial](https://leetcode.com/articles/department-top-three-salaries/)

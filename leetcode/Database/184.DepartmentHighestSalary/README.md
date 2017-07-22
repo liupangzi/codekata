@@ -32,3 +32,5 @@ Write a SQL query to find employees who have the highest salary in each of the d
 | Sales      | Henry    | 80000  |
 +------------+----------+--------+
 ```
+
+### [Editorial](https://leetcode.com/articles/department-highest-salary/)

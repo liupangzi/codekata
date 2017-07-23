@@ -391,3 +391,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[638] Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Java](./638.ShoppingOffers/Solution.java) | Medium
 | [[640] Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [Java](./640.SolveTheEquation/Solution.java) | Medium
 | [[643] Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./643.MaximumAverageSubarrayI/Solution.java) | Easy
+| [[645] Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./645.SetMismatch/Solution.java) | Easy

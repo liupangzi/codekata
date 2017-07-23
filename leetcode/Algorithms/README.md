@@ -394,3 +394,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[645] Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./645.SetMismatch/Solution.java) | Easy
 | [[646] Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Java](./646.MaximumLengthOfPairChain/Solution.java) | Medium
 | [[647] Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./647.PalindromicSubstrings/Solution.java) | Medium
+| [[648] Replace Words](https://leetcode.com/problems/replace-words/) | [Java](./648.ReplaceWords/Solution.java) | Medium

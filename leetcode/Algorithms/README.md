@@ -393,3 +393,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[643] Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./643.MaximumAverageSubarrayI/Solution.java) | Easy
 | [[645] Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./645.SetMismatch/Solution.java) | Easy
 | [[646] Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Java](./646.MaximumLengthOfPairChain/Solution.java) | Medium
+| [[647] Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./647.PalindromicSubstrings/Solution.java) | Medium

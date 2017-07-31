@@ -395,4 +395,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[646] Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Java](./646.MaximumLengthOfPairChain/Solution.java) | Medium
 | [[647] Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Java](./647.PalindromicSubstrings/Solution.java) | Medium
 | [[648] Replace Words](https://leetcode.com/problems/replace-words/) | [Java](./648.ReplaceWords/Solution.java) | Medium
-| [[650] 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Java](./650.2KeysKeyboard/Solution.java) | Medium
+| [[650] 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | [Java](./650.2KeysKeyboard/Solution.java) | Medium
+| [[651] 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/) | [Java](./651.4KeysKeyboard/Solution.java) | Medium

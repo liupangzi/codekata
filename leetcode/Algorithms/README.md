@@ -405,4 +405,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[658] Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java](./658.FindKClosestElements/Solution.java) | Medium
 | [[661] Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Java](./661.ImageSmoother/Solution.java) | Easy
 | [[669] Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [Java](./669.TrimABinarySearchTree/Solution.java) | Easy
+| [[671] Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Java](./671.SecondMinimumNodeInABinaryTree/Solution.java) | Easy
 | [[674] Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./674.LongestContinuousIncreasingSubsequence/Solution.java) | Easy

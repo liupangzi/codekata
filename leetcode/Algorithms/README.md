@@ -402,3 +402,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[654] Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Java](./654.MaximumBinaryTree/Solution.java) | Medium
 | [[655] Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) | [Java](./655.PrintBinaryTree/Solution.java) | Medium
 | [[657] Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Java](./657.JudgeRouteCircle/Solution.java) | Easy
+| [[658] Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java](./658.FindKClosestElements/Solution.java) | Medium
+| [[661] Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Java](./661.ImageSmoother/Solution.java) | Easy

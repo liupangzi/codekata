@@ -22,8 +22,4 @@ This repo records my solutions of "The Katas" below:
 
 [<img src="https://www.codechef.com/sites/all/themes/abessive/logo.png" alt="codechef">](https://www.codechef.com/)
 
-### urionlinejudge
-
-[<img src="https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png" alt="urionlinejudge">](https://www.urionlinejudge.com.br/)
-
 [1]: http://codekata.com/kata/codekata-intro/ "The Kata"

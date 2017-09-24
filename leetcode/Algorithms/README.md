@@ -412,3 +412,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[677] Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [Java](./677.MapSumPairs/MapSum.java) | Medium
 | [[678] Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) | [Java](./678.ValidParenthesisString/Solution.java) | Medium
 | [[680] Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./680.ValidPalindromeII/Solution.java) | Easy
+| [[682] Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Java](./682.BaseballGame/Solution.java) | Easy

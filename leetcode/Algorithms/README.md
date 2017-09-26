@@ -406,6 +406,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[661] Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Java](./661.ImageSmoother/Solution.java) | Easy
 | [[665] Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Java](./665.Non-decreasingArray/Solution.java) | Easy
 | [[669] Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [Java](./669.TrimABinarySearchTree/Solution.java) | Easy
+| [[670] Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | [Java](./670.MaximumSwap/Solution.java) | Medium
 | [[671] Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Java](./671.SecondMinimumNodeInABinaryTree/Solution.java) | Easy
 | [[673] Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [Java](./673.NumberOfLongestIncreasingSubsequence/Solution.java) | Medium
 | [[674] Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./674.LongestContinuousIncreasingSubsequence/Solution.java) | Easy

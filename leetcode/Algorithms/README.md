@@ -417,3 +417,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[681] Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Java](./681.NextClosestTime/Solution.java) | Medium
 | [[682] Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Java](./682.BaseballGame/Solution.java) | Easy
 | [[686] Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./686.RepeatedStringMatch/Solution.java) | Easy
+| [[687] Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./687.LongestUnivaluePath/Solution.java) | Easy

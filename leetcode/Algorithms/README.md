@@ -408,6 +408,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[669] Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) | [Java](./669.TrimABinarySearchTree/Solution.java) | Easy
 | [[670] Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) | [Java](./670.MaximumSwap/Solution.java) | Medium
 | [[671] Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Java](./671.SecondMinimumNodeInABinaryTree/Solution.java) | Easy
+| [[672] Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [Java](./672.BulbSwitcherII/Solution.java) | Medium
 | [[673] Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [Java](./673.NumberOfLongestIncreasingSubsequence/Solution.java) | Medium
 | [[674] Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [Java](./674.LongestContinuousIncreasingSubsequence/Solution.java) | Easy
 | [[676] Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Java](./676.ImplementMagicDictionary/MagicDictionary.java) | Medium

@@ -416,6 +416,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[680] Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](./680.ValidPalindromeII/Solution.java) | Easy
 | [[681] Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Java](./681.NextClosestTime/Solution.java) | Medium
 | [[682] Baseball Game](https://leetcode.com/problems/baseball-game/description/) | [Java](./682.BaseballGame/Solution.java) | Easy
+| [[684] Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [Java](./684.RedundantConnection/Solution.java) | Medium
 | [[686] Repeated String Match](https://leetcode.com/problems/repeated-string-match/description/) | [Java](./686.RepeatedStringMatch/Solution.java) | Easy
 | [[687] Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./687.LongestUnivaluePath/Solution.java) | Easy
 | [[688] Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/solution/) | [Java](./688.KnightProbabilityInChessboard/Solution.java) | Medium

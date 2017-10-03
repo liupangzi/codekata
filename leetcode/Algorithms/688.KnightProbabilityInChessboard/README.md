@@ -24,3 +24,5 @@ The total probability the knight stays on the board is 0.0625.
  - The knight always initially starts on the board.
 
 ### [Editorial](https://leetcode.com/articles/knight-probability-in-chessboard/)
+
+  [1]: https://leetcode.com/static/images/problemset/knight.png

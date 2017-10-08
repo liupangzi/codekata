@@ -423,3 +423,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[687] Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./687.LongestUnivaluePath/Solution.java) | Easy
 | [[688] Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/solution/) | [Java](./688.KnightProbabilityInChessboard/Solution.java) | Medium
 | [[690] Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./690.EmployeeImportance/Solution.java) | Easy
+| [[695] Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./695.MaxAreaOfIsland/Solution.java) | Easy

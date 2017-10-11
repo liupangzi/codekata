@@ -403,6 +403,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[655] Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) | [Java](./655.PrintBinaryTree/Solution.java) | Medium
 | [[657] Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Java](./657.JudgeRouteCircle/Solution.java) | Easy
 | [[658] Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) | [Java](./658.FindKClosestElements/Solution.java) | Medium
+| [[659] Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) | [Java](./659.SplitArrayIntoConsecutiveSubsequences/Solution.java) | Medium
 | [[661] Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Java](./661.ImageSmoother/Solution.java) | Easy
 | [[662] Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) | [Java](./662.MaximumWidthOfBinaryTree/Solution.java) / [Python3](./662.MaximumWidthOfBinaryTree/Solution.py) | Medium
 | [[665] Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [Java](./665.Non-decreasingArray/Solution.java) | Easy

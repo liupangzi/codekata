@@ -398,6 +398,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[649] Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/) | [Java](./649.Dota2Senate/Solution.java) | Medium
 | [[650] 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) | [Java](./650.2KeysKeyboard/Solution.java) | Medium
 | [[651] 4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/) | [Java](./651.4KeysKeyboard/Solution.java) | Medium
+| [[652] Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [Java](./652.FindDuplicateSubtrees/Solution.java) | Medium
 | [[653] Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./653.TwoSumIV-InputIsABST/Solution.java) | Easy
 | [[654] Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | [Java](./654.MaximumBinaryTree/Solution.java) | Medium
 | [[655] Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) | [Java](./655.PrintBinaryTree/Solution.java) | Medium

@@ -173,6 +173,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[226] Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./226.InvertBinaryTree/Solution.java) / [C](./226.InvertBinaryTree/Solution.c) | Easy
 | [[227] Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Java](./227.BasicCalculatorII/Solution.java) | Medium
 | [[228] Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Java](./228.SummaryRanges/Solution.java) | Medium
+| [[229] Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Java](./229.MajorityElementII/Solution.java) | Medium
 | [[230] Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./230.KthSmallestElementInABST/Solution.java) | Medium
 | [[231] Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./231.PowerOfTwo/Solution.java) | Easy
 | [[232] Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./232.ImplementQueueUsingStacks/Solution.java) | Easy

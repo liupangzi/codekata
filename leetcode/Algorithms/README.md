@@ -429,3 +429,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[690] Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./690.EmployeeImportance/Solution.java) | Easy
 | [[693] Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [Java](./693.BinaryNumberWithAlternatingBits/Solution.java) | Easy
 | [[695] Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./695.MaxAreaOfIsland/Solution.java) | Easy
+| [[696] Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./696.CountBinarySubstrings/Solution.java) | Easy

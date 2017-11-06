@@ -282,6 +282,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[438] Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Java](./438.FindAllAnagramsInAString/Solution.java) | Easy
 | [[441] Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Java](./441.ArrangingCoins/Solution.java) | Easy
 | [[442] Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](./442.FindAllDuplicatesInAnArray/Solution.java) | Medium
+| [[443] String Compression](https://leetcode.com/problems/string-compression/description/) | [Java](./443.StringCompression/Solution.java) | Easy
 | [[445] Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./445.AddTwoNumbersII/Solution.java) | Medium
 | [[447] Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Java](./447.NumberOfBoomerangs/Solution.java) | Easy
 | [[448] Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./448.FindAllNumbersDisappearedInAnArray/Solution.java) | Easy

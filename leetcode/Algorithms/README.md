@@ -434,3 +434,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[697] Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](./697.DegreeOfAnArray/Solution.java) | Easy
 | [[717] 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](./717.1-bitAnd2-bitCharacters/Solution.java) | Easy
 | [[720] Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Java](./720.LongestWordInDictionary/Solution.java) | Easy
+| [[723] Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [Java](./723.CandyCrush/Solution.java) | Medium

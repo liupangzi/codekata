@@ -431,4 +431,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[695] Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./695.MaxAreaOfIsland/Solution.java) | Easy
 | [[696] Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./696.CountBinarySubstrings/Solution.java) | Easy
 | [[697] Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](./697.DegreeOfAnArray/Solution.java) | Easy
+| [[717] 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](./717.1-bitAnd2-bitCharacters/Solution.java) | Easy
 | [[720] Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Java](./720.LongestWordInDictionary/Solution.java) | Easy

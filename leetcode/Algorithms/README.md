@@ -436,3 +436,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[720] Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Java](./720.LongestWordInDictionary/Solution.java) | Easy
 | [[723] Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [Java](./723.CandyCrush/Solution.java) | Medium
 | [[724] Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](./724.FindPivotIndex/Solution.java) | Easy
+| [[728] Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](./728.SelfDividingNumbers/Solution.java) | Easy

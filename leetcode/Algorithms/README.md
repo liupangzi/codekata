@@ -438,3 +438,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[724] Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](./724.FindPivotIndex/Solution.java) | Easy
 | [[725] Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Java](./725.SplitLinkedListInParts/Solution.java) | Medium
 | [[728] Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](./728.SelfDividingNumbers/Solution.java) | Easy
+| [[729] My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | [Java](./729.MyCalendarI/Solution.java) | Medium

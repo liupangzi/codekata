@@ -435,6 +435,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[717] 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](./717.1-bitAnd2-bitCharacters/Solution.java) | Easy
 | [[718] Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [Java](./718.MaximumLengthOfRepeatedSubarray/Solution.java) / [Python](./718.MaximumLengthOfRepeatedSubarray/Solution.py) | Medium
 | [[720] Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [Java](./720.LongestWordInDictionary/Solution.java) | Easy
+| [[722] Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [Java](./722.RemoveComments/Solution.java) | Medium
 | [[723] Candy Crush](https://leetcode.com/problems/candy-crush/description/) | [Java](./723.CandyCrush/Solution.java) | Medium
 | [[724] Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](./724.FindPivotIndex/Solution.java) | Easy
 | [[725] Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Java](./725.SplitLinkedListInParts/Solution.java) | Medium

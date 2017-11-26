@@ -447,3 +447,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[731] My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) | [Java](./731.MyCalendarII/MyCalendarTwo.java) | Medium
 | [[733] Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Java](./733.FloodFill/Solution.java) / [Python](./733.FloodFill/Solution.py) | Easy
 | [[734] Sentence Similarity](https://leetcode.com/problems/sentence-similarity/description/) | [Java](./734.SentenceSimilarity/Solution.java) | Easy
+| [[737] Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [Java](./737.SentenceSimilarityII/Solution.java) | Medium

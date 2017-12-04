@@ -449,4 +449,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[734] Sentence Similarity](https://leetcode.com/problems/sentence-similarity/description/) | [Java](./734.SentenceSimilarity/Solution.java) | Easy
 | [[735] Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | [Java](./735.AsteroidCollision/Solution.java) | Medium
 | [[737] Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [Java](./737.SentenceSimilarityII/Solution.java) | Medium
+| [[738] Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | [Java](./738.MonotoneIncreasingDigits/Solution.java) | Medium
 | [[739] Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./739.DailyTemperatures/Solution.java) | Medium

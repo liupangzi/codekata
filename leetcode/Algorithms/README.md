@@ -451,5 +451,6 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[737] Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [Java](./737.SentenceSimilarityII/Solution.java) | Medium
 | [[738] Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | [Java](./738.MonotoneIncreasingDigits/Solution.java) | Medium
 | [[739] Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./739.DailyTemperatures/Solution.java) | Medium
+| [[740] Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Java](./740.DeleteAndEarn/Solution.java) | Medium
 | [[742] Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | [Java](./742.ClosestLeafInABinaryTree/Solution.java) | Medium
 | [[744] Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Java](./744.FindSmallestLetterGreaterThanTarget/Solution.java) | Easy

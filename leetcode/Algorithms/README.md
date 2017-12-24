@@ -459,3 +459,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[748] Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | [Java](./748.ShortestCompletingWord/Solution.java) | Medium
 | [[750] Number Of Corner Rectangles :lock:](https://leetcode.com/problems/number-of-corner-rectangles) | [Java](./750.NumberOfCornerRectangles/Solution.java) | Medium
 | [[751] IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) | [Java](./751.IPToCIDR/Solution.java) | Medium
+| [[752] Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [Java](./752.OpenTheLock/Solution.java) | Medium

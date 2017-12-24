@@ -455,5 +455,6 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[742] Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | [Java](./742.ClosestLeafInABinaryTree/Solution.java) | Medium
 | [[744] Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Java](./744.FindSmallestLetterGreaterThanTarget/Solution.java) | Easy
 | [[746] Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Java](./746.MinCostClimbingStairs/Solution.java) | Easy
+| [[747] Largest Number Greater Than Twice of Others](https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/) | [Java](./747.LargestNumberGreaterThanTwiceOfOthers/Solution.java) | Easy
 | [[748] Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | [Java](./748.ShortestCompletingWord/Solution.java) | Medium
 | [[750] Number Of Corner Rectangles :lock:](https://leetcode.com/problems/number-of-corner-rectangles) | [Java](./750.NumberOfCornerRectangles/Solution.java) | Medium

@@ -458,3 +458,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[747] Largest Number Greater Than Twice of Others](https://leetcode.com/problems/largest-number-greater-than-twice-of-others/description/) | [Java](./747.LargestNumberGreaterThanTwiceOfOthers/Solution.java) | Easy
 | [[748] Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | [Java](./748.ShortestCompletingWord/Solution.java) | Medium
 | [[750] Number Of Corner Rectangles :lock:](https://leetcode.com/problems/number-of-corner-rectangles) | [Java](./750.NumberOfCornerRectangles/Solution.java) | Medium
+| [[751] IP to CIDR](https://leetcode.com/problems/ip-to-cidr/description/) | [Java](./751.IPToCIDR/Solution.java) | Medium

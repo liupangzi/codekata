@@ -461,3 +461,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[751] IP to CIDR :lock:](https://leetcode.com/problems/ip-to-cidr/description/) | [Java](./751.IPToCIDR/Solution.java) | Easy
 | [[752] Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [Java](./752.OpenTheLock/Solution.java) | Medium
 | [[756] Pour Water](https://leetcode.com/problems/pour-water/description/) | [Java](./756.PourWater/Solution.java) | Medium
+| [[757] Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Java](./757.PyramidTransitionMatrix/Solution.java) | Medium

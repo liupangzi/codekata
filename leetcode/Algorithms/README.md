@@ -428,6 +428,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[687] Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/) | [Java](./687.LongestUnivaluePath/Solution.java) | Easy
 | [[688] Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/solution/) | [Java](./688.KnightProbabilityInChessboard/Solution.java) | Medium
 | [[690] Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [Java](./690.EmployeeImportance/Solution.java) | Easy
+| [[692] Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Java](./692.TopKFrequentWords/Solution.java) | Medium
 | [[693] Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) | [Java](./693.BinaryNumberWithAlternatingBits/Solution.java) | Easy
 | [[695] Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [Java](./695.MaxAreaOfIsland/Solution.java) | Easy
 | [[696] Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./696.CountBinarySubstrings/Solution.java) | Easy

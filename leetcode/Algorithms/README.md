@@ -463,3 +463,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[755] Reach a Number](https://leetcode.com/problems/reach-a-number/description/) | [Java](./755.ReachANumber/Solution.java) | Medium
 | [[756] Pour Water](https://leetcode.com/problems/pour-water/description/) | [Java](./756.PourWater/Solution.java) | Medium
 | [[757] Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Java](./757.PyramidTransitionMatrix/Solution.java) | Medium
+| [[760] Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [Java](./760.FindAnagramMappings/Solution.java) | Easy

@@ -465,4 +465,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[756] Pour Water](https://leetcode.com/problems/pour-water/description/) | [Java](./756.PourWater/Solution.java) | Medium
 | [[757] Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/) | [Java](./757.PyramidTransitionMatrix/Solution.java) | Medium
 | [[760] Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) | [Java](./760.FindAnagramMappings/Solution.java) | Easy
+| [[762] Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [Java](./762.PrimeNumberOfSetBitsInBinaryRepresentation/Solution.java) | Easy
 | [[766] Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./766.ToeplitzMatrix/Solution.java) | Easy

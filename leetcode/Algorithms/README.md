@@ -468,4 +468,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[762] Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | [Java](./762.PrimeNumberOfSetBitsInBinaryRepresentation/Solution.java) | Easy
 | [[763] Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Java](./763.PartitionLabels/Solution.java) | Medium
 | [[766] Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [Java](./766.ToeplitzMatrix/Solution.java) | Easy
+| [[767] Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Java](./767.ReorganizeString/Solution.java) | Medium
 | [[769] Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Java](./769.MaxChunksToMakeSorted/Solution.java) | Medium

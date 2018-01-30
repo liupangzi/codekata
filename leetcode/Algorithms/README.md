@@ -472,3 +472,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[767] Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | [Java](./767.ReorganizeString/Solution.java) | Medium
 | [[769] Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Java](./769.MaxChunksToMakeSorted/Solution.java) | Medium
 | [[771] Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./771.JewelsAndStones/Solution.java) | Easy
+| [[775] Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | [Java](./775.GlobalAndLocalInversions/Solution.java) | Medium

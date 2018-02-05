@@ -473,3 +473,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[769] Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) | [Java](./769.MaxChunksToMakeSorted/Solution.java) | Medium
 | [[771] Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./771.JewelsAndStones/Solution.java) | Easy
 | [[775] Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | [Java](./775.GlobalAndLocalInversions/Solution.java) | Medium
+| [[779] K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | [Java](./779.K-thSymbolInGrammar/Solution.java) | Medium

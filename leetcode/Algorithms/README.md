@@ -474,4 +474,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[771] Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./771.JewelsAndStones/Solution.java) | Easy
 | [[775] Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) | [Java](./775.GlobalAndLocalInversions/Solution.java) | Medium
 | [[779] K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) | [Java](./779.K-thSymbolInGrammar/Solution.java) | Medium
+| [[783] Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](./783.MinimumDistanceBetweenBSTNodes/Solution.java) | Easy
 | [[784] Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./784.LetterCasePermutation/Solution.java) | Easy

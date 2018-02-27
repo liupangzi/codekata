@@ -477,3 +477,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[783] Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](./783.MinimumDistanceBetweenBSTNodes/Solution.java) | Easy
 | [[784] Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./784.LetterCasePermutation/Solution.java) | Easy
 | [[788] Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Java](./788.RotatedDigits/Solution.java) | Easy
+| [[791] Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./791.CustomSortString/Solution.java) | Medium

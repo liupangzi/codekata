@@ -478,3 +478,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[784] Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Java](./784.LetterCasePermutation/Solution.java) | Easy
 | [[788] Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Java](./788.RotatedDigits/Solution.java) | Easy
 | [[791] Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./791.CustomSortString/Solution.java) | Medium
+| [[796] Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](./796.RotateString/Solution.java) | Easy

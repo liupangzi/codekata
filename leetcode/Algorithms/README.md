@@ -480,3 +480,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[791] Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./791.CustomSortString/Solution.java) | Medium
 | [[796] Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](./796.RotateString/Solution.java) | Easy
 | [[804] Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./804.UniqueMorseCodeWords/Solution.java) | Easy
+| [[806] Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [Java](./806.NumberOfLinesToWriteString/Solution.java) | Easy

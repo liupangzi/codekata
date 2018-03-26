@@ -2,35 +2,30 @@ We are to write the letters of a given string `S`, from left to right into lines
 
 Now answer two questions: how many lines have at least one character from `S`, and what is the width used by the last such line? Return your answer as an integer list of length 2.
 
- 
-
-```
-Example :
-Input: 
+<pre>
+<b>Example :</b>
+<b>Input:</b> 
 widths = [10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
 S = "abcdefghijklmnopqrstuvwxyz"
-Output: [3, 60]
-Explanation: 
+<b>Output:</b> [3, 60]
+<b>Explanation:</b> 
 All letters have the same length of 10. To write all 26 letters,
 we need two full lines and one line with 60 units.
+</pre>
 
-```
-
-```
-Example :
-Input: 
+<pre>
+<b>Example :</b>
+<b>Input:</b>
 widths = [4,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10]
 S = "bbbcccdddaaa"
-Output: [2, 4]
-Explanation: 
+<b>Output:</b> [2, 4]
+<b>Explanation:</b> 
 All letters except 'a' have the same length of 10, and 
 "bbbcccdddaa" will cover 9 * 10 + 2 * 4 = 98 units.
 For the last 'a', it is written on the second line because
 there is only 2 units left in the first line.
 So the answer is 2 lines, plus 4 units in the second line.
-
-```
-
+</pre>
  
 
 **Note:**

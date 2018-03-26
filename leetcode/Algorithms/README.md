@@ -481,3 +481,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[796] Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](./796.RotateString/Solution.java) | Easy
 | [[804] Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./804.UniqueMorseCodeWords/Solution.java) | Easy
 | [[806] Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [Java](./806.NumberOfLinesToWriteString/Solution.java) | Easy
+| [[807] Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [Java](./807.MaxIncreaseToKeepCitySkyline/Solution.java) | Medium

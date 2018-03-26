@@ -10,11 +10,11 @@ Now, given a list of words, each word can be written as a concatenation of the M
 
 Return the number of different transformations among all words we have.
 
-```
-Example:
-Input: words = ["gin", "zen", "gig", "msg"]
-Output: 2
-Explanation: 
+<pre>
+<b>Example:</b>
+<b>Input:</b> words = ["gin", "zen", "gig", "msg"]
+<b>Output:</b> 2
+<b>Explanation:</b> 
 The transformation of each word is:
 "gin" -> "--...-."
 "zen" -> "--...-."
@@ -22,8 +22,7 @@ The transformation of each word is:
 "msg" -> "--...--."
 
 There are 2 different transformations, "--...-." and "--...--.".
-
-```
+</pre>
 
 **Note:**
 

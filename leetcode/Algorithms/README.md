@@ -479,6 +479,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[788] Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [Java](./788.RotatedDigits/Solution.java) | Easy
 | [[791] Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Java](./791.CustomSortString/Solution.java) | Medium
 | [[796] Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](./796.RotateString/Solution.java) | Easy
+| [[797] All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | [Java](./797.AllPathsFromSourceToTarget/Solution.java) / [Go](./797.AllPathsFromSourceToTarget/Solution.go)| Medium
 | [[804] Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./804.UniqueMorseCodeWords/Solution.java) | Easy
 | [[806] Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [Java](./806.NumberOfLinesToWriteString/Solution.java) | Easy
 | [[807] Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [Java](./807.MaxIncreaseToKeepCitySkyline/Solution.java) | Medium

@@ -454,6 +454,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[739] Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Java](./739.DailyTemperatures/Solution.java) | Medium
 | [[740] Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Java](./740.DeleteAndEarn/Solution.java) | Medium
 | [[742] Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) | [Java](./742.ClosestLeafInABinaryTree/Solution.java) | Medium
+| [[743] Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [Java](./743.NetworkDelayTime/Solution.java) | Medium
 | [[744] Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Java](./744.FindSmallestLetterGreaterThanTarget/Solution.java) | Easy
 | [[746] Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Java](./746.MinCostClimbingStairs/Solution.java) | Easy
 | [[747] Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Java](./747.LargestNumberAtLeastTwiceOfOthers/Solution.java) | Easy

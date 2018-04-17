@@ -487,3 +487,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[811] Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [Go](./811.SubdomainVisitCount/Solution.go) | Easy
 | [[812] Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [Java](./812.LargestTriangleArea/Solution.java) | Easy
 | [[814] Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) | [Go](./814.BinaryTreePruning/Solution.go) | Medium
+| [[819] Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Java](./819.MostCommonWord/Solution.java) | Easy

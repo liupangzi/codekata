@@ -490,3 +490,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[816] Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) | [Java](./816.AmbiguousCoordinates/Solution.java) | Medium
 | [[817] Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Java](./817.LinkedListComponents/Solution.java) | Medium
 | [[819] Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Java](./819.MostCommonWord/Solution.java) | Easy
+| [[821] Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [Java](./821.ShortestDistanceToACharacter/Solution.java) / [Go](./821.ShortestDistanceToACharacter/Solution.go) | Easy

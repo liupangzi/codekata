@@ -493,3 +493,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[821] Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [Java](./821.ShortestDistanceToACharacter/Solution.java) / [Go](./821.ShortestDistanceToACharacter/Solution.go) | Easy
 | [[824] Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Java](./824.GoatLatin/Solution.java) | Easy
 | [[830] Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [Java](./830.PositionsOfLargeGroups/Solution.java) | Easy
+| [[832] Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./832.FlippingAnImage/Solution.java) | Easy

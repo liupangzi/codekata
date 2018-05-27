@@ -498,3 +498,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[835] Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Java](./835.ImageOverlap/Solution.java) | Medium
 | [[836] Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | [Java](./836.RectangleOverlap/Solution.java) | Easy
 | [[838] Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [Java](./838.PushDominoes/Solution.java) | Medium
+| [[840] Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./840.MagicSquaresInGrid/Solution.java) | Easy

@@ -494,6 +494,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[821] Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) | [Java](./821.ShortestDistanceToACharacter/Solution.java) / [Go](./821.ShortestDistanceToACharacter/Solution.go) | Easy
 | [[824] Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Java](./824.GoatLatin/Solution.java) | Easy
 | [[830] Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [Java](./830.PositionsOfLargeGroups/Solution.java) | Easy
+| [[831] Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) | [Java](./831.MaskingPersonalInformation/Solution.java) | Medium
 | [[832] Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./832.FlippingAnImage/Solution.java) | Easy
 | [[835] Image Overlap](https://leetcode.com/problems/image-overlap/description/) | [Java](./835.ImageOverlap/Solution.java) | Medium
 | [[836] Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | [Java](./836.RectangleOverlap/Solution.java) | Easy

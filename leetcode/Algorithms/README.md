@@ -502,3 +502,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[838] Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [Java](./838.PushDominoes/Solution.java) | Medium
 | [[840] Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Java](./840.MagicSquaresInGrid/Solution.java) | Easy
 | [[841] Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [Java](./841.KeysAndRooms/Solution.java) | Medium
+| [[844] Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./844.BackspaceStringCompare/Solution.java) | Easy

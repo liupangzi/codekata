@@ -504,3 +504,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[841] Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [Java](./841.KeysAndRooms/Solution.java) | Medium
 | [[844] Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./844.BackspaceStringCompare/Solution.java) | Easy
 | [[849] Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [Java](./849.MaximizeDistanceToClosestPerson/Solution.java) | Easy
+| [[852] Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./852.PeakIndexInAMountainArray/Solution.java) | Easy

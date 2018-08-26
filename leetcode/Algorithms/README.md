@@ -435,6 +435,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[696] Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./696.CountBinarySubstrings/Solution.java) | Easy
 | [[697] Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](./697.DegreeOfAnArray/Solution.java) | Easy
 | [[700] Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Java](./700.SearchInABinarySearchTree/Solution.java) | Easy
+| [[709] To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Java](./709.ToLowerCase/Solution.java) | Easy
 | [[712] Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [Java](./712.MinimumASCIIDeleteSumForTwoStrings/Solution.java) | Medium
 | [[713] Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./713.SubarrayProductLessThanK/Solution.java) | Medium
 | [[717] 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](./717.1-bitAnd2-bitCharacters/Solution.java) | Easy

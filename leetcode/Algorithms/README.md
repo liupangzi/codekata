@@ -369,6 +369,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[583] Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Java](./583.DeleteOperationForTwoStrings/Solution.java) | Medium
 | [[587] Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [Java](./587.ErectTheFence/Solution.java) | Hard
 | [[589] N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/) | [Java](./589.N-aryTreePreorderTraversal/Solution.java) | Easy
+| [[590] N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/) | [Java](./590.N-aryTreePostorderTraversal/Solution.java) | Easy
 | [[592] Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](./592.FractionAdditionAndSubtraction/Solution.java) | Medium
 | [[593] Valid Square](https://leetcode.com/problems/valid-square/) | [Java](./593.ValidSquare/Solution.java) | Medium
 | [[594] Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](./594.LongestHarmoniousSubsequence/Solution.java) | Easy

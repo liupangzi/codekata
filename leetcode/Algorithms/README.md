@@ -515,3 +515,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[860] Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Java](./860.LemonadeChange/Solution.java) | Easy
 | [[867] Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Java](./867.TransposeMatrix/Solution.java) | Easy
 | [[872] Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](./872.Leaf-SimilarTrees/Solution.java) | Easy
+| [[876] Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](./876.MiddleOfTheLinkedList/Solution.java) | Easy

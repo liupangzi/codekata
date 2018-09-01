@@ -275,6 +275,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[419] Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [Java](./419.BattleshipsInABoard/Solution.java) | Medium
 | [[421] Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](./421.MaximumXOROfTwoNumbersInAnArray/Solution.java) | Medium
 | [[423] Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Java](./423.ReconstructOriginalDigitsFromEnglish/Solution.java) | Medium
+| [[427] Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) | [Java](./427.ConstructQuadTree/Solution.java) | Easy
 | [[429] N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) | [Java](./429.N-aryTreeLevelOrderTraversal/Solution.java) | Easy
 | [[434] Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Java](./434.NumberOfSegmentsInAString/Solution.java) | Easy
 | [[435] Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Java](./435.Non-overlappingIntervals/Solution.java) | Medium

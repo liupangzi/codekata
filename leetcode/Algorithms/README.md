@@ -521,3 +521,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[883] Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [Java](./883.ProjectionAreaOf3DShapes/Solution.java) | Easy
 | [[884] Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Java](./884.UncommonWordsFromTwoSentences/Solution.java) | Easy
 | [[892] Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [Java](./892.SurfaceAreaOf3DShapes/Solution.java) | Easy
+| [[896] Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [Java](./896.MonotonicArray/Solution.java) | Easy

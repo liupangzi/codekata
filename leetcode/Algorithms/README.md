@@ -442,6 +442,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[704] Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./704.BinarySearch/Solution.java) | Easy
 | [[705] Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Java](./705.DesignHashSet/Solution.java) | Easy
 | [[706] Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Java](./706.DesignHashMap/Solution.java) | Easy
+| [[707] Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | [Java](./707.DesignLinkedList/Solution.java) | Easy
 | [[709] To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Java](./709.ToLowerCase/Solution.java) | Easy
 | [[712] Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | [Java](./712.MinimumASCIIDeleteSumForTwoStrings/Solution.java) | Medium
 | [[713] Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./713.SubarrayProductLessThanK/Solution.java) | Medium

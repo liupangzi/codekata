@@ -526,3 +526,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[888] Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [Java](./888.FairCandySwap/Solution.java) | Easy
 | [[892] Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [Java](./892.SurfaceAreaOf3DShapes/Solution.java) | Easy
 | [[896] Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [Java](./896.MonotonicArray/Solution.java) | Easy
+| [[905] Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Java](./905.SortArrayByParity/Solution.java) | Easy

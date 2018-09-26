@@ -527,3 +527,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[892] Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [Java](./892.SurfaceAreaOf3DShapes/Solution.java) | Easy
 | [[896] Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [Java](./896.MonotonicArray/Solution.java) | Easy
 | [[905] Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Java](./905.SortArrayByParity/Solution.java) | Easy
+| [[908] Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [Java](./908.SmallestRangeI/Solution.java) | Easy

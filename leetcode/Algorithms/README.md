@@ -439,6 +439,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[696] Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./696.CountBinarySubstrings/Solution.java) | Easy
 | [[697] Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](./697.DegreeOfAnArray/Solution.java) | Easy
 | [[700] Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Java](./700.SearchInABinarySearchTree/Solution.java) | Easy
+| [[703] Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Java](./703.KthLargestElementInAStream/Solution.java) | Easy
 | [[704] Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./704.BinarySearch/Solution.java) | Easy
 | [[705] Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Java](./705.DesignHashSet/Solution.java) | Easy
 | [[706] Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [Java](./706.DesignHashMap/Solution.java) | Easy

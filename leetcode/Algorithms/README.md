@@ -355,6 +355,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[554] Brick Wall](https://leetcode.com/problems/brick-wall/) | [Java](./554.BrickWall/Solution.java) | Medium
 | [[556] Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Java](./556.NextGreaterElementIII/Solution.java) | Medium
 | [[557] Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java](./557.ReverseWordsInAStringIII/Solution.java) | Easy
+| [[558] Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection/) | [Java](./558.QuadTreeIntersection/Solution.java) | Easy
 | [[559] Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](./559.MaximumDepthOfN-aryTree/Solution.java) | Easy
 | [[560] Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./560.SubarraySumEqualsK/Solution.java) | Medium
 | [[561] Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./561.ArrayPartitionI/Solution.java) | Easy

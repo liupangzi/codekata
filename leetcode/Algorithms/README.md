@@ -521,6 +521,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[867] Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Java](./867.TransposeMatrix/Solution.java) | Easy
 | [[868] Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Java](./868.BinaryGap/Solution.java) | Easy
 | [[872] Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](./872.Leaf-SimilarTrees/Solution.java) | Easy
+| [[874] Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Java](./874.WalkingRobotSimulation/Solution.java) | Easy
 | [[876] Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](./876.MiddleOfTheLinkedList/Solution.java) | Easy
 | [[883] Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [Java](./883.ProjectionAreaOf3DShapes/Solution.java) | Easy
 | [[884] Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Java](./884.UncommonWordsFromTwoSentences/Solution.java) | Easy

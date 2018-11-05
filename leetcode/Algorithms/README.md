@@ -517,6 +517,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[844] Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./844.BackspaceStringCompare/Solution.java) | Easy
 | [[849] Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) | [Java](./849.MaximizeDistanceToClosestPerson/Solution.java) | Easy
 | [[852] Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./852.PeakIndexInAMountainArray/Solution.java) | Easy
+| [[859] Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Java](./859.BuddyStrings/Solution.java) | Easy
 | [[860] Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Java](./860.LemonadeChange/Solution.java) | Easy
 | [[867] Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [Java](./867.TransposeMatrix/Solution.java) | Easy
 | [[868] Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Java](./868.BinaryGap/Solution.java) | Easy

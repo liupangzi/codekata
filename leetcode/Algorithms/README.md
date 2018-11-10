@@ -540,4 +540,5 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[922] Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](./922.SortArrayByParityII/Solution.java) | Easy
 | [[925] Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Java](./925.LongPressedName/Solution.java) | Easy
 | [[929] Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Java](./929.UniqueEmailAddresses/Solution.java) | Easy
+| [[931] Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [Java](./931.MinimumFallingPathSum/Solution.java) | Medium
 | [[933] Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./933.NumberOfRecentCalls/Solution.java) | Easy

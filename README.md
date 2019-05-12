@@ -8,7 +8,7 @@ This repo records my solutions of "The Katas" below:
 
 ### leetcode
 
-[<img src="https://leetcode.com/static/images/logolarge.jpg" alt="leetcode">](https://leetcode.com/)
+[<img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="leetcode">](https://leetcode.com/)
 
 ### projecteuler
 

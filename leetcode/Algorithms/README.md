@@ -128,7 +128,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[151] Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./151.ReverseWordsInAString/Solution.java) | Medium
 | [[152] Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./152.MaximumProductSubarray/Solution.java) / [Golang](./152.MaximumProductSubarray/Solution.go) | Medium
 | [[153] Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](./153.FindMinimumInRotatedSortedArray/Solution.java) | Medium
-| [[154] Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](./154.FindMinimumInRotatedSortedArrayII/MinStack.java) | Medium
+| [[154] Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Java](./154.FindMinimumInRotatedSortedArrayII/Solution.java) | Medium
 | [[155] Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./155.MinStack/MinStack.java) / [Python](./155.MinStack/MinStack.py) | Easy
 | [[160] Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./160.IntersectionOfTwoLinkedLists/Solution.java) / [C](./160.IntersectionOfTwoLinkedLists/Solution.c) | Easy
 | [[162] Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./162.FindPeakElement/Solution.java) | Medium
@@ -197,7 +197,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[278] First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./278.FirstBadVersion/Solution.java) | Easy
 | [[279] Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./279.PerfectSquares/Solution.java) | Medium
 | [[283] Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./283.MoveZeroes/Solution.java) | Easy
-| [[284] Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Java](./284.PeekingIterator/Solution.java) | Medium
+| [[284] Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Java](./284.PeekingIterator/PeekingIterator.java) | Medium
 | [[287] Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./287.FindTheDuplicateNumber/Solution.java) / [Python](./287.FindTheDuplicateNumber/Solution.py) | Medium
 | [[289] Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](./289.GameOfLife/Solution.java) | Medium
 | [[290] Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](./290.WordPattern/Solution.java) | Easy

@@ -121,6 +121,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[142] Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./142.LinkedListCycleII/Solution.java) | Medium
 | [[143] Reorder List](https://leetcode.com/problems/reorder-list/) | [Java](./143.ReorderList/Solution.java) | Medium
 | [[144] Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./144.BinaryTreePreorderTraversal/Solution.java) / [Python](./144.BinaryTreePreorderTraversal/Solution.py) | Medium
+| [[146] LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./146.LRUCache/LRUCache.java) | Hard
 | [[147] Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](./147.InsertionSortList/Solution.java) | Medium
 | [[148] Sort List](https://leetcode.com/problems/sort-list/) | [Java](./148.SortList/Solution.java) / [Python](./148.SortList/Solution.py) | Medium
 | [[149] Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Java](./149.MaxPointsOnALine/Solution.java) | Medium
@@ -545,3 +546,10 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[933] Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](./933.NumberOfRecentCalls/Solution.java) | Easy
 | [[937] Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [Java](./937.ReorderLogFiles/Solution.java) | Easy
 | [[938] Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](./938.RangeSumOfBST/Solution.java) | Medium
+| [[941] Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](./941.ValidMountainArray/Solution.java) | Easy
+| [[961] N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./961.N-RepeatedElementinSize2NArray/Solution.java) | Easy
+| [[965] Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Java](./965.UnivaluedBinaryTree/Solution.java) | Easy
+| [[976] Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./976.LargestPerimeterTriangle/Solution.java) | Easy
+| [[977] Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./977.SquaresOfASortedArray/Solution.java) | Easy
+| [[993] Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](./993.CousinsinBinaryTree/Solution.java) | Easy
+| [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy

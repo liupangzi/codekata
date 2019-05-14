@@ -552,4 +552,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[976] Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./976.LargestPerimeterTriangle/Solution.java) | Easy
 | [[977] Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./977.SquaresOfASortedArray/Solution.java) | Easy
 | [[993] Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](./993.CousinsinBinaryTree/Solution.java) | Easy
+| [[997] Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./997.FindTheTownJudge/Solution.java) | Easy
+| [[1009] Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./1009.ComplementOfBase10Integer/Solution.java) | Easy
 | [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy
+| [[1022] Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](./1022.SumOfRootToLeafBinaryNumbers/Solution.java) | Easy

@@ -547,12 +547,14 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[937] Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [Java](./937.ReorderLogFiles/Solution.java) | Easy
 | [[938] Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](./938.RangeSumOfBST/Solution.java) | Medium
 | [[941] Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](./941.ValidMountainArray/Solution.java) | Easy
+| [[949] Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Java](./949.LargestTimeForGivenDigits/Solution.java) | Easy
 | [[961] N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./961.N-RepeatedElementinSize2NArray/Solution.java) | Easy
 | [[965] Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Java](./965.UnivaluedBinaryTree/Solution.java) | Easy
 | [[976] Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./976.LargestPerimeterTriangle/Solution.java) | Easy
 | [[977] Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./977.SquaresOfASortedArray/Solution.java) | Easy
 | [[993] Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](./993.CousinsinBinaryTree/Solution.java) | Easy
 | [[997] Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./997.FindTheTownJudge/Solution.java) | Easy
+| [[999] Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Java](./999.AvailableCapturesForRook/Solution.java) | Easy
 | [[1009] Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./1009.ComplementOfBase10Integer/Solution.java) | Easy
 | [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy
 | [[1022] Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](./1022.SumOfRootToLeafBinaryNumbers/Solution.java) | Easy

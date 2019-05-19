@@ -547,6 +547,8 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[937] Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | [Java](./937.ReorderLogFiles/Solution.java) | Easy
 | [[938] Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](./938.RangeSumOfBST/Solution.java) | Medium
 | [[941] Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Java](./941.ValidMountainArray/Solution.java) | Easy
+| [[942] DI String Match](https://leetcode.com/problems/di-string-match/) | [Java](./942.DIStringMatch/Solution.java) | Easy
+| [[944] Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Java](./944.DeleteColumnsToMakeSorted/Solution.java) | Easy
 | [[949] Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Java](./949.LargestTimeForGivenDigits/Solution.java) | Easy
 | [[961] N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./961.N-RepeatedElementinSize2NArray/Solution.java) | Easy
 | [[965] Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Java](./965.UnivaluedBinaryTree/Solution.java) | Easy
@@ -556,6 +558,11 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[997] Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./997.FindTheTownJudge/Solution.java) | Easy
 | [[999] Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [Java](./999.AvailableCapturesForRook/Solution.java) | Easy
 | [[1002] Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Java](./1002.FindCommonCharacters/Solution.java) | Easy
+| [[1005] Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Java](./1005.MaximizeSumOfArrayAfterKNegations/Solution.java) | Easy
 | [[1009] Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](./1009.ComplementOfBase10Integer/Solution.java) | Easy
+| [[1010] Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](./1010.PairsOfSongsWithTotalDurationsDivisibleBy60/Solution.java) | Easy
+| [[1018] Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Java](./1018.BinaryPrefixDivisibleBy5/Solution.java) | Easy
 | [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy
 | [[1022] Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](./1022.SumOfRootToLeafBinaryNumbers/Solution.java) | Easy
+| [[1037] Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Java](./1037.ValidBoomerang/Solution.java) | Easy
+| [[1041] Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./1041.RobotBoundedInCircle/Solution.java) | Easy

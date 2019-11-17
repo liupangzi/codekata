@@ -568,6 +568,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[1018] Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Java](./1018.BinaryPrefixDivisibleBy5/Solution.java) | Easy
 | [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy
 | [[1022] Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](./1022.SumOfRootToLeafBinaryNumbers/Solution.java) | Easy
+| [[1030] Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](./1030.MatrixCellsinDistanceOrder/Solution.java) | Easy
 | [[1037] Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Java](./1037.ValidBoomerang/Solution.java) | Easy
 | [[1041] Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Java](./1041.RobotBoundedInCircle/Solution.java) | Easy
 | [[1046] Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Java](./1046.LastStoneWeight/Solution.java) | Easy

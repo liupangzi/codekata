@@ -552,6 +552,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[949] Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Java](./949.LargestTimeForGivenDigits/Solution.java) | Easy
 | [[953] Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Java](./953.VerifyingAnAlienDictionary/Solution.java) | Easy
 | [[961] N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](./961.N-RepeatedElementinSize2NArray/Solution.java) | Easy
+| [[962] Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [Java](./962.MaximumWidthRamp/Solution.java) | Medium
 | [[965] Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Java](./965.UnivaluedBinaryTree/Solution.java) | Easy
 | [[970] Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Java](./970.PowerfulIntegers/Solution.java) | Easy
 | [[976] Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./976.LargestPerimeterTriangle/Solution.java) | Easy

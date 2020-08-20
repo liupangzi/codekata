@@ -575,3 +575,4 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[1046] Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Java](./1046.LastStoneWeight/Solution.java) | Easy
 | [[1047] Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./1047.RemoveAllAdjacentDuplicatesInString/Solution.java) | Easy
 | [[1051] Height Checker](https://leetcode.com/problems/height-checker/) | [Java](./1051.HeightChecker/Solution.java) | Easy
+| [[1124] Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [Java](./1124.LongestWellPerformingInterval/Solution.java) | Medium

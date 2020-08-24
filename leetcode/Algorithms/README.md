@@ -567,6 +567,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[1010] Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Java](./1010.PairsOfSongsWithTotalDurationsDivisibleBy60/Solution.java) | Easy
 | [[1013] Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Java](./1013.PartitionArrayIntoThreePartsWithEqualSum/Solution.java) | Easy
 | [[1018] Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Java](./1018.BinaryPrefixDivisibleBy5/Solution.java) | Easy
+| [[1019] Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Java](./1019.NextGreaterNodeInLinkedList/Solution.java) | Medium
 | [[1021] Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](./1021.RemoveOutermostParentheses/Solution.java) | Easy
 | [[1022] Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](./1022.SumOfRootToLeafBinaryNumbers/Solution.java) | Easy
 | [[1030] Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](./1030.MatrixCellsinDistanceOrder/Solution.java) | Easy

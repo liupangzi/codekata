@@ -535,6 +535,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[896] Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [Java](./896.MonotonicArray/Solution.java) | Easy
 | [[897] Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Java](./897.IncreasingOrderSearchTree/Solution.java) | Easy
 | [[905] Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Java](./905.SortArrayByParity/Solution.java) | Easy
+| [[907] Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Java](./907.SumOfSubarrayMinimums/Solution.java) | Medium
 | [[908] Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | [Java](./908.SmallestRangeI/Solution.java) | Easy
 | [[914] X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./914.XOfAKindInADeckOfCards/Solution.java) | Easy
 | [[917] Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Java](./917.ReverseOnlyLetters/Solution.java) | Easy

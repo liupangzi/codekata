@@ -560,6 +560,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[970] Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Java](./970.PowerfulIntegers/Solution.java) | Easy
 | [[976] Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./976.LargestPerimeterTriangle/Solution.java) | Easy
 | [[977] Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./977.SquaresOfASortedArray/Solution.java) | Easy
+| [[985] Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Java](./985.SumOfEvenNumbersAfterQueries/Solution.java) | Easy
 | [[989] Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Java](./989.AddToArrayFormOfInteger/Solution.java) | Easy
 | [[993] Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](./993.CousinsinBinaryTree/Solution.java) | Easy
 | [[997] Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./997.FindTheTownJudge/Solution.java) | Easy

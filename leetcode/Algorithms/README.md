@@ -74,6 +74,7 @@ Solutions for https://leetcode.com/problemset/algorithms/
 | [[81] Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](./81.SearchInRotatedSortedArrayII/Solution.java) | Medium
 | [[82] Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](./82.RemoveDuplicatesFromSortedListII/Solution.java) / [Python](./82.RemoveDuplicatesFromSortedListII/Solution.py) | Medium
 | [[83] Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./83.RemoveDuplicatesFromSortedList/Solution.java) | Easy
+| [[84] Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Rust](./84.LargestRectangleInHistogram/solution.rs) | Hard
 | [[86] Partition List](https://leetcode.com/problems/partition-list/) | [Java](./86.PartitionList/Solution.java) | Medium
 | [[88] Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./88.MergeSortedArray/Solution.java) | Easy
 | [[89] Gray Code](https://leetcode.com/problems/gray-code/) | [Java](./89.GrayCode/Solution.java) | Medium
